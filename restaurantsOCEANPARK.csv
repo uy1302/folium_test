@@ -1,0 +1,1075 @@
+﻿RestaurantID,Name,Address,Time,Price,Latitude,Longitude
+1,Bún Thủy - Trần Nhật Duật,"98 Trần Nhật Duật, Hoàn Kiếm, Hà Nội",,,21.0344311,105.8550895
+2,Trà Sữa Tocotoco - Thiên Đường Bảo Sơn,"A32-18 Khu A Geleximco Lê Trọng Tấn, Hoài Đức, Hà Nội",,,,
+3,Texas Chicken - Aeon Mall Hà Đông,"Tầng 1 Aeon Mall Hà Đông, P. Dương Nội, Hà Đông, Hà Nội",,,,
+4,Happy Lunch - Xuân La,"34 Ngách 36 Ngõ 28 Xuân La, P. Xuân La, Tây Hồ, Hà Nội",,,,
+5,Vịt 29 - Vịt Quay Bắc Kinh - Nguyễn Thượng Hiền,"29 Nguyễn Thượng Hiền, P. Nguyễn Du, Hai Bà Trưng, Hà Nội",,,21.0188681,105.8431002
+6,Bánh Mì Bami Bread - Hoàng Quốc Việt,"208 Hoàng Quốc Việt, P. Cổ Nhuế, Bắc Từ Liêm, Hà Nội",,,21.046258,105.7846567
+7,Trà Sữa Tocotoco - Nguyễn Hoàng,"107 Nguyễn Hoàng, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,21.0330994,105.7736267
+8,"Bếp Mẹ Thỏ - Bún, Miến & Phở Trộn Online","135 Ngõ Văn Chương, P. Văn Chương, Đống Đa, Hà Nội",,,21.020624,105.8363812
+9,Trà sữa LeeTee - Kem Trứng & Trà Hoa Quả - Láng Hạ,"1B Ngõ 87 Láng Hạ, P. Thành Công, Ba Đình, Hà Nội",,,21.0174975,105.8157795
+10,Trà Sữa Tiger Sugar Delivery - Đường Nâu Sữa Đài Loan - Trần Quốc Hoàn,"263 Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0416617,105.7816941
+11,JUICE BABY & TEA - Trà Và Nước Ép Hoa Quả Tươi,"31 Nguyễn Thị Định, Cầu Giấy, Hà Nội",,,21.0114195,105.8044809
+12,Tocotoco - Goldsilk Complex,"L1-01 Lk Goldsilk Complex, Số 430, P. Cầu Am, Hà Đông, Hà Nội",,,,
+13,Trà Sữa Mixue - Big C Thăng Long,"Gian Hàng 2K81 Trung Tâm Thương Mại Big C Thăng Long, Đường Trần Duy Hưng, P. Trung Hoà, Cầu Giấy, Hà Nội",,,,
+14,JapanDeli Express - Shophouse S07 Park 10 KĐT Vinhomes Times City Park Hill,"Shophouse S07 Park 10 KĐT Vinhomes Times City Park Hill , Lĩnh Nam, P. Mai Động, Hoàng Mai, Hà Nội",,,,
+15,Maru Korean - Tiệm Đồ Ăn Hàn Quốc & Trà Sữa - Lê Đại Hành,"25 Lê Đại Hành, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",,,21.0101139,105.8493565
+16,The Pizza Company - The Manor,"A004 - Tòa The Manor, Mễ Trì, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+17,Tiệm Cơm ChisnBa - Cơm Rang Zòn - Ngọc Hồi,"Số 8A, Nơ 2 Khu Đô Thị Pháp Vân, Ngõ 15 Đường Ngọc Hồi, P. Hoàng Liệt, Hoàng Mai, Hà Nội",,,,
+18,Sữa Chua Trân Châu Hạ Long - Tân Mai,"116 Tân Mai, P. Tân Mai, Hoàng Mai, Hà Nội",,,20.983543,105.8503078
+19,Thái Hạnh - Huy Mai - Thiên Đường Ăn Vặt,"112 D4 Ngõ 4C Đặng Văn Ngữ, P. Trung Tự, Đống Đa, Hà Nội",,,21.0098254,105.8321061
+20,TOUS les JOURS - Hoàng Đạo Thúy,"24T1B KĐT Trung Hoà - Nhân Chính, Hoàng Đạo Thúy, P. Trung Hòa, Cầu Giấy, Hà Nội",,,,
+21,"Highlands Coffee - Trà, Cà Phê & Bánh - Hà Nội Post Office","8 Lê Thạch, P. Tràng Tiền, Hoàn Kiếm, Hà Nội",,,21.0271707,105.8546962
+22,Bánh Gà Thần Thánh - 158 Hồng Mai,"11 Ngõ 158 Hồng Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",,,20.9982002,105.8529656
+23,Kem Dairy Queen - Royal City,"Tầng Hầm 2, Tầng Hầm B2, Royal City, 72A Nguyễn Trãi, P. Thượng Đình, Thanh Xuân, Hà Nội",,,,
+24,Cháo Dinh Dưỡng Hải Đăng - 21 Văn Chương 2,"21 Văn Chương 2, P. Văn Chương, Đống Đa, Hà Nội",,,21.022042,105.8370299
+25,With Chamei - Japanese Matcha & Houjicha - 11 Ngô Tất Tố,"Số 11 Ngô Tất Tố, P. Văn Miếu, Đống Đa, Hà Nội",,,21.0277014,105.8368313
+26,Bánh Tráng Hoàng Bèo - 22 Duy Tân,"22 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0306389,105.7857047
+27,"Fruits Mart - Trái Cây, Nước Ép, Sinh Tố - Lê Văn Lương","Sảnh Bể Bơi Việt Đức Complex, 39 Lê Văn Lương, P. Nhân Chính, Thanh Xuân, Hà Nội",,,,
+28,Kem Swensen's - Times City,"Tầng Hầm 1, Tầng B1 TTTM Times City, 458 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,,
+29,Chadee - Tiệm Trà Thái Đậm Vị - Trung Kính,"18 Trung Kính, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0156149,105.7963868
+30,Vua Bánh Mì Sài Gòn - Duy Tân,"44 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0306389,105.7857047
+31,Hoa Béo - Nem Nướng Ninh Hòa - Mai Động,"108 Mai Động, P. Mai Động, Hoàng Mai, Hà Nội",,,20.9910322,105.862514
+32,Tiệm Gà Rán Signature 19 - Korean Food,"52 Bùi Thị Xuân, Hai Bà Trưng, Hà Nội",,,21.0160703,105.8497455
+33,Mokchang - Đồ Ăn Hàn Quốc - Đức Thượng,"57 Thú Y, X. Đức Thượng, Hoài Đức, Hà Nội",,,,
+34,Gà Rán & Burger Lotteria - Nguyễn Tuân,"82 Nguyễn Tuân, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9966132,105.8050345
+35,Domino's Pizza - Xuân La,"D22 107 Xuân La, Bắc Từ Liêm, Hà Nội",,,,
+36,Cơm Thố Anh Nguyễn - Bán Đảo Linh Đàm,"Toà Nhà Nơ 6B, Đường Nguyễn Duy Trinh, Bán Đảo Linh Đàm, P. Hoàng Liệt, Hoàng Mai, Hà Nội",,,,
+37,"HN - Bún Bò Huế, Phở, Cơm Mì Xào - Lê Trọng Tấn","192/334/4 Lê Trọng Tấn, P. Định Công, Hoàng Mai, Hà Nội",,,,
+38,Quán Cơm Hạt Dẻ - Cơm Gà Online,"10 Ngõ 68 Triều Khúc, Thanh Xuân, Hà Nội",,,,
+39,Bảo Ngọc Food - Mì Trộn Indomie & Đồ Ăn Vặt - Chùa Quỳnh,"310 Chùa Quỳnh, P. Bạch Mai, Hai Bà Trưng, Hà Nội",,,21.0010169,105.8581395
+40,Cơm Phố - Cơm Gà & Cơm Bò - Dương Khuê,"11 Ngách 11 Ngõ 28 Dương Khuê, P. Mai Dịch, Cầu Giấy, Hà Nội",,,21.0353664,105.7723565
+41,Bún Đậu Mẹt Minh Thư - Văn Minh,"1 Ngõ Văn Minh, P. Mai Dịch, Cầu Giấy, Hà Nội",,,,
+42,Xuân Food - Mì Trộn Indomie - Tây Sơn,"Số 17 Ngõ 340 Tây Sơn, Đống Đa, Hà Nội",,,,
+43,"Hân - Tokbokki, Gà Sốt Cay Hàn Quốc & Ăn Vặt - Hồ Tùng Mậu","18 Ngõ 20 Hồ Tùng Mậu, P. Mai Dịch, Cầu Giấy, Hà Nội",,,21.0384817,105.7788445
+44,Cô Ba - Nem Nướng Nha Trang - Trích Sài,"245 Trích Sài, P. Bưởi, Tây Hồ, Hà Nội",,,21.0500141,105.8136203
+45,Tim Food - Mì Trộn Indomie & Đồ Ăn Vặt - Hồng Hà,"1045 Hồng Hà, P. Chương Dương Độ, Hoàn Kiếm, Hà Nội",,,,
+46,Cơm Sườn Cay HiMC - Hà Kế Tấn,"171 P. Hà Kế Tấn, P. Phương Liệt, Thanh Xuân, Hà Nội",,,20.996624,105.8366359
+47,Cơm Thố Bách Khoa - Khâm Thiên,"275 Khâm Thiên, Đống Đa, Hà Nội",,,21.0192241,105.8390581
+48,"Út Miền Nam - Mỳ Cay, Chân Gà Xốt Thái & Nem Chua Rán - Cầu Diễn","136/43/4 Cầu Diễn (Ngõ Quyết Tiến, Đằng Sau Trường Tiểu Học Minh Khai A, Ngọa Long), P. Minh Khai, Bắc Từ Liêm, Hà Nội",,,,
+49,Cúc - Cháo Sườn Sụn - Phạm Văn Đồng,"Số 6 Phạm Văn Đồng (gần ngõ 12 Phạm Văn Đồng - chân cầu Thăng Long), Tổ Dân Phố Tân Xuân 3, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",,,,
+50,Bún Bò Huế Hoàng Quân,"115A4 Thành Công, P. Thành Công, Ba Đình, Hà Nội",,,21.0204559,105.813175
+51,Bami Deli - Bánh Mì Hương Vị Bò Sốt - 381 Đội Cấn,"381 Đội Cấn, P. Liễu Giai, Ba Đình, Hà Nội",,,21.0345662,105.8202188
+52,Bún Đậu Mẹt Thủy Mít - C8 Thành Công,"104B - C8 Thành Công, P. Thành Công, Ba Đình, Hà Nội",,,,
+53,Pizza Ông Tây - Đỗ Quang,"45 Đỗ Quang, Cầu Giấy, Hà Nội",,,21.0111992,105.8035319
+54,Nhem Nhem - Đồ Ăn Vặt & Mì Trộn Indomie,"Số 2 Ngõ 43/66/9 Trung Kính, P. Trung Hoà, Cầu Giấy, Hà Nội",,,,
+55,BUMTRO - Bún Trộn Nam Bộ - Đào Tấn,"26 Ngõ 58 Đào Tấn, P. Cống Vị, Ba Đình, Hà Nội",,,21.0347764,105.8093214
+56,Bánh Mỳ Donner Kebab Bánh Mỳ Vũ - Ăn Vặt - Nguyễn Thị Định,"9D Ngõ 1 Nguyễn Thị Định, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0134926,105.8038092
+57,Mì Trộn Indomie 158 - Thành Công,"105 - C8 Thành Công, P. Thành Công, Ba Đình, Hà Nội",,,21.0204559,105.813175
+58,Bảo Bảo - Mì Trộn Indomie - Shop Online,"20 Ngách 63 Ngõ 355 Xuân Đỉnh, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",,,,
+59,Nem Nướng Nha Trang Ngọc Hằng - Hồng Mai,"113 Hồng Mai, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",,,,
+60,Hoa Béo - Nem Nướng Ninh Hoà - Xa La,"Số 19, Phố Xa La, P. Phúc La, Hà Đông, Hà Nội",,,20.9641923,105.7893537
+61,"Zen Zen - Cơm Gà, Gà Rán & Cơm Bò - Trần Duy Hưng","12A Ngõ 88 Trần Duy Hưng, P. Trung Hòa, Cầu Giấy, Hà Nội",,,21.0122884,105.8004931
+62,Tiệm Mì Indo - Kim Giang,"Số 71 Ngõ 64 Đường Kim Giang, P. Kim Giang, Thanh Xuân, Hà Nội",,,,
+63,Gà Tươi Mạnh Hoạch - Nguyễn Văn Lộc,"17LK6C Nguyễn Văn Lộc, (70 Nguyễn Văn Lộc), P. Mỗ Lao, Hà Đông, Hà Nội",,,,
+64,Cơm Tấm Delichi - Cơm Tấm Sườn Bì Chả - Dương Khuê,"19 Ngách 28/5 Dương Khuê, P. Mai Dịch, Cầu Giấy, Hà Nội",,,,
+65,"Bento Delichi - Cơm Gà Xối Mỡ, Cơm Gà Mắm Tỏi - Dương Khuê","17 Ngách 28/5 Dương Khuê, P. Mai Dịch, Cầu Giấy, Hà Nội",,,,
+66,Cô Tám - Cơm Rang & Cơm Tấm - 126 Hồng Mai,"126 Hồng Mai, Hai Bà Trưng, Hà Nội",,,,
+67,Cơm Tấm Phương Anh - Bạch Mai,"35 Bạch Mai, P. Ô Cầu Dền, Hai Bà Trưng, Hà Nội",,,,
+68,Duy Nhất - Phở Bò & Cơm Rang - Vĩnh Hưng,"51 Vĩnh Hưng, P. Vĩnh Hưng, Hoàng Mai, Hà Nội",,,20.9936836,105.879843
+69,Cô Ba - Nem Nướng Nha Trang - Minh Khai,"382 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,20.9968384,105.8695815
+70,Hoàng Huệ - Cơm Rang & Bún Bò Trộn - Chùa Láng,"14/22 Ngõ 185 Chùa Láng, Đống Đa, Hà Nội",,,21.0213292,105.8019586
+71,"Quán Cô Mai - Bún, Miến & Bánh Đa Các Loại","6 Ngách 1 Ngõ 63 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+72,Tiệm Gà Rán Óng Ánh - Ngọc Hà,"Số 6 Ngách 128, Ngõ 158 Ngọc Hà, P. Ngọc Hà, Ba Đình, Hà Nội",,,,
+73,Chị Cúc - Bún Trộn Nam Bộ - Nguyễn Tuân,"164 Nguyễn Tuân, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9982052,105.8034337
+74,Như Mây - Bánh Đa Trộn,"38 Phố Thọ Lão, P. Đống Mác, Hai Bà Trưng, Hà Nội",,,,
+75,Quán Ngon 286 - Bún Trộn Nam Bộ - Giáp Bát,"245 Giáp Bát, P. Giáp Bát, Hoàng Mai, Hà Nội",,,20.9859049,105.8423806
+76,Đức Food - Mì Trộn Indomie - Ngõ 95 Chùa Bộc,"110 Ngõ 95 Chùa Bộc, Đống Đa, Hà Nội",,,21.0059137,105.8279666
+77,Minh Phương - Nem Nướng Nha Trang - Vành Đai 2.5 Định Công,"Số 38 Đ. Vành Đai 2.5 Định Công, P. Định Công, Hoàng Mai, Hà Nội",,,,
+78,Burger King - Giảng Võ,"C4 Giảng Võ, P. Giảng Võ, Ba Đình, Hà Nội",,,21.0273688,105.8240355
+79,Cheese Coffee - Lê Đại Hành,"50A Đường Lê Đại Hành, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",,,,
+80,Gong Cha - Trà & Cà Phê - Hoàng Đạo Thúy,"Tầng 1, 34T Hoàng Đạo Thúy, P. Trung Hòa, Cầu Giấy, Hà Nội",,,,
+81,"Highlands Coffee - Trà, Cà Phê & Bánh - Eco Lake View","32 Đại Từ, P. Đại Kim, Hoàng Mai, Hà Nội",,,,
+82,Tian Long - Lẩu Bò Tươi Triều Châu Cơ Sở 1 - Trần Thái Tông,"107-D5 Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0319874,105.7876748
+83,"Snap Food - Cơm, Bún & Bánh Mì Healthy - Nguyễn Phong Sắc","87A Nguyễn Phong Sắc, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0382099,105.7902902
+84,"Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Hai Bà Trưng","23L Hai Bà Trưng, P. Hàng Bài, Hoàn Kiếm, Hà Nội",,,,
+85,Trà Sữa Tocotoco - Cầu Giấy,"320 Cầu Giấy, Cầu Giấy, Hà Nội",,,21.03032,105.801387
+86,KOI Thé - Cầu Giấy,"Số 377 Đường Cầu Giấy, Tổ 11, P. Dịch Vọng, Cầu Giấy, Hà Nội",,,,
+87,Guu Chicken - Cơm Gà & Gà Rán - Tam Khương,"3 Tam Khương, P. Khương Thượng, Đống Đa, Hà Nội",,,21.0040293,105.8285414
+88,The Alley - Trà Sữa Đài Loan - 48 Trần Phú,"48 Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9796919,105.7870297
+89,Gà Luộc & Gà Ủ Muối Hoa Tiêu & Gà Rán - Phùng Khoang,"Liền Kề 1 Lô 10 Ngõ 67 Phùng Khoang, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,,
+90,Ding Tea - Nguyễn Văn Huyên,"Nguyễn Văn Huyên (7 Ngõ 36 Hoàng Quốc Việt), P. Nghĩa Đô, Cầu Giấy, Hà Nội",,,,
+91,"Chè Ngon Đảo Chè - Kem Xôi Bơ, Trà Sữa & Ăn Vặt - Lê Văn Thiêm","Số 1 Ngõ 29 Lê Văn Thiêm, P. Nhân Chính, Thanh Xuân, Hà Nội",,,21.0022815,105.8031016
+92,Omy Bakery - Bánh Ngọt & Trà - Xuân Thủy,"1H13 Ngõ 130 Xuân Thuỷ, P. Dịch Vọng, Cầu Giấy, Hà Nội",,,21.0377506,105.7853316
+93,Susi's Cake - Bông Lan Trứng Muối - Tôn Đức Thắng,"73 Văn Chương 2, P. Tôn Đức Thắng, Đống Đa, Hà Nội",,,,
+94,"Ăn Vặt Quyết Sọt - Xiên Que, Mì Trộn & Trà Chanh - Khu Đô Thị Mới Định Công","CT1A- DN1 Khu Đô Thị Mới Định Công, Hoàng Mai, Hà Nội",,,,
+95,Trung Nguyên Legend - Hoàng Đạo Thúy,"17T2 - 17T3 Hoàng Đạo Thúy, P. Trung Hòa, Cầu Giấy, Hà Nội",,,,
+96,Đảo Chè - Chè Sạch Vị Ngon - Ngô Thì Nhậm,"17A Ngô Thì Nhậm, P. Quang Trung, Hà Đông, Hà Nội",,,20.9678516,105.7690593
+97,Quán Quen - Mỳ Chua Cay - 167 Tây Sơn,"P113 - Ký Túc Xá 5A Ngõ 167 Tây Sơn (Cuối Ngõ Rẻ Phải 5m), P. Quang Trung, Đống Đa, Hà Nội",,,,
+98,YH.TANG - Đệ Nhất Trà Sữa Nướng - Trần Phú,"64 Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9796919,105.7870297
+99,LAT - Latte & Trà Sữa - Giải Phóng,"Tòa A2 Ngõ 773 Đường Giải Phóng, P. Giáp Bát, Hoàng Mai, Hà Nội",,,,
+100,Mango Hello - Trà Xoài & Xôi Xoài - 04 Nguyễn Thị Định,"Số 4 Nguyễn Thị Định, P.Nhân Chính, Thanh Xuân, Hà Nội",,,21.0066402,105.8048089
+101,Nucafe - Lê Thánh Tông,"18A Lê Thánh Tông, P.Phan Chu Trinh, Hoàn Kiếm, Hà Nội",,,21.0202274,105.8583536
+102,Nem Chua Rán 36 Tạm Thương - Tây Sơn,"Số 6A Ngõ 178 Tây Sơn, P. Trung Liệt, Đống Đa, Hà Nội",,,,
+103,"Sành Rau Má, Nước Mía Sầu Riêng & Trà Bí Đao - Tam Khương","Số 83A Phố Tam Khương, P. Khương Thượng, Đống Đa, Hà Nội",,,,
+104,Matcha Vibe - Tiệm Trà Nhật Bản - 11A Lương Thế Vinh,"Số 11A Lương Thế Vinh, P. Văn Quán, Thanh Xuân, Hà Nội",,,,
+105,Trà Sữa Wait Tea - Cầu Diễn,"66 Ngõ 134 Cầu Diễn, Bắc Từ Liêm, Hà Nội",,,21.040814,105.7656389
+106,Chin Chin - Trà Sữa Đậm Vị & Trà Hoa Quả Tươi - Quang Trung,"451 Quang Trung, P. Phú La, Hà Đông, Hà Nội",,,20.9633364,105.7662905
+107,A-Phú - Mì Trộn Indomie & Ăn Vặt - Thanh Xuân Bắc,"102B - E11 Thanh Xuân Bắc (Ngõ 116 Lương Thế Vinh), P. Thanh Xuân Bắc, Thanh Xuân, Hà Nội",,,,
+108,NooShan - Trà Sữa Shan Tuyết Pha Máy - 42 Nguyễn Văn Tuyết,"42 Nguyễn Văn Tuyết, P. Ngã Tư Sở, Đống Đa, Hà Nội",,,,
+109,Minh Food - Nem Chua Rán Và Xiên Que,"38 Ngõ Thái Thịnh 1, P. Thịnh Quang, Đống Đa, Hà Nội",,,21.009009,105.8158545
+110,"Kiot Trạm - Cafe Muối, Trà Sữa & Trà Hoa Quả - 27 Trương Công Giai","Số 38/45 Trần Thái Tông, P. Dịch Vọng, Cầu Giấy, Hà Nội",,,,
+111,1000M - Trà & Trà Sữa Shan Tuyết Thượng Hạng - 45 Nguyễn Thị Định,"45 Nguyễn Thị Định, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.010429,105.8044051
+112,"Trà sữa Winggo - Trà Sữa Kem Trứng Nướng, Trà Hoa Quả & Matcha - 34 Trung Hòa","34 Trung Hòa, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0166399,105.7996324
+113,Trà Sữa Rosier - Fresh Tea & Coffee - Tô Hiến Thành,"63 Tô Hiến Thành, Hai Bà Trưng, Hà Nội",,,21.0131246,105.8481846
+114,Trà Sữa Đô Đô - Ngô Thì Nhậm,"34B Ngô Thì Nhậm, P. Hà Cầu, Hà Đông, Hà Nội",,,20.9687125,105.7691947
+115,Tiệm Trà Trái Cây Mê Ly - 100 Thái Thịnh,"100 Thái Thịnh, P. Láng Hạ, Đống Đa, Hà Nội",,,21.011036,105.8162307
+116,Trà Sữa Yi He Tang - 127 Nguyễn Thị Định,"Số 127 Nguyễn Thị Định, P. Trung Hòa, Cầu Giấy, Hà Nội",,,,
+117,Là Xôi - 318A Thái Hà,"318A Thái Hà, P. Trung Liệt, Đống Đa, Hà Nội",,,21.0144321,105.8183628
+118,"Bánh Tráng Happy - Mì Trộn, Đồ Ăn Vặt & Trà Sữa - 325 Vũ Tông Phan","325 Vũ Tông Phan, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.992084,105.8142024
+119,Trà Sữa Royaltea - 323 Xuân Đỉnh,"Số 12 Ngõ 323/75, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",,,21.0668993,105.7923986
+120,Hap Juice - Nước Ép & Sinh Tố - 175 Trương Định,"175 Trương Định, P. Trương Định, Hai Bà Trưng, Hà Nội",,,20.9951559,105.8490217
+121,Thuý Mẹt - Nem Chua Rán Tạm Thương - Ô Chợ Dừa,"92A Ô Chợ Dừa, Đống Đa, Hà Nội",,,21.0213924,105.8250224
+122,Gà Rán KFC - Bạch Mai,"373 Bạch Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",,,20.9997871,105.8503124
+123,Phúc Long 1B Nguyễn Hữu Huân,"1B Nguyễn Hữu Huân, P. Lý Thái Tổ, Hoàn Kiếm, Hà Nội",,,21.0351525,105.8544758
+124,Phê La - Trà & Cà Phê Đặc Sản - Đại La,"24 Ngõ 128C Đại La, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,20.9987099,105.8446289
+125,The Coffee House - Lê Thanh Nghị,"92 Lê Thanh Nghị, P. Bách Khoa, Hai Bà Trưng, Hà Nội",,,21.0031276,105.8476457
+126,Gà Rán Popeyes - Trần Quốc Hoàn,"69 Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0414696,105.786802
+127,ChanChan - Sữa Tươi Trân Châu Đường Đen Kem Trứng,"Số Nhà 23 Ngõ 63 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+128,"Bánh Cờ-Rếp Crepe, Mì Trộn & Đồ Ăn Vặt - Nguyễn Văn Linh","Số 16 Ngách 765/114 Nguyễn Văn Linh, Long Biên, Hà Nội",,,21.0315351,105.9198215
+129,Fruit Garden - Trái Cây Tươi Cắt Gọt Sẵn - Bắc Từ Liêm,"39 Ngõ 178 Cổ Nhuế, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",,,21.0642582,105.7817878
+130,Việt Nguyễn Coffee - Đại La,"10 Ngõ 35 - 37 Đại La, P. Trương Định, Hai Bà Trưng, Hà Nội",,,20.9956469,105.8488994
+131,"Nguyệt Phong FOOD - Bánh Chưng Rán, Bánh Mỳ Pate & Mì Trộn Indomie - Văn Chương","Số 66 Ngách 33 Ngõ Văn Chương 2, P. Văn Chương, Đống Đa, Hà Nội",,,,
+132,Gà Rán & Pizza 99,"10 Ngõ 38 Khúc Thừa Dụ, P. Dịch Vọng, Cầu Giấy, Hà Nội",,,,
+133,"Doo Foods - Burger, Gà Rán & Cơm Gà - Giải Phóng","37 ngõ 205 Giải Phóng, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,,
+134,"Tiệm Trà Chè Sky - Mì Trộn Indomie, Mì Chua Cay & Trà Chanh - Thượng Đình","6 Thượng Đình, P. Thượng Đình, Thanh Xuân, Hà Nội",,,20.9986688,105.8170176
+135,"Hủ Tiếu Thái Lan, Trà Sữa Thái, Ăn Vặt - Pi Thai - 101A Phạm Ngọc Thạch","101A Phố Phạm Ngọc Thạch, Tổ 50, P. Phương Liên, Đống Đa, Hà Nội",,,,
+136,"Tiệm Trà Thủ Đô - Trà Trái Cây Tươi Không Siro, Trà Sữa & Nước Ép - 69 Nguyễn Hoàng","Số 69 Nguyễn Hoàng, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,21.0330994,105.7736267
+137,Coco Nama Tea Bar - Nguyễn Khánh Toàn,"74A Nguyễn Khánh Toàn, P. Quan Hoa, Cầu Giấy, Hà Nội",,,21.0383475,105.8002309
+138,AI Coffee - 145 Nhật Chiêu,"145 Nhật Chiêu, P. Nhật Tân, Tây Hồ, Hà Nội",,,21.0712057,105.813965
+139,Duy Food - Mì Trộn Indomie,"Số 3 Ngõ 67 Trần Phú, P. Văn Quán, Hà Đông, Hà Nội",,,,
+140,Okitaco - Cơm Taco Okinawa,"S402.01S09 Vinhomes Smart City, P. Tây Mỗ, Nam Từ Liêm, Hà Nội",,,,
+141,"Le Pain Lee - Burger, Gà Rán & Cơm Gà - Nguyễn Xiển","65 Ngõ 161 Nguyễn Xiển, P. Hạ Đình, Thanh Xuân, Hà Nội",,,20.9869735,105.80745
+142,"Tiệm Bé Cá – Trà Sữa, Mỳ Ý & Sandwich","Số Nhà 8 Ngõ 583 Đường Nguyễn Trãi, Tổ 13, P. Thanh Xuân Nam, Thanh Xuân, Hà Nội",,,,
+143,Quang Food - Mì Trộn Indomie - Ngõ Chợ Khâm Thiên,"Số 30 Ngõ 143 Chợ Khâm Thiên, P. Trung Phụng (Đối diện UBND phường Trung Phụng), Đống Đa, Hà Nội",,,,
+144,Hà Juice - Nước Ép & Trà Trái Cây Tươi,"18 Ngõ 105 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+145,"Sữa Hạt Mix - Đậu Nành, Rau Má Mix & Trà Sữa Gạo - 126 Phúc Tân","126 Phúc Tân, P. Phúc Tân, Hoàn Kiếm, Hà Nội",,,21.0368566,105.8548044
+146,"Dương Dương - Lẩu Tokbokki, Mỳ Cay, Kimbap - Đồng Me","Số Nhà 46 Ngõ 32 Đồng Me, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,,
+147,The Chum Coffee - 42 Trần Quý Kiên,"42 Trần Quý Kiên, Cầu Giấy, Hà Nội",,,21.0359849,105.7923574
+148,Chè Bưởi Tư Đỉnh - Lương Thế Vinh,"68 Lương Thế Vinh, P. Thanh Xuân Bắc, Thanh Xuân, Hà Nội",,,20.9908328,105.7984815
+149,"Hạt Gạo Food - Cơm Cuộn Rong Biển, Mỳ Ý & Đồ Ăn Nhanh - 286 Nguyễn Xiển","CT3 Chung Cư Ecogreen, 286 Nguyễn Xiển, X. Tân Triều, Thanh Trì, Hà Nội",,,,
+150,Trà Sữa Tocotoco - 271 Nguyễn Khang,"271 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0217139,105.7997294
+151,San Tokbokki - Ẩm Thực Hàn Quốc - Trần Quốc Hoàn,"3A2 Ngõ 215 Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0413436,105.7826913
+152,"Tiệm Phương Linh - Mì Trộn Indomie, Bánh Mì Pate & Nước Ép - Đồng Tiến","Số 73 Đường Đồng Tiến, Hoài Đức, Hà Nội",,,,
+153,Moi Cheese - Trà Sữa Full Topping - Số 7 Xuân Thuỷ,"Số 7 Xuân Thủy, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0366416,105.7852446
+154,BÁNH GÀ HUA - CHÙA BỘC,"42 Ngách 8 Ngõ 95 Chùa Bộc, P. Trung Liệt, Đống Đa, Hà Nội",,,21.0065345,105.8273951
+155,Tiệm Trà BốpBi - Xuân Đỉnh - .,"489 Xuân Đỉnh , Bắc Từ Liêm, Hà Nội",,,21.0748042,105.7906068
+156,"16H - Milk, Tea & Coffee - Thanh Xuân","109 E8 Thanh Xuân Bắc, Thanh Xuân, Hà Nội",,,,
+157,KAMPONG - Cơm gà Hải Nam - Ngoại Giao Đoàn,"Tòa N03 - T3, Ngoại Giao Đoàn, Bắc Từ Liêm, Hà Nội",,,,
+158,TacoZone - Nguyễn Thái Học,"129 Nguyễn Thái Học, P. Điện Biên, Ba Đình, Hà Nội",,,21.0293108,105.8400223
+159,Pizza Home - Thái Phiên,"41 Thái Phiên, Lê Đại Hành, Hà Nội, Hai Bà Trưng, Hà Nội",,,21.0105547,105.8509022
+160,Mr. Spaghetti - Nguyễn Thái Học,"129 Nguyễn Thái Học, Đống Đa, Hà Nội",,,21.0304481,105.8360423
+161,Bếp Trên Mây Cloud Cook - Nguyễn Thái Học,"129 Nguyễn Thái Học, Ba Đình, Hà Nội",,,21.0293108,105.8400223
+162,SugarKing - Đường Nâu Đài Loan - Linh Đàm,"ki Ốt 9 D1 CT2 Tây Nam Linh Đàm, P. Hoàng Liệt, Hoàng Mai, Hà Nội",,,,
+163,Thanh Food - Mì Trộn Indomie & Bánh Mì - Tây Sơn,"11 Ngõ 252/34 Tây Sơn, P. Trung Liệt, Đống Đa, Hà Nội",,,,
+164,Tâm Food - Mì Trộn Indomie & Bánh Mì - Tây Sơn,"15 Ngõ 252/34 Tây Sơn, P. Trung Liệt, Đống Đa, Hà Nội",,,,
+165,Cô Quỳnh - Chè Mùa Hè & Sinh Tố Nước Ép,"307 Vũ Tông Phan, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.9928854,105.8144948
+166,Thanh Tâm - Chuyên Trà Sữa & Đồ Ăn Vặt - Shop Online,"15 Ngõ 252/34 Tây Sơn, P. Trung Liệt, Đống Đa, Hà Nội",,,,
+167,Bánh Mì Nem Khoai Và Bánh Gà - Minh Châu,"84 Ngõ 32 Đỗ Đức Dục, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,21.0099912,105.7811325
+168,Fish Love Cake - Bánh Sinh Nhật - Hồng Hà,"10 Ngõ 195 Hồng Hà, P. Phúc Tân, Hoàn Kiếm, Hà Nội",,,21.0404965,105.8536157
+169,Super Chicken - Tiệm Gà Online,"Ngách 33 Ngõ 9 Đào Tấn, P. Ngọc Khánh, Ba Đình, Hà Nội",,,21.0325185,105.8063858
+170,Linh Nhi Juice - Nước Ép & Sinh Tố Nguyên Chất,"101 Quan Hoa, Cầu Giấy, Hà Nội",,,21.0369183,105.801915
+171,Bánh Mì Que - Chuẩn Vị Hải Phòng - Phố Nguyễn Phạm Tuân,"25 Phố Nguyễn Phạm Tuân, P. Điện Biên, Ba Đình, Hà Nội",,,21.0334545,105.8326144
+172,Nhóp Nhép - Thế Giới Đồ Ăn Vặt Online - Doãn Kế Thiện,"Số 7 Ngõ 221 Doãn Kế Thiện, P. Mai Dịch, Cầu Giấy, Hà Nội",,,21.0416349,105.7754753
+173,Nem Lụi Huế - Ăn Là Like - Thụy Khuê,"8 Ngõ 4 Thụy Khuê (Ngõ Xưởng Phim Tây Hồ), P. Thụy Khuê, Tây Hồ, Hà Nội",,,,
+174,Bún Cá Gia Quất - Bún & Bánh Đa - Gia Quất,"1 Ngõ 54 Phố Gia Quất, P. Thượng Thanh, Long Biên, Hà Nội",,,21.0541416,105.8782368
+175,Cà Phê Mang Đi - Khu Đô Thị Đô Nghĩa (Cạnh Vườn Lan Chí Tuệ),"Khu Đô Thị Đô Nghĩa, Hà Đông, Hà Nội",,,20.9587633,105.7354739
+176,DH PLUS - Mì Trộn Indomie & Ăn Vặt,"Số 21 Ngõ 4 Ao Sen, P. Mộ Lao, Hà Đông, Hà Nội",,,,
+177,Bami King - Bánh Mì Bò Nướng & Cơm Thố - An Trạch,"116 An Trạch, P. Cát Linh, Đống Đa, Hà Nội",,,21.0275902,105.8305036
+178,Mì Trộn Thu Trang - Trần Khát Chân,"Ngõ 30 Trần khát Chân Kéo Dài, P. Bạch Đằng (Đối diện Mazda ô tô), Hai Bà Trưng, Hà Nội",,,,
+179,Cháo Sườn Sụn 918 - Phúc Đồng,"10A9 Khu Tập Thể 918 Phúc Đồng, P. Phúc Đồng, Long Biên, Hà Nội",,,,
+180,MiChuKa - Mì Chua Cay & Đồ Ăn Vặt - Khâm Thiên,"65 Ngõ 100 Ngách 59 Chợ Khâm Thiên, Đống Đa, Hà Nội",,,,
+181,Bánh Gà Phùng Khoang,"10 Ngõ 32 Phùng Khoang, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,,
+182,Dimsum Điểm Tâm Đài Loan - Phố Định Công Thượng,"8C Ngách 1, Ngõ 88 Phố Định Công Thượng, Hoàng Mai, Hà Nội",,,,
+183,Phương Trinh - Cơm Ngon,"120 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.9919821,105.8186341
+184,"Bếp Nhà Thỏ - Chân Gà Sốt Thái, Gà Ủ Muối & Mì Trộn Indomie - Bùi Xương Trạch","120D Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.9919821,105.8186341
+185,Bánh Mì & Xôi - Huấn Hoa Cúc,"50 Ngõ 185 Chùa Láng, Đống Đa, Hà Nội",,,21.0213292,105.8019586
+186,Duy Tùng - Mì Trộn Indomiee - Thái Hà,"Số 19 Nghách 69 Ngõ 117 Thái Hà, Đống Đa, Hà Nội",,,,
+187,Bún Đậu Mẹt & Bún Chả Hà Nội - Hoàng Phố,"26 Ngõ 66 Hồ Tùng Mậu, P. Mai Dịch, Cầu Giấy, Hà Nội",,,21.0390848,105.7771027
+188,Tiệm Mì Indo - Đặng Văn Ngữ,"91 Đặng Văn Ngữ, Đống Đa, Hà Nội",,,21.0091087,105.8315221
+189,Bánh Mì Thập Cẩm - Thanh Nga - Linh Lang,"96 Linh Lang, P, Cống Vị, Ba Đình, Hà Nội",,,21.035035,105.8104137
+190,"Sinh Tố, Nước Ép & Trà Trái Cây AYE - Nguyễn Ngọc Vũ","10a/139 Nguyễn Ngọc Vũ, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0090615,105.8124783
+191,Cô Hải - Nước Ép & Sinh Tố Hoa Quả Tươi,"Số Nhà 15 Ngõ 252 Ngách 34 Tây Sơn, P. Trung Liệt, Đống Đa, Hà Nội",,,,
+192,Cô Hoa - Cơm Gà & Đồ Ăn Vặt,"3 Võ Quý Huân, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội",,,21.0479369,105.7500848
+193,Sasuke - Mì Cay & Mì Chua Cay - Chợ Khâm Thiên,"Số 25 Ngõ 100 Ngách 59 Chợ Khâm Thiên, Đống Đa, Hà Nội",,,,
+194,Lẩu Thái - Lẩu Thái Hải Sản 35,"Số 14 Ngõ 35 Thái Thịnh, p. Ngã Tư Sở, Đống Đa, Hà Nội",,,,
+195,Nước Ép Sinh Tố - Đình Thôn,"14A Ngõ 154 Đình Thôn, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,21.0184457,105.7753595
+196,Hằng Thịnh - Cơm Rang Giòn - 211 Phúc Tân,"211 Phúc Tân, P. Phúc Tân, Hoàn Kiếm, Hà Nội",,,21.0367032,105.8551504
+197,Bếp KOKA - Cơm Đa Dạng & Đồ Ăn Vặt - Dương Văn Bé,"Số 57 Ngõ 94 Phố Dương Văn Bé, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,,
+198,MinMax Fresh - Chè Khoai Dẻo Online,"77A Hồng Mai, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",,,,
+199,Sam Fruits - Hoa Quả Gọt Sẵn - Nước Ép Trái Cây & Đồ Ăn Vặt,"Số 119 Ngõ Thái Thịnh 1, P. Thịnh Quang, Đống Đa, Hà Nội",,,,
+200,Vua Cháo Sườn Sụn & Đồ Ăn Vặt - Shop Online,"3 Ngách 17 Ngõ 100 Sài Đồng, P. Sài Đồng, Long Biên, Hà Nội",,,,
+201,ANDU - Chân Gà Nướng - Nguyễn Chí Thanh,"6 Ngõ 107 Đường Nguyễn Chí Thanh, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+202,"Bánh Tôm Hà Thành - Gỏi Cuốn, Bánh Tôm & Bánh Gối - 190D Yên Bình","Số 190D Yên Bình, P. Phúc La, Hà Đông, Hà Nội",,,,
+203,Tiệm Trà Dâu Tây Đông Du,"Số Nhà 3, Ngõ 402 Ngách 76/20 Mỹ Đình, P. Mỹ Đình, Nam Từ Liêm, Hà Nội",,,,
+204,"Quán Tía Tô - Bún Riêu Ốc Cá, Cháo Lòng & Bún Đậu Mắm Tôm","Số 37 Ngõ 2 Kiều Mai, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội",,,,
+205,An An - Mỳ Kim Chi & Cơm Văn Phòng - Ngõ 2 Ao Sen,"Số 9 Ngõ 2 Ao Sen, P. Mộ Lao, Hà Đông, Hà Nội",,,20.981458,105.7883192
+206,HIẾU FOOD - Nem Chua Rán & Trà Sữa - Tây Sơn,"Số Nhà 18, Ngách 252/34 Tây Sơn, P. Trung Liệt, Đống Đa, Hà Nội",,,,
+207,Bà Thanh - Tây Sơn,"Số nhà 15 ngách 252/34 Tây Sơn, P. Trung Liệt, Đống Đa, Hà Nội",,,,
+208,Mr.Eco Salad Healthy - Food & Drinks - Đặng Tất,"11 Đặng Tất, P. Quán Thánh, Ba Đình, Hà Nội",,,21.0420607,105.8380408
+209,Bản Gác Food - Trâu Gác Bếp - Vinhomes Smart City,"Toà S401 - Vinhomes Smart City, P. Tây Mỗ, Nam Từ Liêm, Hà Nội",,,21.0049205,105.7397274
+210,Trà Chanh Smile,"14A Ngõ 154 Đình Thôn, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,21.0184457,105.7753595
+211,Trà Chanh Giã Tay Chị Đẹp - Trà Hoa Quả Tươi - 10 Ngõ 27 Phan Văn Trường,"Số 10 Ngõ 27 Phan Văn Trường, Cầu Giấy, Hà Nội",,,21.0384158,105.785684
+212,Nem Nướng Nha Trang Anh Tư - Nguyễn Văn Cừ,"29 ngõ 67 Nguyễn Văn Cừ, P. Ngọc Lâm, Long Biên, Hà Nội",,,21.0417245,105.8680011
+213,Ăn Vặt Cay Cay - Ăn Vặt Nội Địa Trung - Phố Đốc Ngữ,"Nhà Số 3, Ngõ 127 Phố Đốc Ngữ, P. Liễu Giai, Ba Đình, Hà Nội",,,,
+214,Hidu House - Mỳ Ý & Pizza - Lương Định Của,"27 Ngõ 28 Lương Định Của, P. Kim Liên, Đống Đa, Hà Nội",,,21.0050038,105.8346773
+215,"Cơm Gà, Bánh Mì Bami & Đồ Uống - Đức Diễn","26 Đức Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội",,,21.0518162,105.751304
+216,Cháo Dinh Dưỡng Thùy Linh - Phan Đình Giót,"117 Phan Đình Giót, P. La Khê, Hà Đông, Hà Nội",,,20.9663683,105.7655434
+217,Bánh Mì Sài Gòn - 19Y Thụy Khuê,"19y Thụy Khuê, P. Thụy Khuê, Tây Hồ, Hà Nội",,,21.0409721,105.8262999
+218,Trà Bí Đao An Nhiên - Giáp Nhất,"67 Giáp Nhất, P. Thượng Đình, Thanh Xuân, Hà Nội",,,21.0049785,105.8164781
+219,Bánh Mì Dân Tổ - Bánh Mì - Ngõ Tự Do,"Số 1 Ngõ 56 Ngõ Tự Do, P. Trương Định, Hai Bà Trưng, Hà Nội",,,,
+220,The An Eat Clean - Healthy Gạo Lứt,"Số 13 Lý Thường Kiệt, P. Phan Chu Trinh, Hoàn Kiếm, Hà Nội",,,21.0213885,105.8570849
+221,"Bánh Mỳ Doner Kebeb, Nước Ép Trái Cây & Đồ Ăn Vặt - Bùi Xương Trạch","99A Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.9919821,105.8186341
+222,Hạnh Food - Nem Chua Rán Ăn Vặt,"3 Ngõ 5 Trần Nhật Duật, P. Quang Trung, Hà Đông, Hà Nội",,,,
+223,"Quán Nhà Kẹo - Mì Indomie, Mì Trộn & Đồ Ăn Vặt - 18 Ngõ 575 Kim Mã","Nhà 1A Ngách 18/575 Kim Mã, P. Kim Mã, Ba Đình, Hà Nội",,,,
+224,"Bánh Cá Taiyaki, Sandwich & Bánh Mì Muối Ớt - Văn Chương","207 Ngõ Văn Chương, P. Văn Chương, Đống Đa, Hà Nội",,,21.020624,105.8363812
+225,3T Food Chân Gà Sốt Thái - Vương Thừa Vũ,"24 Ngõ 184 Vương Thừa Vũ, P. Khương Trung, Thanh Xuân, Hà Nội",,,,
+226,Briques - Ngõ Gạch,"9 Ngõ Gạch, P. Hàng Buồm, Hoàn Kiếm, Hà Nội",,,21.0362758,105.8504263
+227,"Tiệm Ăn Vặt Mẹ Ken - Xiên Que, Bánh Tráng & Nước Ép - 181 Hoàng Hoa Thám","181 Hoàng Hoa Thám, P. Ngọc Hà, Ba Đình, Hà Nội",,,21.0412645,105.8229089
+228,Bánh Mỳ Thịt Nướng - Nước Ép Nguyên Chất,"295 Lê Xá, X. Đa Tốn, Gia Lâm, Hà Nội",,,,
+229,Shin - Mì Cay & Gà Rán Sốt Hàn - Khâm Thiên,"32 Ngõ cống Trắng, Phố Khâm Thiên, P. Trung Phụng, Đống Đa, Hà Nội",,,,
+230,Xôi Xoài Dì LOY - Phạm Ngọc Thạch,"P3B - B10 Ngõ 43 Phạm Ngọc Thạch, P.Kim Liên, Đống Đa, Hà Nội",,,,
+231,Cơm Việt Gren Mart - Lạc Long Quân,"Số 10 Ngõ 127 Lạc Long Quân, P. Nghĩa Đô, Cầu Giấy, Hà Nội",,,21.0520207,105.8080873
+232,Ăn Vặt Hồ Tây 음식 - Ăn Vặt - Lạc Long Quân,"4 Ngõ 472 Lạc Long Quân, P. Nhật Tân, Tây Hồ, Hà Nội",,,21.0724244,105.8134965
+233,Tiến Thành - Mỳ Trộn Indomie - Võ Quý Huân,"Số 3 Ngõ 25 Võ Quý Huân, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội",,,,
+234,Bún Chả & Bún Đậu Bi Béo - Sài Đồng,"Số 8B Ngõ 100/17 Sài Đồng, P. Sài Đồng, Long Biên, Hà Nội",,,,
+235,December Tea - Trà Hoa Quả Nhiệt Đới & Mì Trộn Indomie - Định Công,"SH6 Lavender, Ngõ 176 Định Công, P. Định Công, Hoàng Mai, Hà Nội",,,,
+236,Bếp Nhà Châu - Eatclean & Healthy,"Số 84 Ngõ 32 Đỗ Đức Dục, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,,
+237,Nhà Hàng Gimbab - Bibimbab - Nguyễn Trãi,"H1-3 Ngõ 445 Nguyễn Trãi, P. Thanh Xuân Nam, Thanh Xuân, Hà Nội",,,,
+238,Phở Cuốn Trang Minh - Phú Diễn,"15 Ngõ 182 Phú Diễn, Bắc Từ Liêm, Hà Nội",,,21.0468453,105.7642223
+239,"Tiểu Phàm - Chè, Sinh Tố & Nước Ép - Âu Cơ","Số Nhà 24 Ngõ 172 Đường Âu Cơ, Tây Hồ, Hà Nội",,,,
+240,Gà Không Lối Thoát - Mẹt Gà Tuyển,"6G Ngõ 142 Nguyễn Đình Hoàn, P. Nghĩa Đô, Cầu Giấy, Hà Nội",,,,
+241,"54 Foods - Bánh Mì, Xôi & Cơm Thố - Mễ Trì Thượng","48 Mễ Trì Thượng, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,21.0080948,105.7769275
+242,GÀ MẸT XÔI CHIM GÀ BÓ XÔI THU HOA - Ăn Vặt - Lê Trọng Tấn,"32A Ngõ 192 Lê Trọng Tấn, P. Định Công, Thanh Xuân, Hà Nội",,,20.9895848,105.8273045
+243,Thuỷ Mít - Cơm Đảo Văn Phòng - Mỹ Đình,"152 Ngõ 322 Đường Mỹ Đình, Nam Từ Liêm, Hà Nội",,,21.0220015,105.7706407
+244,Tiệm Bánh Guilty Pleasure - Su Kem Vỏ Giòn - Hà Đông,"Số 12 Ngõ 7 Phố Ao Sen, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9823441,105.7874797
+245,Bếp Nhà Gừng - Keto & More - Phùng Chí Kiên,"Số 40 Ngách 14 Ngõ 61 Phùng Chí Kiên, P. Nghĩa Đô, Cầu Giấy, Hà Nội",,,,
+246,Cơm Gà Hải Thuỷ - Bún Đậu Mắm Tôm & Bún Chả,"12B Ngõ 1 Trần Văn Chuông, P. Yết Kiêu, Hà Đông, Hà Nội",,,,
+247,"Tiệm Mỳ Online 24/7 - Mỳ Chua Cay, Mỳ Cay & Mỳ Trộn - 11 Ngõ 268/2 Ngọc Thụy","Phòng 604 Chung Cư Nhật Minh Anh, Số 11 Ngõ 268/2 Tổ 13 Phố Ngọc Thụy, P. Ngọc Thụy, Long Biên, Hà Nội",,,,
+248,Bánh Mì Cô Lan - 25 Bà Triệu,"25 Bà Triệu, P. Nguyễn Trãi, Hà Đông, Hà Nội",,,,
+249,Thế Giới Khay Hoa Quả Gọt Sẵn - Bánh Mỳ Kẹp & Đồ Ăn Vặt - Thái Thịnh 1,"121 Thái Thịnh 1, P. Thịnh Quang, Đống Đa, Hà Nội",,,21.009009,105.8158545
+250,Hải Sản Đại Dương - Mực Khô & Trâu Gác Bếp - Ngõ 59 Mễ Trì,"16/59 Mễ Trì, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,21.0080948,105.7769275
+251,Nước Ép & Nước Cam Nguyên Chất - Top 1,"7 Ngách 47 Ngõ Thái Hà, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+252,Trà Bí Đao Cát Tiên - Lê Hồng Phong,"87 Lê Hồng Phong, P. Nguyễn Trãi, Hà Đông, Hà Nội",,,,
+253,Trà Sữa Tiger Sugar - Mễ Trì Thượng,"37B Phố Mễ Trì Thượng, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,21.0080948,105.7769275
+254,Quán Cơm Ngon - Cơm Rang Đùi Gà,"20 Ngõ 33 Phan Văn Trường, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0389036,105.7856248
+255,Bánh Mì & Xôi Ngọc - Nguyễn Khang,"Đối Diện Số 265 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội",,,,
+256,Pizza Huu - Pizza & Spaghetti - Vĩnh Hưng,"124 Ngõ 179 Vĩnh Hưng, P. Vĩnh Hưng, Hoàng Mai, Hà Nội",,,20.9880828,105.8766001
+257,Bún Đậu Mắm Tôm - 171 Hà Kế Tấn,"171 Hà Kế Tấn, P. Phương Liệt, Thanh Xuân, Hà Nội",,,20.996624,105.8366359
+258,Gà Rán & Gà Lắc Hương Vị Việt,"86 Kim Mã, Ba Đình, Hà Nội",,,21.0314542,105.8249046
+259,Tmore - Tiệm Trà Chanh - Vĩnh Tuy,"Shop N05 - Ngõ 124 Vĩnh Tuy, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,,
+260,Sinh Tố & Nước Ép 90s - Xã Đàn,"76D Ngõ Xã Đàn 2, Đống Đa, Hà Nội",,,21.0156775,105.8311158
+261,TocoToco Bích Hoà - Trà Sữa - Cụm Công Nghiệp Thanh Oai,"Cụm Công Nghiệp Thanh Oai, Hà Đông, Hà Nội",,,20.928686,105.7578667
+262,Chick&go - Gà Rán & Pizza - Tân Mai,"Số 16 Ngõ 240 Tân Mai, P. Tân Mai, Hoàng Mai, Hà Nội",,,20.9797651,105.84983
+263,"GÀ MẸT NGON, GÀ CUỐN XÔI BÍCH HỢI - Lê Trọng Tấn","155A Ngõ 192 Lê Trọng Tấn, P. Định Công, Thanh Xuân, Hà Nội",,,20.9895848,105.8273045
+264,Hương Tròn - Mì Trộn Indomie & Đồ Ăn Vặt - Bùi Xương Trạch,"81 Ngõ 1 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.9932549,105.8207553
+265,Gà Rán Thái Lan & Lạp Xưởng Nướng Đá - Yên Hòa,"204 Yên Hòa, Cầu Giấy, Hà Nội",,,21.0218105,105.7924411
+266,"Xôi Xéo, Bánh Chưng & Bánh Giò - Mộc Quán","3B Ngõ 167 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0360211,105.7860383
+267,Coffee CHU - Hồ Đắc Di,"2B/ 14 Hồ Đắc Di, P. Nam Đồng, Đống Đa, Hà Nội",,,21.0106272,105.8281783
+268,Đồ Ăn Vặt & Cá Viên Chiên - Ngõ Cẩm Văn,"Số 6 Ngách 29 Ngõ Cẩm Văn, P. Hàng Bột, Đống Đa, Hà Nội",,,,
+269,"Cơm Rang, Phở Bò Tiến Sen","28 Ngõ 120 Hoàng Mai, P. Hoàng Văn Thụ, Hoàng Mai, Hà Nội",,,20.9915484,105.8521992
+270,Bombino’s Pizza - Sunshine Garden,"Shophouse S05A Toà G2 Sunshine Garden, Dương Văn Bé, Hai Bà Trưng, Hà Nội",,,,
+271,Ăn Vặt Jerry - Ăn Vặt - 116 Khương Đình,"116 Khương Đình, P. Hạ Đình, Thanh Xuân, Hà Nội",,,20.9929118,105.8138498
+272,Little Kitchen - Lẩu Thái & Đồ Thả Lẩu Ngon,"36B ngõ 58 Đào Tấn, P. Cống Vị, Ba Đình, Hà Nội",,,,
+273,Thanh Hoa - Nem Nướng Nha Trang - Xuân La,"Số 6 ngõ 38 Xuân La, P. Xuân La, Tây Hồ, Hà Nội",,,21.0711259,105.8063101
+274,Ngan Ngon - Ngan Cháy Tỏi Phố Cổ,"19B Ngõ 505 Trần Khát Chân, P. Thanh Nhàn, Hai Bà Trưng, Hà Nội",,,21.0077427,105.8523272
+275,"Pha Lê Juice - Nước Ép Hoa Quả, Sinh Tố & Cafe - 42D Lý Thường Kiệt","42D Lý Thường Kiệt, P. Trần Hưng Đạo, Hoàn Kiếm, Hà Nội",,,21.0236404,105.8495971
+276,Trà Sữa Nướng & Trà Hoa Quả - Tài Chính,"433 Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",,,21.0748042,105.7906068
+277,Gà Rán & Gà Ủ Muối Hoa Tiêu - Hoàng Ngân,"Số 1 Ngõ 80 Hoàng Ngân, P. Trung Hòa, Cầu Giấy, Hà Nội",,,,
+278,"Mixiu Food - Mì Trộn Indomie, Ăn Vặt & Trà - Định Công Hạ","Số 32 Hẻm 99/110/85 Định Công Hạ, P. Định Công, Hoàng Mai, Hà Nội",,,,
+279,Bánh Mì Cô Lan - 46 Chiến Thắng,"46 Chiến Thắng, P. Văn Quán, Hà Đông, Hà Nội",,,20.9806085,105.7949949
+280,Cá Hồi Ngâm Tương Hàn Quốc - S2 Fresh Food HN,"62E/358 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.9843261,105.8185867
+281,Thèm Quá(n) - Chân Gà Sả Tắc & Đồ Ăn Vặt - Vĩnh Tuy,"67 Ngõ 100 Nguyễn Văn Viên, Hai Bà Trưng, Hà Nội",,,21.0009843,105.8737963
+282,Ốc 29 - Ốc Hải Sản & Đồ Ăn Vặt - 90 Võ Thị Sáu,"Số 90 Võ Thị Sáu, Hai Bà Trưng, Hà Nội",,,,
+283,Phượng Coffee - Đồ Uống - Cự Lộc,"Số 2 Cự Lộc ( Đối Diện Số 35 ) , Thanh Xuân, Hà Nội",,,,
+284,"Trúc Thanh Sài Gòn - Bánh Mỳ, Xôi Mặn & Mỳ Trộn - Kim Mã thượng","4 Ngõ 2 Kim Mã thượng, P. Cống Vị, Ba Đình, Hà Nội",,,,
+285,Luca Food Shop - Mì Trộn Indomie & Đồ Ăn Vặt - Hào Nam,"10 Ngách 20/2 Ngõ 20 Hào Nam, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,,
+286,Sữa Chua Bà Phương,"2 Ngách 54/9 Ngõ 54 Hoa Bằng, P. Yên Hoà, Cầu Giấy, Hà Nội",,,,
+287,Gà Rán Taiwan Hot Chicken & Tea - Khương Trung,"261 Khương Trung, P. Khương Trung, Thanh Xuân, Hà Nội",,,20.995029,105.8168439
+288,Thanh Cảnh - Bánh Mì Chảo,"86/132 Phố Nguyên Xá, P. Minh Khai, (Đi Vào Ngõ 296 Cầu Diễn 100m Rẽ Phải 50m), Bắc Từ Liêm, Hà Nội",,,,
+289,Quán Ăn Vặt Của Ba Bơ - Mỳ Trộn & Đồ Ăn Vặt - Đống Đa,"Số nhà 6 ngách 44/21 Nguyễn Phúc Lai, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,,
+290,Dừa Xiêm & Mía Đá - Lê Thanh Nghị,"254 Lê Thanh Nghị, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,21.0018542,105.8422217
+291,Ngày Xưa Anh Béo - Bánh Giò - Trần Quang Diệu,"1G Trần Quang Diệu, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,21.0154116,105.8235769
+292,"San Quán - Đồ Ăn Vặt Xiên Que, Mì Cay & Trà Chanh - Lê Đức Thọ","Số 6 Ngõ 7 Đường Lê Đức Thọ, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,,
+293,50 Dessert - Dừa Dầm & Kem Bơ,"50 Trần Xuân Soạn, Hai Bà Trưng, Hà Nội",,,21.017044,105.8542896
+294,Tiệm Mì Aji - Mì Trộn Indomie - Triều Khúc,"68/61 Triều Khúc, P. Tân Triều, Thanh Trì, Hà Nội",,,20.9841617,105.7998712
+295,Bánh Bao Phomai ZaiZai - Tân Mai,"195 Tân Mai, P. Tân Mai, Hoàng Mai, Hà Nội",,,20.983543,105.8503078
+296,TAMA Coffee & Tea - Trà Chanh & Trà Sữa - Vân Canh,"Số 5 Liền Kề 22 Khu Đô Thị Vân Canh, Xã Vân Canh, Huyện Hoài Đức, Hà Nội, Hoài Đức, Hà Nội",,,,
+297,Ngoạm - Xưởng Bánh Bao Tươi - Cửu Việt 2,"50 Cửu Việt 2, TT. Trâu Quỳ, Gia Lâm, Hà Nội",,,21.0154305,105.9386883
+298,"Musa Chicken - Gà Rán Giòn, Mì Trộn & Ăn Vặt","Số 10 Ngõ 994 Đường Láng, P. Láng Thượng, Đống Đa, Hà Nội",,,21.0229797,105.8000282
+299,Nem Chua Rán 36 Tạm Thương Cơ Sở 1,"Số Nhà 5 Ngõ 5 Trần Nhật Duật, P. Quang Trung, Hà Đông, Hà Nội",,,,
+300,"Bếp Của Dung - Gỏi Cuốn, Mì Trộn & Bún Trộn - Ngọc Hà","Số 14 Ngõ 70 Ngọc Hà, Ba Đình, Hà Nội",,,,
+301,"Bánh Mì Sài Gòn - Bánh Mì, Bánh Bao & Trà Sữa - Nguyễn An Ninh","113 Nguyễn An Ninh, P. Tương Mai, Hoàng Mai, Hà Nội",,,20.9919213,105.8441272
+302,"Jang Food - Gà Ủ Muối, Gà Luộc & Đồ Ăn Vặt - Cầu Diễn","Số 47 Ngõ 99 Cầu Diễn, P. Phú Diễn, Bắc Từ Liêm, Hà Nội",,,,
+303,Bà Nghị - Bánh Mì Cay,"2 Ngõ 2 Hoa Lư, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",,,21.0112865,105.8478069
+304,Lòng Ngon Quán - Định Công,"Số 2 Nghách 245/32/2A Định Công, Hoàng Mai, Hà Nội",,,,
+305,Đinh Huyền - Hàu Sữa Online,"131 Ngõ 337 Định Công, Hoàng Mai, Hà Nội",,,20.9791774,105.8324207
+306,Tiệm Healthy Food - Cơm Gạo Lứt & Salad - Trần Duy Hưng,"Số 38 Ngõ 91 Trần Duy Hưng, P. Trung Hòa, Cầu Giấy, Hà Nội",,,,
+307,The Bali Coffee & Tea - Đồ Uống - Tô Hiệu,"Trung Tâm Thương Mại Mê Linh Plaza, Đường Tô Hiệu, P. Hà Cầu, Hà Đông, Hà Nội",,,,
+308,Bánh Mì Chả Nóng Long Đỉnh - Nguỵ Như Kon Tum,"8A Ngõ 90 Ngụy Như Kon Tum, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,,
+309,"Tiệm Bánh Gạo - Bánh Sinh Nhật, Bánh Ngọt & Bánh Mỳ - Trung Phụng","Số 26 Trung Phụng, P. Phương Liên, Đống Đa, Hà Nội",,,21.0144844,105.834263
+310,Tiệm Gà Ủ Muối - Gà Luộc & Gà Ủ Muối - Nguyễn Viết Xuân,"23 Nguyễn Viết Xuân, Làng La Khê, Hà Đông, Hà Nội",,,,
+311,"Gà Rán, Cơm Tấm & Bánh Mì Đò Quan","119 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.9919821,105.8186341
+312,Trà Sữa HAPPY - KĐT Đô Nghĩa,"U08-L70 KĐT Đô Nghĩa, Yên Lộ, P. Yên Nghĩa, Hà Đông, Hà Nội",,,,
+313,"Gia Hân - Quẩy Đùi Gà, Bánh Tiêu & Bánh Rán Phố Cổ","Số 431 Ngõ 192 Lê Trọng Tấn, P. Định Công, Thanh Xuân, Hà Nội",,,,
+314,Cô Hân - Phở Bò & Cơm Rang,"361 Lĩnh Nam, P. Lĩnh Nam, Hoàng Mai, Hà Nội",,,20.9792661,105.8905221
+315,Bún Đậu Mắm Tôm - Chính Kinh,"5 Ngõ 12 Chính Kinh, P. Nhân Chính, Thanh Xuân, Hà Nội",,,20.9991202,105.8122423
+316,Cơm Rang Đảo Giòn - Cơm Rang - Vũ Tông Phan,"Ngõ 509/68 Phố Vũ Tông Phan, P. Khương Đình, Thanh Xuân, Hà Nội",,,,
+317,Hương Tươi Quán - Phở Cuốn & Nem Cuốn - Ngọc Lâm,"15 Ngõ 154 Ngọc Lâm, P. Ngọc Lâm, Long Biên, Hà Nội",,,21.0448525,105.8711688
+318,"Bánh Mì Quốc Dân - Bánh Mì Chảo, Bittet & Xôi - Sài Đồng","82 Ngõ 42 Sài Đồng, Long Biên, Hà Nội",,,21.0393039,105.9051648
+319,Royaltea - Phú Diễn,"Số 41 Ngõ 187 Phú Diễn, P. Phú Diễn, Bắc Từ Liêm, Hà Nội",,,21.0516528,105.7571341
+320,"Fami Food - Đồ Ăn Vặt, Nem Chua Rán & Viên Chiên Nước Mắm - Cầu Giấy","17A Ngách 56 Ngõ 79 Cầu Giấy, P. Yên Hòa, Cầu Giấy, Hà Nội",,,,
+321,"Đồ Ăn Vặt, Chân Gà Sốt Thái & Chân Gà Sả Tắc - Dâu Food - Cầu Giấy","Số 17 Ngách 56 Ngõ 79 đường Cầu Giấy, Cầu Giấy, Hà Nội",,,,
+322,Trần Đặng - Xôi Mặn & Cơm Văn Phòng - Lâm Hạ,"4A Ngõ 111/47 Lâm Hạ, P. Bồ Đề, Long Biên, Hà Nội",,,,
+323,"Cơm Thố Delichi - Cơm Thố Gà, Xá Xíu - Nghĩa Tân","11 Ngõ 1 Nghĩa Tân, Cầu Giấy, Hà Nội",,,21.0453234,105.7956221
+324,Chân Gà Nướng 79 - Định Công,"209D Định Công, P. Định Công, Hoàng Mai, Hà Nội",,,20.9849545,105.8214428
+325,HS - Bún Đậu Mắm Tôm & Nem Nướng Nha Trang,"Số 36 Ngách 136/6 Triều Khúc, X.Tân Triều, Thanh Trì, Hà Nội",,,,
+326,Bún Đậu Mắm Tôm Phan Hưng - Phan Văn Trường,"Số 18 ngõ 33 Phan Văn Trường, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0388497,105.7857022
+327,Shiba Chef - Bánh Takoyaki & Bánh Xèo Nhật,"Ngách 37 Ngõ 167 Tây Sơn, P. Quang Trung, Đống Đa, Hà Nội",,,21.0102243,105.8270343
+328,Bánh Mì Bắp - Gà Popcorn & Bánh Mì Gà Nem - Trần Quang Diệu,"Số 69 Ngõ 71 Trần Quang Diệu, P. Quang Trung, Đống Đa, Hà Nội",,,,
+329,"Panda - Pizza, Gà Rán & Cơm Thố - Trần Quốc Vượng","38 Ngõ 63 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+330,BINGO - Tiệm Cafe Muối - Nguyễn Tuân,"164 Nguyễn Tuân, P. Nhân Chính, Thanh Xuân, Hà Nội",,,21.0019175,105.800494
+331,Linh Phương - Nem Nướng Nha Trang - Bạch Đằng,"195 Bạch Đằng, Hoàn Kiếm, Hà Nội",,,21.0257772,105.8617436
+332,Quán Ăn Hợp Tác Xã & Cơm Niêu - Tây Sơn,"15 Ngõ 252 Tây Sơn, P. Trung Liệt, Đống Đa, Hà Nội",,,21.0085093,105.8230023
+333,Cơm Văn Phòng - Phú Cường - Mỹ Đình,"59 Ngõ 20 Mỹ Đình , Nam Từ Liêm, Hà Nội",,,21.0321864,105.7722899
+334,Bánh Mì Que - Đặc Sản Hải Phòng - Phạm Ngọc Thạch,"Số 8, Ngõ 97 Phạm Ngọc Thạch( Đi Vào 15m), P. Trung Tự, Đống Đa, Hà Nội",,,,
+335,Bánh Mỳ Tổ Dân - Bánh Mì - Lương Ngọc Quyến,"22/22 Lương Ngọc Quyến, P. Hàng Bồ, Hoàn Kiếm, Hà Nội",,,,
+336,Bánh Mì Sài Gòn - Nhật Minh - Yên Hòa,"233 Yên Hòa, Cầu Giấy, Hà Nội",,,21.0218105,105.7924411
+337,InSky Coffee And Fastfood - Đội Cấn,"81 Đội Cấn, Ba Đình, Hà Nội",,,21.0346472,105.8266045
+338,Hẻm Hàn Quốc - Đồ Ăn Hàn Quốc - 147 Lê Văn Hiến,"147 Lê Văn Hiến, P. Đức Thắng, Bắc Từ Liêm, Hà Nội",,,21.0742149,105.7754553
+339,Gà Rán Five Star - Thành Công,"102 C10 Thành Công, P. Thành Công, Ba Đình, Hà Nội",,,,
+340,Deep Sii - 19 Ngô Văn Sở,"19 Ngô Văn Sở, Hoàn Kiếm, Hà Nội",,,21.0209601,105.8486109
+341,Nem Nướng & Mì Trộn - Bếp Nhà Bắp,"43 Ngõ 99 Cầu Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội",,,21.0445807,105.7487421
+342,Gà Sốt Cay Hàn Quốc - Nguyễn Trãi,"63 Ngõ 335 Nguyễn Trãi, P. Thanh Xuân Nam, Thanh Xuân, Hà Nội",,,,
+343,CocoLife - Kem Bơ & Đồ Ăn Vặt Hàn Quốc - Vinhome OceanPark1,"Toà S203 Vinhome OceanPark1, Gia Lâm, Hà Nội",,,,
+344,ĐỒ ĂN VẶT 24H LĨNH NAM - Đồ Ăn Vặt - Lĩnh Nam,"6 Ngõ 255/11 Lĩnh Nam, P. Vĩnh Hưng, Hoàng Mai, Hà Nội",,,,
+345,Tiệm Trà Trái Cây - Hoa Quả Tươi & Đồ Ăn Vặt,"Số 61 Ngách 32/48 Đỗ Đức Dục, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,,
+346,Mầm - Trà Pha Máy Đậm Vị - Tam Khương,"Tầng 7 Số 28 Ngõ 21 Tam Khương, P. Khương Thượng, Đống Đa, Hà Nội",,,,
+347,Cơm Tám Điện Biên - Cầu Giấy,"Số 5B, Ngõ 79/56/8 Cầu Giấy, P. Yên Hòa, Cầu Giấy, Hà Nội",,,,
+348,Cà Phê Muối Diệp Anh - Nước Ép & Sinh Tố - Mỹ Đình,"Số Nhà 1 Ngõ 322/139 Đường Mỹ Đình, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+349,Bún Chả Hàng Than - Bún Mọc Sườn Chua Chuẩn Vị Phố - Tây Mỗ,"Số Nhà 8, Ngõ 43 Đường Cầu Cốc, Nam Từ Liêm, Hà Nội",,,,
+350,Grape - Nước Nho Tươi 100% - Khâm Thiên,"262 Khâm Thiên, P. Thổ Quan, Đống Đa, Hà Nội",,,21.0191804,105.8356881
+351,BẾP NHỎ INDO - Mỳ Trộn & Đồ Ăn Vặt - Vũ Ngọc Phan,"126 Ngõ 25 Vũ Ngọc Phan, P. Láng Hạ, Đống Đa, Hà Nội",,,21.0151859,105.8077017
+352,Chân Gà Bay Online,"105 Ngõ i5, P. Thanh Xuân Bắc, Thanh Xuân, Hà Nội",,,21.0668284,105.802209
+353,Choux Juice - Trà Hoa Quả & Nước Ép Nguyên Chất - Nguyễn Xiển,"Số 1 - Sunrise B - KĐT The Manor Central Park, P. Đại Kim, Hoàng Mai, Hà Nội",,,,
+354,Lẩu Thái Tomyum Tặng 1 Đĩa Bò Tươi - Nhà Hàng Ông Tào Mập,"BT18 TT12 KĐT Mới Văn Quán, P. Phúc La, Hà Đông, Hà Nội",,,,
+355,Mye Diet - Salad & Cơm Gạo Lứt - Lương Sử C,"Số 65 Lương Sử C, P. Văn Chương, Đống Đa, Hà Nội",,,,
+356,Long Wang Cơ Sở 1 - Dim Sum Hongkong - 84 Ngọc Khánh,"84 Ngọc Khánh, P. Giảng Võ, Ba Đình, Hà Nội",,,21.0257784,105.8150938
+357,Trà Sữa Tiger Sugar - Yên Hòa,"50 Yên Hòa, P. Trung Hòa, Cầu Giấy, Hà Nội",,,21.0157781,105.7967178
+358,Bằng Giang Vịt Quay Vân Đình - Minh Khai,"116B Ngõ 254 - Minh Khai, P. Mai Động, Hoàng Mai, Hà Nội",,,20.9938289,105.8582321
+359,Bôn Bôn - Xoài Cóc Dầm & Đồ Ăn Vặt Online,"107B G4 Ngõ 12 Nguyên Hồng, P. Thành Công (Vào ngõ 12 rồi rẽ trái ở cafe IRIS, đi qua sân chơi vào tới nhà để xe (nhà xe bên tay trái, số 107B tay phải), Ba Đình, Hà Nội",,,,
+360,Gà Rán Seoul - Phố Xa La,"Số 26 Phố Xa La, P. Phúc La, Hà Đông, Hà Nội",,,20.9641923,105.7893537
+361,Chè Ngon Mẹ Tép - Chè & Sữa Chua Các Loại Online,"258 Mễ Trì Thượng, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,21.0080948,105.7769275
+362,BÁNH MÌ SÀI GÒN TUẤN KHANG - Bánh Mì & Hambuger - 76 Bạch Mai,"76 Bạch Mai, P. Cầu Dền, Hai Bà Trưng, Hà Nội",,,,
+363,Nem Chua Rán Trần Công Châu - Top 1,"7 Ngách 49 Ngõ Thái Hà, Đường Thái Hà, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+364,Nem Chua Thanh Hóa - Shop Online - Minh Khai,"10 Ngõ 254 Minh Khai, P. Minh Khai, Hai Bà Trưng, Hà Nội",,,20.9950542,105.8586672
+365,Gà Rán Bốp Bi,"234 Thụy Khuê, P. Thụy Khuê, Tây Hồ, Hà Nội",,,21.0409721,105.8262999
+366,Gà ủ muối V-food - Gà Ủ Muối - Lê Quang Đạo,"8/11/36/19 Lê Quang Đạo, P. Phú Đô, Nam Từ Liêm, Hà Nội",,,,
+367,Mì Trộn Đây - Đồ Ăn Vặt - Hoa Bằng,"181 Hoa Bằng, P.Yên Hòa, Cầu Giấy, Hà Nội",,,21.0252662,105.7957668
+368,Teen's Food - Bánh Mì Doner Kebab & Các Món Ăn Vặt - 17 Võng Thị,"Số 17 Võng Thị, P. Bưởi, Tây Hồ, Hà Nội",,,21.051417,105.8110208
+369,"Trình Food - Cháo Gà, Súp Gà & Mỳ Xào - Trung Kính","Số 4 Ngõ 43/98 Trung Kính, Cầu Giấy, Hà Nội",,,,
+370,Bánh Mì Nướng Muối Ớt & Bánh Tráng Trộn - Con Chim Non,"118 Dương Quảng Hàm, P. Quan Hoa, Cầu Giấy, Hà Nội",,,21.0361924,105.7993083
+371,Lâm Cơm Rang & Phở Bò - 20 Ngõ 87 Yên Xá,"Số 20 Ngõ 87 Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội",,,,
+372,Ngọc Diệp - Bánh Mì Sốt Vang,"Sảnh A3 Chung Cư 151A Nguyễn Đức Cảnh, Hoàng Mai, Hà Nội",,,,
+373,Bubble Greek Yogurt - Sữa Chua Hy Lạp,"14 Hàng Buồm, P. Hàng Buồm, Hoàn Kiếm, Hà Nội",,,21.0354639,105.8505016
+374,Teen Food - Nem Chua Rán Chị Hạnh - Dương Khuê,"69 Dương Khuê, P. Mai Dịch, Cầu Giấy, Hà Nội",,,21.0340768,105.7733652
+375,Thu Hường Cake - Trương Định,"87 Trương Định, P. Trương Định, Hai Bà Trưng, Hà Nội",,,20.992819,105.8587539
+376,Cơm Gà Tươi Cô Yến & Cơm Văn Phòng - KĐT Geleximco,"Số 02 Lô A43 Khu Đô Thị Geleximco, Lê Trọng Tấn, X. An Khánh, Hoài Đức, Hà Nội",,,,
+377,Bếp CiCi - Mì Trộn & Đồ Ăn Vặt Online - Quan Nhân,"Số 34 Ngõ 144 Quan Nhân, P. Nhân Chính, Thanh Xuân, Hà Nội",,,,
+378,Phở Bò & Cơm Rang Số 1 - Phan Phù Tiên,"1 Phan Phù Tiên, P. Cát Linh, Đống Đa, Hà Nội",,,21.0285827,105.8340105
+379,Bếp Bé Bếu - Cơm & Bánh Mì Nướng Trung Hoa - Phạm Ngọc Thạch,"58 Phạm Ngọc Thạch, Đống Đa, Hà Nội",,,21.0103142,105.8362001
+380,Bún Trộn Hoàng Phố - Hồ Tùng Mậu,"26 Ngõ 66 Hồ Tùng Mậu, P. Mai Dịch, Cầu Giấy, Hà Nội",,,21.0390848,105.7771027
+381,Hải Yến - Bánh Cuốn - Nghĩa Tân,"106A8 Khu Tập Thể Nghĩa Tân, P. Nghia Tan, Cầu Giấy, Hà Nội",,,,
+382,Thành Nam - Phở & Cơm Rang,"Ki Ốt 13 Ngõ 560 Nguyễn Văn Cừ, P. Ngọc Lâm, Long Biên, Hà Nội",,,,
+383,"Tiger - Coffee, Nước Ép & Trà Chanh - 50 Trương Công Giai","50 Trương Công Giai, Cầu Giấy, Hà Nội",,,21.0276634,105.7887116
+384,Cơm Đảo Ngũ Vị 686 - Lê Văn Hiến,"Kiot 2 Ngõ 44 Lê Văn Hiến, P. Đức Thắng, Bắc Từ Liêm, Hà Nội",,,,
+385,Thuỷ Mít - Cơm Rang & Phở Xào - Mỹ Đình,"141 Ngõ 322 Mỹ Đình, P. Mỹ Đình, Nam Từ Liêm, Hà Nội",,,21.0227094,105.7720695
+386,Nhà Họ Chu - Chân Gà sốt Thái - Vinhomes Smart City,"Sảnh S201 Vinhomes Smart City, Nam Từ Liêm, Hà Nội",,,21.0072395,105.7372088
+387,Bún Thái Tomyom & Mỳ Tomyom - Tiệm 1991,"Số 7 Ngõ 191 Minh Khai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",,,20.9965134,105.8587818
+388,"Nước Ép, Trà Sữa & Bánh Tráng - Tú Anh","93 Ngõ 179 Vĩnh Hưng, P. Vĩnh Hưng, Hoàng Mai, Hà Nội",,,20.9880828,105.8766001
+389,"Thạch Dừa Đồng Tháp - Cà Phê, Sinh Tố & Kem Trái Dừa","36 Nguyễn Chí Thanh, P. Ngọc Khánh, Ba Đình, Hà Nội",,,21.0267863,105.8122672
+390,"Bếp Nam Anh - Xôi, Bánh Khúc & Bánh Bao - Số 9 Nghĩa Lộ","Số Nhà 9 Đường Nghĩa Lộ (Tổ 5 Yên Nghĩa), P. Yên Nghĩa, Hà Đông, Hà Nội",,,,
+391,Mì Cay Tomyum & Mì Tương Đen - Thiên Trù Noodles,"Số 14 Ngõ 273 Phố Vũ Hữu, P. Thanh Xuân Bắc, Thanh Xuân, Hà Nội",,,,
+392,LẨU ẾCH ĐỒNG - La Thành,"668 La Thành, P. Giảng Võ, Ba Đình, Hà Nội",,,21.0245359,105.8129309
+393,Gimbab Hàn Quốc - Nguyễn Trãi,"Phòng 103 Nhà H1-3 Ngõ 445 Nguyễn Trãi, P. Thanh Xuân Nam, Thanh Xuân, Hà Nội",,,,
+394,Tiệm Cơm Mẹ Nấu - Cơm Văn Phòng Chất - Đường Láng,"Số Nhà 18 Ngõ 242 Đường Láng, P. Thịnh Quang, Đống Đa, Hà Nội",,,,
+395,Mỳ Cay & Cơm Chiên - Ăn Vặt Tiệm 1991,"19B Ngõ 124 Phố Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,,
+396,Otochick - Món Ăn Đường Phố Hàn Quốc - The Garden,"Siêu Thị Tops Market The Garden, Mễ Trì, Nam Từ Liêm, Hà Nội",,,,
+397,"Bảo Phong - Phở Bò, Cơm Rang & Mì Xào - 142 Mai Dịch","142 Mai Dịch, Cầu Giấy, Hà Nội",,,21.0409079,105.7750351
+398,"Đức Mạnh - Chân Gà Sốt Thái Sả Tắc, Gà Rán & Bánh Tráng - Quan Hoa","Số 30 Ngách 1 Ngõ 225 Quan Hoa, P. Quan Hoa, Cầu Giấy, Hà Nội",,,,
+399,Bánh Bò A Trí - Bánh Dân Gian - Phan Văn Trường,"Số 25 Ngõ 25 Phan Văn Trường, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0382777,105.7856838
+400,GINGAYA - TIỆM ĂN HEALTHY EATCLEAN - DƯƠNG QUẢNG HÀM,"22B Ngách 24 Ngõ 79 Dương Quảng Hàm, P. Quan Hoa, Cầu Giấy, Hà Nội",,,,
+401,Nem Nướng Nha Trang - Tiệm Nem Chỉn Chu - 14/162 Khương Trung,"Số Nhà 14 Ngõ 162 Khương Trung, Thanh Xuân, Hà Nội",,,,
+402,Bún Ốc Bà Giao Bạch Mai - 17 Ngõ 30 Hồng Mai,"17 Ngõ 30 Hồng Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",,,,
+403,"Cơm, Gà Rán & Mì Trộn Bếp Nhà Cám","91A Nguyễn Khuyến, P. Văn Miếu, Đống Đa, Hà Nội",,,21.0280281,105.83959
+404,Mr.Eco Cơm Gạo Lứt - Healthy Food - Cầu Giấy,"113 Ngõ 68 Đ. Cầu Giấy, P. Quan Hoa, Cầu Giấy, Hà Nội",,,21.022119,105.7946785
+405,Cat Food - Mì Trộn Indomie - 358 Bùi Xương Trạch,"3B Ngõ 358/55/3 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,,
+406,Tiệm Cà Phê Sâu Sâu - Cà Phê Muối - KĐT Định Công,"Toà CT1B-ĐN1 Khu Đô Thị Định Công, P. Định Công, Hoàng Mai, Hà Nội",,,,
+407,Nem Nướng Nha Trang Chính Gốc - Thái Hà,"19B Ngõ 98 Thái Hà, P. Trung Liệt, Đống Đa, Hà Nội",,,,
+408,Greenarch Cafe,"Tầng 1 Tòa Nhà Hồng Hà - Số 25 Lý Thường Kiệt, P. Phan Chu Trinh, Hoàn Kiếm, Hà Nội",,,,
+409,Mập Quán - Đồ Ăn Vặt & Mỳ Xào - Nguyên Hồng,"Số 6 Ngõ 2A Nguyên Hồng, P. Thành Công, Ba Đình, Hà Nội",,,,
+410,"Madam Trang - Cafe, Nước Ép & Bánh Mì - 23G Hai Bà Trưng","23G Hai Bà Trưng, Hoàn Kiếm, Hà Nội",,,21.0272554,105.8426477
+411,Trà Sữa Royaltea - Xuân Đỉnh,"33 Ngõ 355 Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",,,21.0705164,105.7886255
+412,KSdomi - Mì Trộn Indomie & Mì Cay - Trung Văn,"Số 4 Trung Văn, Nam Từ Liêm, Hà Nội",,,20.9921504,105.7838655
+413,Ăn Vặt Hiệp Gà - Đường Láng,"11 Ngõ 850 Đường Láng, Đống Đa, Hà Nội",,,21.0197142,105.8026199
+414,"An’s Kitchen - Mì Ý, Mì Trộn & Đồ Ăn Vặt","Số Nhà 2, Ngõ 250/100/31 Kim Giang, P. Đại Kim, Hoàng Mai, Hà Nội",,,,
+415,DLC Kitchen - Bún Cá Măng Cay - Vườn Cam,"88 Đường Vườn Cam, P. Phú Đô, Nam Từ Liêm, Hà Nội",,,,
+416,"Tích Chu - Mì Cay, Nem Nướng & Trà Hoa Quả - 182 Tây Sơn","182 Tây Sơn, Đống Đa, Hà Nội",,,21.011617,105.8256868
+417,"Gà Bó Xôi, Gà Ủ Muối & Đồ Ăn Vặt - Lê Trọng Tấn","104 Ngõ 192 Lê Trọng Tấn, P. Định Công, Hoàng Mai, Hà Nội",,,20.9924468,105.8287695
+418,Cháo Sườn Sụn 18 - Cháo Gia Truyền - Nguyễn Đức Cảnh,"7 Ngõ 47 Nguyễn Đức Cảnh, P. Tương Mai, Hoàng Mai, Hà Nội",,,20.9880488,105.8486341
+419,"Bánh Tráng Huyền Linh - Bánh Tráng Trộn, Bánh Tráng Nướng & Bánh Tráng Cuộn - 68 Triều Khúc","Số 1 Ngõ 68 Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội",,,,
+420,Tiệm Trà Hoa Quả Nhiệt Đới Đặc Biệt Hưng Vượng Ngọc,"3 Ngõ 402 Ngách 76/20 Mỹ Đình, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,,
+421,GÀ Ủ MUỐI HOA TIÊU & GÀ LUỘC - LULU CHICKEN - 89 PHẠM VĂN ĐỒNG,"15 ngõ 89 Phạm Văn Đồng, P. Mai Dịch, Cầu Giấy, Hà Nội",,,21.04306,105.7801221
+422,"Đi Ăn Chay Đi - Cơm Chay, Bún & Bánh Mì Chay - 36 Pháo Đài Láng","36 Pháo Đài Láng, P. Láng Thượng, Đống Đa, Hà Nội",,,21.0190866,105.8049357
+423,Ninh Vũ Tea & Coffee - Trà Hoa Quả Nhiệt Đới Siêu Ngon - Kim Đồng,"Số Nhà 43 Ngõ 19 Kim Đồng, P. Giáp Bát, Hoàng Mai, Hà Nội",,,,
+424,Bún Đậu Trâm 63 - Bún Đậu Mắm Tôm - Nguyễn Ngọc Vũ,"Số 1 Ngách 219/61 Nguyễn Ngọc Vũ, Cầu Giấy, Hà Nội",,,,
+425,Tiệm Trà Mãng Cầu Đặc Biệt Hana - Mỹ Đình,"3 Ngõ 402 Ngách 76/20 Mỹ Đình, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+426,Hachi Takoyaki - Phan Chu Trinh,"107 Phan Chu Trinh, P.Yết Kiêu, Hà Đông, Hà Nội",,,,
+427,Tiệm Bánh Youth Cake - Bông Lan Trứng Muối & Red Velvet,"5 ngõ 40 Chính Kinh, P. Nhân Chính, Thanh Xuân, Hà Nội",,,,
+428,Tiệm Gà Ủ Muối KuBo - Lĩnh Nam,"3 Ngách 21 Ngõ 595 Lĩnh Nam, P. Lĩnh Nam, Hoàng Mai, Hà Nội",,,,
+429,Gia Bảo Nem Nướng Nha Trang,"Số Nhà 77 Ngõ 219 Nguyễn Ngọc Vũ, (Cũng là ngõ 23 Nguyễn Thị Định), P. Trung Hòa, Cầu Giấy, Hà Nội",,,,
+430,Linh - Cari Gà & Ăn Vặt Hàn Quốc,"88 Trần Đại Nghĩa, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,20.9983161,105.8463048
+431,2PAO - Bánh Bao Tươi & Mỳ Trộn Indomie - Đức Giang,"28 Ngõ 81 Đức Giang, P. Đức Giang, Long Biên, Hà Nội",,,21.0672738,105.8872804
+432,Quán Chè Ánh Tuyết,"150/50 Phố Tân Khai, Hoàng Mai, Hà Nội",,,20.9879138,105.8708306
+433,Trà Sữa Taster's Choice - Hà Đông,"Sảnh CT1 - Chung Cư ICID Complex Lê Trọng Tấn, P. Dương Nội, Hà Đông, Hà Nội",,,,
+434,Kitch & Caf - Cơm & Thức Uống Việt Nam - 41 Lê Đại Hành,"41 Lê Đại Hành, Hai Bà Trưng, Hà Nội",,,21.011173,105.8485322
+435,Matcha Shop - Coffee - Hà Nội,"Ngõ 73 Giang Văn Minh, Ba Đình, Hà Nội",,,21.0338408,105.8267862
+436,Quý Gà Ủ Muối Hoa Tiêu & Gà Hấp - Tô Hiến Thành,"95 Tô Hiến Thành, P. Phúc La, Hà Đông, Hà Nội",,,20.9714955,105.7841878
+437,B9 - Cháo Sườn Sụn - Nguyễn Cảnh Dị,"B9 Nguyễn Cảnh Dị, P. Đại Kim, Hoàng Mai, Hà Nội",,,20.9751665,105.8359178
+438,"Wake Strong - Trà, Cafe Nướng Tre Đầu Tiên - Ba Đình","88 Nghĩa Dũng, Ba Đình, Hà Nội",,,21.0477647,105.8472659
+439,"Shushi - Gỏi Cuốn, Nem Nướng, Phở Cuốn Gà & Mỳ Ý Bánh Tôm","6B Ngách 39 Ngõ 381 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội",,,,
+440,"Dơm - Vua Bánh Tráng Nướng, Cuộn & Trộn - 29/3 Phạm Tuấn Tài","29 Ngõ 3 Phạm Tuấn Tài, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0433848,105.7853128
+441,Cake Cà Kê - 17 Quán Thánh,"17 Quán Thánh, P. Quán Thánh, Ba Đình, Hà Nội",,,21.0408345,105.8448369
+442,"Grille6 - Salad, Steak & Pasta - Hào Nam","184 Hào Nam, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,21.0264823,105.8276894
+443,Bánh Gối & Bánh Tôm - Anh Bối Mỏ Ướt - Phố Vọng,"1 Ngách 3 Ngõ 333 Phố Vọng, P. Trương Định, Hai Bà Trưng, Hà Nội",,,,
+444,Aha Coffee - Vinhomes Smart City,"SH01 Toà S201 Vinhomes Smart City, P. Tây Mỗ, Nam Từ Liêm, Hà Nội",,,,
+445,"Trà Trái Cây, Nước Ép Hoa Quả - Lê Quang Đạo","Số 5 ngách 8/167 Lê Quang Đạo, P. Phú Đô, Nam Từ Liêm, Hà Nội",,,,
+446,"Mì Trộn Indomie, Lẩu Ly & Đồ Ăn Vặt - BBQAtHome - Láng Hạ","Số 14 ngách 25/7 Vũ Ngọc Phan, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+447,Nấm Food - Mì Trộn Indomie & Trà Sữa - Nguyễn Lân,"5/14 Nguyễn Lân, P. Phương Liệt, Thanh Xuân, Hà Nội",,,20.9950029,105.836353
+448,Vịt Quay Thu Phú,"10A3 Ngách 10 Ngõ 376 Khương Đình, Thanh Xuân, Hà Nội",,,,
+449,Mai Trang - Ốc & Ăn Vặt,"Số 8 Ngõ 38 Khúc Thừa Dụ, P. Dịch Vọng, Cầu Giấy, Hà Nội",,,,
+450,"HOA QUẢ CẮT SẴN, NƯỚC ÉP & SỮA CHUA DẦM - Định Công Thượng","Số 124 Ngõ 230 Định Công Thượng, Hoàng Mai, Hà Nội",,,,
+451,Amor Healthy - Salad & Healthy Food - Nguyên Hồng,"Số 2, 1 Ngách 1 Ngõ 26 Nguyên Hồng, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+452,Bánh Chuối Mikey - Phan Đình Giót,"LK16/6 Ngõ Chợ Bông Đỏ - Phan Đình Giót, P. La Khê, Hà Đông, Hà Nội",,,,
+453,Lẩu Ly Thái Tomyum & Mì Trộn Đặc Biệt - Ba Food - Khương Hạ,"8D Ngõ 29/62 Khương Hạ, P. Khương Đình, Thanh Xuân, Hà Nội",,,,
+454,F Café - Tố Hữu,"Số 4 Galaxy 1, 69 Tố Hữu, P. Vạn Phúc, Hà Đông, Hà Nội",,,,
+455,Trà Sữa Bobapop - Đại Cồ Việt,"9 Đại Cồ Việt, Hai Bà Trưng, Hà Nội",,,21.0078205,105.8431311
+456,"Bảo Ngọc - Nem Chua Thanh Hoá, Thịt Chua Trường Foods & Đồ Ăn Vặt","Số 57 Ngõ 20 Mỹ Đình, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,,
+457,"XINYI - Cơm Vịt Quay, Gà Nướng & Chè Kem Đài Loan - Nguyễn Văn Trỗi","197 Nguyễn Văn Trỗi, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9833079,105.7843665
+458,Mì Cay Siêu Ngon - Chân Gà & Gà Ủ Muối,"Đối Diện Nhà 14B7 Khu Tập Thể 918 Phúc Đồng, P. Phúc Đồng, Long Biên, Hà Nội",,,,
+459,Bún Đậu Mẹt Phố Cổ - Định Công Hạ,"17/56 Định Công Hạ, P. Định Công, Hoàng Mai, Hà Nội",,,20.9849545,105.8214428
+460,Bố Nhím - Mì Trộn & Đồ Ăn Vặt - Vũ Tông Phan,"21A Ngõ 481 Vũ Tông Phan, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.986897,105.8148813
+461,ĐO ĐO - Bánh Tráng Trộn - Trung Văn,"5C2 Ngõ 289 Lương Thế Vinh, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,20.9928831,105.7927633
+462,Khánh Linh - Nước Ép & Ăn Vặt - Ao Sen,"2B Ngõ 4 Ao Sen, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9818097,105.7879893
+463,O Thi - Bánh Bèo Lọc Huế - Hà Nội,"5 NV2 Yên Xá, Tổng Cục 5, Thanh Trì, Hà Nội",,,,
+464,Bếp Chay Vft FOOD - Món Chay Hàn Việt,"130 Nguyễn Đức Cảnh, Hoàng Mai, Hà Nội",,,20.9868773,105.8528722
+465,Toocha Tea - Vinhomes Ocean Park,"R1.02 The Zenpark Vinhomes Ocean Park, X. Đa Tốn, Gia Lâm, Hà Nội",,,,
+466,Cha Go Tea & Caf'e - Aeonmall Hà Đông,"T214-2 Tầng 2, Trung tâm thương mại Aeonmall Hà Đông, Cụm dân cư Hoàng Văn Thụ, P. Dương Nội, Hà Đông, Hà Nội",,,,
+467,Trà Chanh Giã Tay GUANG DONG & Đồ Ăn Vặt - 33 Bùi Xương Trạch,"33 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.9912407,105.8174164
+468,Gấu Trúc Béo - Mỳ Trộn Indomie - 347 Ngô Gia Tự,"347 Ngô Gia Tự, P. Đức Giang, Long Biên, Hà Nội",,,21.0642312,105.8966324
+469,Pizza & Mì Ý - ITALO Corner Phạm Văn Đồng,"398 Phạm Văn Đồng, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",,,21.059571,105.7841807
+470,"Nước Ép, Sinh Tố Đồng Giá 21k - Yên Lãng","112 Yên Lãng, P. Thịnh Quang, Đống Đa, Hà Nội",,,21.0105002,105.8161111
+471,Bastet's Home - Trà Sữa & Ăn Vặt - Hà Đông,"34 Trưng Nhị, Hà Đông, Hà Nội",,,20.9712556,105.7782509
+472,AK Quán - Nước Ép Sinh Tố & Trà Trái Cây Tươi,"TT5.2B-26 KĐT Mới Đại Kim, Hoàng Mai, Hà Nội",,,,
+473,Trà Bí Đao - 254 Lê Thanh Nghị,"254B Lê Thanh Nghị, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,21.0018542,105.8422217
+474,Ăn Uống Online - 29 Bế Văn Đàn,"29 Bế Văn Đàn, P. Quang Trung, Hà Đông, Hà Nội",,,20.9692634,105.7726608
+475,"Mẹ Jo - Nước Ép, Sinh Tố & Bún Phở Trộn","259 Yên Hoà, P. Yên Hoà, Cầu Giấy, Hà Nội",,,21.0207791,105.7911899
+476,"Lilla Lycka Coffee - Trà, Matcha & Cà Phê - Huỳnh Thúc Kháng","28 Ngõ 49 Huỳnh Thúc Kháng, P. Láng Hạ, Đống Đa, Hà Nội",,,21.0171587,105.8098767
+477,Bún Chả Mẹ Nga - 32 Vân Hồ 3,"32 Vân Hồ 3, Hai Bà Trưng, Hà Nội",,,21.0090593,105.8465244
+478,Twitter Beans Coffee - Vũ Phạm Hàm,"5 Vũ Phạm Hàm, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0162151,105.7978211
+479,Mì Trộn & Cá Viên Chiên - Bếp Của Tỉn - Khu Tập Thể Vĩnh Phúc,"Chung Cư NewTaCo, Khu 7.2ha, P. Vĩnh Phúc, Ba Đình, Hà Nội",,,,
+480,Bà Vân - Mì Trộn Indo Siêu Ngon - Linh Đường,"37 Linh Đường, Hoàng Mai, Hà Nội",,,20.9849216,105.8720271
+481,3S Coffee & Tea - Matcha & Cà Phê Đậm Vị - Nghĩa Tân,"6C B19 Ngõ 1 Nghĩa Tân, P. Nghĩa Tân, Cầu Giấy, Hà Nội",,,,
+482,"Mỳ Cay, Bánh Mỳ & Hoa Quả - Ngọc Thụy","Số 10 Ngõ 130 Ngọc Thụy, P. Ngọc Thụy, Long Biên, Hà Nội",,,21.0513977,105.8644014
+483,Ăn Quà Vặt MICHU - Thanh Trì,"Khu Cánh Đồng, Đường Mới Tự Khoát - Đối Diện Công Tu Jotun, Thanh Trì, Hà Nội",,,,
+484,Tiệm Trà Trái Cây Tóc Tém - 100% Trái Cây Tươi & Không Syrup - 33 Đình Thôn,"33 Đình Thôn, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,21.0208148,105.7791683
+485,Bún Trộn Nam Bộ & Bún Đậu Mắm Tôm - 26B Ngõ 44 Nhân Hoà,"Số 26B Ngõ 44 Nhân Hoà, P. Nhân Chính, Thanh Xuân, Hà Nội",,,,
+486,Bánh Cuốn Nóng & Gà Tần - 120A6 Trần Huy Liệu,"120A6 Trần Huy Liệu, P. Giảng Võ, Ba Đình, Hà Nội",,,21.0293758,105.8208969
+487,LiBER - Bubble Tea & Coffee - Dương Xá,"Số 39 Ngõ 3 Đường Dương Xá, Dương Đanh, X. Dương Đanh, Gia Lâm, Hà Nội",,,,
+488,Bún Đậu Mẹt - Cô Ly,"84 Bế Văn Đàn, P. Quang Trung, Hà Đông, Hà Nội",,,20.9692634,105.7726608
+489,Sushi Garden,"131 Chính Kinh, P. Nhân Chính, Thanh Xuân, Hà Nội",,,20.9998743,105.8112242
+490,Tiệm Cơm 2 Béo - Cơm Văn Phòng,"202F Đội Cấn, P. Đội Cấn, Ba Đình, Hà Nội",,,21.0354567,105.8279998
+491,"Tiệm Nước Ép, Trà & Cafe - Phố Dịch Vọng","Số 2 Phố Dịch Vọng, Cầu Giấy, Hà Nội",,,21.0302645,105.7921173
+492,Passion Macaron - Bánh Macaron & Bánh Mochi Nhân Kem Lạnh - Mai Anh Tuấn,"24 Ngõ 174 Mai Anh Tuấn, Đống Đa, Hà Nội",,,,
+493,Bún Bò Anh Gold - Hồng Mai,"205 Hồng Mai, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",,,,
+494,Vịt Cay Laya - Núi Trúc,"65 Núi Trúc, P. Kim Mã, Ba Đình, Hà Nội",,,21.0302487,105.8248321
+495,Trà Nhà King - Vũ Phạm Hàm,"35 Vũ Phạm Hàm, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0196401,105.8001825
+496,Bún Bò Huế Hà Tiên - Nguyễn Văn Cừ,"Số 37 Ngách 564 Nguyễn Văn Cừ, P. Gia Thụy, Long Biên, Hà Nội",,,,
+497,Cô Quỳnh - Lẩu & Nướng - Vũ Tông Phan,"455 Vũ Tông Phan, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.9899854,105.8143787
+498,Nộm Bò Khô Long Vĩ Thành - Thái Hà,"52 Thái Hà, P. Trung Liệt, Đống Đa, Hà Nội",,,21.0144321,105.8183628
+499,"CÔ TẤM - Mỳ Siu Cay, Chân Gà Sốt Thái & Đồ Ăn Nhanh - Quang Tiến","Số 2 Ngách 24 Ngõ 53 Quang Tiến, Nam Từ Liêm, Hà Nội",,,,
+500,Bún Đậu Làng Mơ BB - Trần Quốc Vượng,"Số 4 Ngõ 105 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+501,Liuni Tea Tran Dai Nghia - Trà Sữa & Đồ Ăn Nhẹ - Trần Đại Nghĩa,"169 Trần Đại Nghĩa, Hai Bà Trưng, Hà Nội",,,20.9983161,105.8463048
+502,Bánh Mì Sài Gòn Thanh Trúc - 127 Phú Diễn,"127 Phú Diễn, P. Phú Diễn, Bắc Từ Liêm, Hà Nội",,,21.0460901,105.7642325
+503,Bếp Mẹ Hổ - Hoa Quả Dầm Muối Ớt & Ăn Vặt,"4B Hẻm 120/4/3 Ngõ 120 Hoàng Hoa Thám, P. Thụy Khuê, Tây Hồ, Hà Nội",,,,
+504,Bánh Mỳ Doner Kebab - Bánh Mỳ Thuỷ Béo & Ăn Vặt - Hàng Cót,"10 Hàng Cót, P. Hàng Mã, Hoàn Kiếm, Hà Nội",,,21.0393129,105.8469897
+505,"90's Tea And Drink - Trà, Cà Phê & Latte Nguyên Vị","Số 2 Ngõ 622 Minh Khai, P. Minh Khai, Hai Bà Trưng, Hà Nội",,,,
+506,Mì Trộn Indomie Gấu Bé - Cự Lộc,"171 Cự Lộc, P. Thượng Đình, Thanh Xuân, Hà Nội",,,21.0028598,105.8133984
+507,"Hảo Hảo - Nước Mía, Dừa Xiêm & Trà Chanh - 65 Yên Xá","65 Yên Xá, Thanh Trì, Hà Nội",,,20.9697176,105.7953494
+508,EVERGREEN - Matcha Nhật Thượng Hạng - GS1 Smart City,"Sảnh GS1 Vinhomes Smart City, Nam Từ Liêm, Hà Nội",,,,
+509,"Nước Ép Khổng Lồ, Sinh Tố & Lạp Xưởng Nướng Đá - Tiệm Trà Nhật Minh","203 Lương Thế Vinh, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,20.9928501,105.7938607
+510,Cơm Trộn Hàn - Mỳ Trộn Kim Chi & Cơm Gà Siêu Ngon - Hồ Tùng Mậu,"9 Ngõ 39 Hồ Tùng Mậu, P. Mai Dịch, Cầu Giấy, Hà Nội",,,21.0360735,105.7773224
+511,KEM BÔNG MÂY - Kem Ngon Ở Đây! - Phùng Khoang,"145 Phùng Khoang, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,20.989838,105.7929767
+512,Trà Sữa Boza Tea - 82 Phùng Khoang,"82 Phùng Khoang, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,20.989838,105.7929767
+513,"Trà Hoa Quả, Trà Sữa & Cà Phê - KATO - Đức Thắng","43 Đức Thắng, P. Đức Thắng, Bắc Từ Liêm, Hà Nội",,,21.0778368,105.7776657
+514,AIS Coffee - Cà Phê Muối & Matcha Latte,"25 Ngõ 143 Trung Kính, P. Trung Hoà, Cầu Giấy, Hà Nội",,,,
+515,"Habifood - Bánh Bao Handmade, Sữa Hạt & Ăn Vặt - 101 C9 Hoàng Ngọc Phách","101C9 Hoàng Ngọc Phách, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+516,Trà Sữa ChaCuiBa - Nguyễn Văn Tuyết,"37 Nguyễn Văn Tuyết, P. Ngã Tư Sở, Đống Đa, Hà Nội",,,,
+517,Chang Food - Mì Trộn Indomie & Đồ Ăn Vặt - Quan Hoa,"8 Ngõ 97 Quan Hoa, P. Quan Hoa, Cầu Giấy, Hà Nội",,,21.0334186,105.8034447
+518,"Viva Fruits - Nước Ép Detox, Trà Hoa Quả Tươi & Chè Ngon Quên Sầu","7 Ngách 30 Ngõ 165 Thái Hà, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+519,Bếp Nhà Ku Tí - Cầu Diễn,"52 Ngõ 132 Cầu Diễn, P. Minh Khai, Bắc Từ Liêm, Hà Nội",,,21.053169,105.7381179
+520,Chocoffee - Đào Tấn,"8 Ngõ 24 Đào Tấn, P. Cống Vị, Ba Đình, Hà Nội",,,21.0329544,105.8088672
+521,"Bếp Cô Nga - Bún Chả Phố Cổ, Bún Đậu Mẹt - Dương Quảng Hàm","39 Ngõ 167 Dương Quảng Hàm, Cầu Giấy, Hà Nội",,,21.0377036,105.8003769
+522,Ngọc - Ăn Vặt - Ngõ Quỳnh,"232 Ngõ Quỳnh, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",,,,
+523,Cháo Sườn Sụn Phố Cổ,"101 A11 Nghĩa Tân, P. Nghĩa Tân, Cầu Giấy, Hà Nội",,,21.0434571,105.7916573
+524,Thu Food - Bún - Thụy Khuê,"Ngõ 27 Thụy Khuê, Tây Hồ, Hà Nội",,,,
+525,Thanh Hà - Tré Trộn Sài Gòn Tại Hà Nội - Đông Ngạc,"Chung Cư Ecohome 3 Toà N5, Bắc Từ Liêm, Hà Nội",,,,
+526,Cổ Trà - Trà Shan Tuyết 300 Năm Tuổi & Trà Hoa Quả - 94 Trấn Vũ,"94 Trấn Vũ, P. Quán Thánh, Ba Đình, Hà Nội",,,21.0438321,105.8382631
+527,Nộm Bò Khô Long Vĩ Thành - Đặng Văn Ngữ,"104D2 Đặng Văn Ngữ, P. Trung Tự, Đống Đa, Hà Nội",,,21.0091087,105.8315221
+528,Mr.Thịnh Gà Rán - Khoai Lang Lắc & Ăn Vặt - Nguyễn Đình Hoàn,"142D Nguyễn Đình Hoàn, P. Nghĩa Đô, Cầu Giấy, Hà Nội",,,21.0430048,105.8052865
+529,"Kim Food - Mì Trộn Indomie, Trộn Hải Sản & Rau Củ Tươi Sống - Thái Hà","71 Ngõ 117 Thái Hà, P. Trung Liệt, Đống Đa, Hà Nội",,,21.0120823,105.8198005
+530,"Thủy - Phở Gà Ta, Bún Thang & Nước Ép Trái Cây Tươi","261 Yên Hoà, Cầu Giấy, Hà Nội",,,21.0233484,105.7977967
+531,"BepFood - Gà Rán, Gà Luộc & Gà Ủ Muối Hoa Tiêu - Định Công Thượng","40 Ngõ 230 Phố Định Công Thượng, P. Định Công, Hoàng Mai, Hà Nội",,,20.983775,105.8235437
+532,Gà Nướng Muối Ớt & Gà Sốt Hàn - Thái Hà,"Số 19G Ngõ 98 Thái Hà, P. Trung Liệt, Đống Đa, Hà Nội",,,,
+533,"Tóp Tép Quán - Nem Chua Rán, Xúc Xích & Gà Chiên - Hồ Tùng Mậu","Số 12 Ngách 41 Ngõ 199 Hồ Tùng Mậu, P. Cầu Diễn , Nam Từ Liêm, Hà Nội",,,,
+534,Phương - Nước Ép & Sinh Tố - Sài Đồng,"Số 54 Ngõ 100 Sài Đồng, P. Sài Đồng, Long Biên, Hà Nội",,,,
+535,"Bếp Mèo Ú - Đồ Hàn, Đồ Chiên & Đồ Ăn Nhanh - Lĩnh Nam","Số 12 Ngõ 32 Nam Dư, Hoàng Mai, Hà Nội",,,20.9868376,105.8878707
+536,Mỳ Trộn Yến Xù - Ăn Vặt Siêu Ngon,"Số 6 Ngách 38 Ngõ 77 Phố 8/3, P. Minh Khai, Hai Bà Trưng, Hà Nội",,,,
+537,"Bếp Nhà Nhom Nhem - Sandwich, Bánh Mì & Đồ Ăn Vặt - Hoàng Hoa Thám","177A Hoàng Hoa Thám, P. Ngọc Hà, Ba Đình, Hà Nội",,,21.0408198,105.8244853
+538,True Tea 08 - Bát Khối,"Nhà 71, TT1, Ngõ 537 Bát Khối, P. Thạch Bàn, Long Biên, Hà Nội",,,,
+539,Cơm Tấm Cô Trân - Cơm Sườn Nướng - 567 Nguyễn Văn Cừ,"567 Nguyễn Văn Cừ, Long Biên, Hà Nội",,,21.0466159,105.8827551
+540,"Matcha Cofe - Nước Trái Cây, Sữa Chua Mix Vị & Sinh Tố Hoa Quả","LK 15 Lô 8 Ngõ 67 Phùng Khoang, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,,
+541,"Tiệm Ăn Vặt Hot Trend - Trà, Bánh Tráng & Các Loại Đồ Ăn Vặt - Đường Xuân La","78B/1 Ngõ 28 Xuân La, Tây Hồ, Hà Nội",,,21.065071,105.8077802
+542,Gánh Bún Đậu - Nem Nướng Nha Trang - Khương Trung,"59 Khương Trung, Thanh Xuân, Hà Nội",,,20.999783,105.8186864
+543,Mì Chua Cay - Mì Gà Tần Gia Truyền Phố Cổ,"8/41/401 Cổ Nhuế, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",,,21.0668728,105.7741998
+544,1992 Coffee & Tea - Ngõ Quỳnh,"Số 19 Ngách 317/13 Ngõ Quỳnh, P. Quỳnh Lôi, Hai Bà Trưng, Hà Nội",,,,
+545,"Linh Đan - Bún Đậu, Xiên Que & Mì Trộn Indomie - Dương Nội","118 Đường Chùa Võ, Hà Đông, Hà Nội",,,20.9829207,105.7456983
+546,Bún Bò Trộn 247 - Bún Trộn Nam Bộ - AEON Mall Hà Đông,"LK16/17/17 Hoàng Văn Thụ, P. Dương Nội, Hà Đông, Hà Nội",,,,
+547,Thế Giới - Gà - Văn Quán,"A32 - TT18, Nguyễn Khuyến, Văn Quán, P. Phúc La, Hà Đông, Hà Nội",,,,
+548,Bún Ốc Sườn Cô Sáu - Lạc Trung,"176 Lạc Trung, P. Thanh Lương, Hai Bà Trưng, Hà Nội",,,21.0033998,105.8650093
+549,"Poco - Pizza, Bánh Mì Chảo & Bít Tết - Đội Cấn","414 Đội Cấn, P. Vĩnh Phúc, Ba Đình, Hà Nội",,,21.0379298,105.8127972
+550,Lẩu Bò Hai Hai - Phúc Diễn,"18 Phúc Diễn, P. Cầu Diễn, Nam Từ Liêm, Hà Nội",,,,
+551,Hương Trà - Tiệm Trà Trái Cây Tươi 100% - Nguyễn Thị Định,"21 Ngõ 1 Nguyễn Thị Định, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0134926,105.8038092
+552,Tropical Pizza,"39 Ngõ 466 Ngô Gia Tự, P. Đức Giang, Long Biên, Hà Nội",,,21.0708056,105.9052708
+553,Tonkotsu Ramen - Mì Tươi Truyền Thống Nhật Bản,"175 Trần Quốc Vượng, Cầu Giấy, Hà Nội",,,21.0335507,105.7827829
+554,Bún Đậu Bảo Ngân - 88 Đê La Thành,"Đối Diện Số 88 Đê La Thành Nhỏ, P. Phương Liên, Đống Đa, Hà Nội",,,,
+555,Mukbang - Đồ Ăn Hàn Quốc - Trần Đại Nghĩa,"239 Trần Đại Nghĩa, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,20.9983161,105.8463048
+556,"Meow Food - Chân Gà Sốt Thái, Trà Sữa & Đồ Ăn Vặt","T46 Ngõ 521 Cổ Nhuế, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",,,,
+557,"Maison Coffee - Matcha Latte, Ô Long Nhài Sữa & Trà Hoa Quả Nhiệt Đới","9 Ngõ 20 Mỹ Đình, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,21.0321864,105.7722899
+558,"Quán Ăn Mẹ Dứa - Bún Đậu, Nem Nướng Nha Trang - Nguyễn Trãi","Số 25 Ngõ 475/41 Nguyễn Trãi, Thanh Xuân, Hà Nội",,,,
+559,Anh Food - Đồ Ăn Vặt - Shop Online,"18 Ngõ 3 Nhân Hòa, P. Nhân Chính, Thanh Xuân, Hà Nội",,,,
+560,Quỳnh Anh - Bún Bò Trộn Nam Bộ - Nhân Hòa,"16 Ngõ 3 Nhân Hòa, P. Nhân Chính, Thanh Xuân, Hà Nội",,,,
+561,Hường - Bánh Xèo & Nem Lụi,"Ngõ 296 Minh Khai, Ngách 86, Số Nhà 42, P. Mai Động, Hoàng Mai, Hà Nội",,,,
+562,Quán Cô Xuân - Kem Bơ- Chè Sầu & Đồ Ăn Vặt - Định Công Hạ,"Số 2B Ngõ 108 Định Công Hạ, P. Định Công, Hoàng Mai, Hà Nội",,,,
+563,Oola - Trà Ô Long Đậm Vị - Tạ Quang Bửu,"108 Ng. 48 P. Tạ Quang Bửu, P. Bách Khoa, Hai Bà Trưng, Hà Nội",,,,
+564,"Quán Chú HJIN - Cafe, Trà Chanh & Đồ Ăn Vặt","Số 30 Cầu Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội",,,21.0415609,105.7614325
+565,Xôi Yến - Bách Khoa,"106 K2 Ngõ 48 Tạ Quang Bửu, P. Bách Khoa, Hai Bà Trưng, Hà Nội",,,,
+566,Savanee - Tea N Coffee - Đền Lừ,"74 Hồ Đền Lừ, P. Tân Mai, Hoàng Mai, Hà Nội",,,,
+567,Lẩu Ngon Tại Nhà Eat House,"Số 19 Ngõ 20 Nguyễn Chánh, P. Trung Ho, Cầu Giấy, Hà Nội",,,,
+568,Bánh Mì Tròn Kẹp Gà Chiên Bagel - Harper Street,"254 Thụy Khuê, P. Thụy Khuê, Tây Hồ, Hà Nội",,,21.0436258,105.8187065
+569,Quán Lẩu Ếch & Gà Mẹt - Khương Trung,"41 - 211 Khương Trung, P. Khương Trung, Thanh Xuân, Hà Nội",,,20.995029,105.8168439
+570,"Bếp Mợ Ba - Xôi, Đồ Ăn & Đồ Uống - Kim Văn Kim Lũ","CT11 Kim Văn Kim Lũ, P. Đại Kim, Hoàng Mai, Hà Nội",,,,
+571,"Gà Rán, Gà Luôc & Gà Ủ Muối - Kiến Hưng","40 Tổ 8 Đa Sĩ, P. Kiến Hưng, Hà Đông, Hà Nội",,,,
+572,"Quán Gà Rán, Cơm Gà & Mỳ Trộn - Phú Diễn","Số 42 Ngõ 172 Đường Phú Diễn, Bắc Từ Liêm, Hà Nội",,,,
+573,Ăn Cùng Bé Bơ - KĐT Văn Quán,"C12 TT5 KĐT Văn Quán, P. Văn Quán, Hà Đông, Hà Nội",,,,
+574,Cháo Dinh Dưỡng Việt Hoàng - Chợ Triều Khúc,"Chợ Triều Khúc (Đối Diện Công An Triều Khúc), X. Tân Triều, Thanh Trì, Hà Nội",,,,
+575,"Tiệm Nhà Gạo - Trà Hoa Quả, Nước Ép & Trà Sữa - 202 Võ Chí Công","Số 2 Dãy N15 Khu Tập Thể Bộ Tư Lệnh Cảnh Vệ, Ngõ 202 Võ Chí Công, Tây Hồ, Hà Nội",,,,
+576,Nem Nướng Nha Trang & Đồ Ăn Vặt - Nơm Trạm Trôi,"26 Bồ Đàm, Đường 422, Khu 6, Thị Trấn Trạm Trôi, X. Trạm Trôi, Hoài Đức, Hà Nội",,,,
+577,Trang Ly Food - Kimbap Ngon & Cà Phê Online,"44 Ngõ 277 Tôn Đức Thắng, Đống Đa, Hà Nội",,,21.0202641,105.8309324
+578,Bami Doner - Bánh Mì Doner Cuộn & Mỳ Ý,"1 - C4 Ngõ 261 Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0413758,105.7817115
+579,Tâm An - Nem Nướng Nha Trang - Trần Duy Hưng,"Số 2 ngách 41/3 Trần Duy Hưng, P. Trung Hoà, Cầu Giấy, Hà Nội",,,,
+580,Rainbow Foods - Eat Clean & Detox - 132 Âu Cơ,"12B Ngõ 132 Âu Cơ, P. Tứ Liên, Tây Hồ, Hà Nội",,,21.0637282,105.8325403
+581,Mai Anh - Bún Đậu - KĐT Phú Lương,"LK15 - 11 KĐT Phú Lương, Hà Đông, Hà Nội",,,,
+582,Thịt Xiên Nướng Tú Mỡ - Nướng Than - 129 Vương Thừa Vũ,"129 Vương Thừa Vũ, Thanh Xuân, Hà Nội",,,20.9969295,105.8210367
+583,Fam's Chicken - Ocean Park,"Shop 01S8A, Tòa S1.10, Vinhomes Ocean Park, X. Đa Tốn, Gia Lâm, Hà Nội",,,,
+584,"Thuỷ Kin - Nước Ép, Sinh Tố & Bánh Canh Ghẹ - Cổ Linh","9 Ngõ 144 Cổ Linh, P.Long Biên, Long Biên, Hà Nội",,,,
+585,Laman Juice - Nước Ép Vì Sức Khoẻ - Triều Khúc,"66 Ngõ 66A Triều Khúc, X. Tân Triều, Thanh Trì, Hà Nội",,,,
+586,LANACO FOOD - Bánh Ngọt & Trà Sữa - Quang Trung,"208 Quang Trung, P. Hà Cầu, Hà Đông, Hà Nội",,,20.9700518,105.7748846
+587,"The Cup Of QQ - Trà Sữa, Matcha & Cafe - Láng Hạ","Số 1 Ngõ 5 Láng Hạ, P. Thành Công, Ba Đình, Hà Nội",,,21.0218672,105.8195498
+588,Chân Gà Sả Tắc & Đồ Ăn Vặt - Lee Chun Cook,"Số 20 Ngách 82 Ngõ 459 Bạch Mai, Hai Bà Trưng, Hà Nội",,,,
+589,Monki Quán - Nước Trà Hoa Quả & Ăn Vặt - Mộ Lao,"Số Nhà 16 Ngách 1/2 Đường 36m , Khu Giãn Dân Mộ Lao, P. Mộ Lao, Hà Đông, Hà Nội",,,,
+590,Bông Cafe - 99 Ngô Gia Tự,"99 Đường Ngô Gia Tự, Thượng Thanh, P. Đức Giang, Long Biên, Hà Nội",,,21.0762526,105.9062277
+591,Pô's Cake - Bông Lan Trứng Muối & Khô Gà Online - Bằng B,"115A Ngõ 2 Phố Bằng B, P. Hoàng Liệt, Hoàng Mai, Hà Nội",,,,
+592,Pizza & Đồ Ăn Vặt Việt Trung Hàn - Nguyễn Văn Cừ,"35A Ngõ 564 Nguyễn Văn Cừ, P. Gia Thụy, Long Biên, Hà Nội",,,,
+593,Bi Bán Mì - Mì Trộn Indomie - Ngõ 100 Nguyễn Xiển,"50 Ngõ 100 Nguyễn Xiển, Thanh Xuân, Hà Nội",,,20.9892786,105.8040789
+594,"GỎI CUỐN FAMILY - Bún Trộn, Mỳ Trộn & Nem Nướng Nha Trang - 256 Bạch Đằng","256/16/27 Bạch Đằng, P. Chương Dương Độ, Hoàn Kiếm, Hà Nội",,,,
+595,Nabi Food - Tiệm Mì Indomie & Đồ Ăn Vặt - Lĩnh Nam,"Số 18 Ngõ 112/54 Phố Nam Dư, P. Lĩnh Nam, Hoàng Mai, Hà Nội",,,,
+596,Somali Cat - Bánh Ngọt & Trà Sữa Online - Nguyễn Huy Tưởng,"142 Nguyễn Huy Tưởng, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9962471,105.8023775
+597,Khánh Chi Bán Bánh,"22 Thượng Đình, Thanh Xuân, Hà Nội",,,20.9991481,105.8144297
+598,Liuni Tea - Nguyễn Trãi,"328D Nguyễn Trãi, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9962338,105.8098179
+599,Mói Mói - Tiệm Trà Nhật Bản - Vương Thừa Vũ,"Số 1 Ngõ 131/8 Vương Thừa Vũ, Thanh Xuân, Hà Nội",,,,
+600,"Nut.matcha - Coffe, Matcha & Trà - Mễ Trì Hạ","33 Ting Tong, Ngách 59/93/25 Mễ Trì Hạ, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,,
+601,Lee Trà Hoa Quả Và Nước Ép - 89 Phố Chùa Quỳnh,"89 Phố Chùa Quỳnh, Hai Bà Trưng, Hà Nội",,,21.0010169,105.8581395
+602,Dr.Matcha Tiệm Trà Nhật Bản - Giải Phóng,"Số 27B Ngõ 697 Giải Phóng, Hoàng Mai, Hà Nội",,,,
+603,GÀ RÁN & BURGER GONGFU CHICKEN - Trần Khát Chân,"253 Trần Khát Chân, P. Đống Mác, Hai Bà Trưng, Hà Nội",,,,
+604,Nước Ép Trái Cây Khổng Lồ 1991,"Kiot 16, Ngõ 124 Vĩnh Tuy, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,,
+605,Bánh Mỳ Nướng & Nước Ép - 44 Nguyễn Văn Trỗi,"44 Nguyễn Văn Trỗi, P. Phương Liệt, Thanh Xuân, Hà Nội",,,20.9869024,105.8385724
+606,"Ngô Khoai Sắn Cô Út - Khoai Lang Nướng, Bánh Mỳ & Sinh Tố","112 Ngõ 259 Phố Vọng, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,20.9948285,105.8428961
+607,Bami Sot - Bánh Mì Đen - Lò Đúc,"138 Lò Đúc, Hai Bà Trưng, Hà Nội",,,21.0119284,105.8588031
+608,Bếp Ăn Vặt - Đồ Hàn & Mỳ Indomie - Bạch Đằng,"101D Bạch Đằng, P. Chương Dương Độ, Hoàn Kiếm, Hà Nội",,,,
+609,Tiệm Oye - Cafe & Trà Ngon Đậm Vị - Lê Trọng Tấn,"Số Nhà B3 Ngõ 32 Lê Trọng Tấn, P. La Khê, Hà Đông, Hà Nội",,,,
+610,Mỳ Chua Cay & Đồ Ăn Vặt Online - Long Biên,"28 Ngõ 38 Phố Tư Đình, Long Biên, Hà Nội",,,21.0278135,105.8855241
+611,"Bul - Bún Chả, Bánh Mì Lạng Sơn - Khu Tập Thể Nghĩa Tân","112A9 Nghĩa Tân, Cầu Giấy, Hà Nội",,,21.045681,105.7910701
+612,Phở KCC - Cơm Gà Xối Mắm Còn - KĐT Vân Canh,"CT1 Number One, Số Nhà 40 LK23 KĐT Vân Canh, Xã Vân Canh, Hoài Đức, Hà Nội",,,,
+613,Tiệm Mỳ Cô Hảo - Ăn Là Nghiền,"Số Nhà 117 Ngõ 324 Phương Canh, P. Phương Canh, Nam Từ Liêm, Hà Nội",,,,
+614,Koki - Mỳ Cay Seoul & Mỳ Trộn Indomie - Trần Cung,"Số 4 Ngõ 297/61 Trần Cung, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội",,,,
+615,"Cót Fruits - Hoa Quả, Nước Ép & Sinh Tố - Yên Hoà","29 Đường Yên Hoà , Cầu Giấy, Hà Nội",,,21.0157781,105.7967178
+616,Tiệm Bánh Sinh Nhật - Bánh Crepe Sầu Riêng - 209 Định Công Thượng,"209 Định Công Thượng, P. Định Công, Hoàng Mai, Hà Nội",,,20.9849545,105.8214428
+617,Beany Tea & Coffee,"144 Tây Trà, Hoàng Mai, Hà Nội",,,20.9757026,105.8807728
+618,"Hilo Coffee - Trà Hoa Quả, Cà Phê & Nước Ép - Trần Quý Kiên","44 Trần Quý Kiên, P. Dịch Vọng, Cầu Giấy, Hà Nội",,,21.0371031,105.7919194
+619,Mori Matcha - Matcha Latte - Trung Kính,"Số 09 Ngõ 213 Trung Kính, P. Yên Hòa, Cầu Giấy, Hà Nội",,,,
+620,Soocha Tea - Trà Sữa - Cổ Nhuế,"NO4TT3 521 Cổ Nhuế, Bắc Từ Liêm, Hà Nội",,,,
+621,HALI Matcha Latte - Trà Sữa & Nước Ép Nguyên Chất,"276 Tây Sơn, Đống Đa, Hà Nội",,,21.011617,105.8256868
+622,SauSuFood - An Trạch,"97 An Trạch, P. Quốc Tử Giám, Đống Đa, Hà Nội",,,21.0275902,105.8305036
+623,Huế Nem Bùi - Nem Chua - Thịt Chua & Đồ Ăn Vặt - Mỹ Đình,"Số Nhà 25 Ngõ 322 Mỹ Đình, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+624,Bánh Mì Sài Gòn Đức Đại - 28 Phúc Xá,"28 Phúc Xá, P. Phúc Xá, Ba Đình, Hà Nội",,,21.0452869,105.8497567
+625,Mỏ Khoét Food - Cơm Trộn & Đồ Ăn Vặt,"Số 12 Ngõ 280 Lê Trọng Tấn, Thanh Xuân, Hà Nội",,,20.9898242,105.8337884
+626,Nước Ép Sinh Tố A Béo - Trần Phú,"80 Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9796919,105.7870297
+627,"Chân Gà Sả Ớt, Bún Đậu & Phở Cuốn - Lê Đức Thọ","Nhà Số 1 Ngõ 35/27, Đường Lê Đức Thọ, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,,
+628,"Bánh Tráng Min - Nướng, Cuộn & Trộn - 47 Trâu Quỳ","47 Trâu Quỳ, Gia Lâm, Hà Nội",,,21.0120565,105.9331088
+629,"Bếp Ngoại Thanh - Nem Nắm Giao Thuỷ, Nộm Sứa & Chạo Tai Heo - Hoàng Ngân","4 Ngõ 170 Hoàng Ngân, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0102141,105.8057167
+630,"Trà Trái Cây Tươi, Nước Ép Nam Béo","Số 3C Ngõ 197 Phố Định Công, Hoàng Mai, Hà Nội",,,,
+631,Bún Trộn & Cơm Văn Phòng - Bếp Nhà Gạo,"16 Ngõ 161 Bát Khối, P. Long Biên, Long Biên, Hà Nội",,,21.0240489,105.8868334
+632,"Memoir Coffee - Cà Phê, Matcha & Trà - Chùa Láng","Số 16 Ngách 10 Ngõ 121 Chùa Láng, Đống Đa, Hà Nội",,,,
+633,Lẩu Mười CS2 - Lẩu Thái 1 Người Tomyum & Bún Hải Sản - Quan Nhân,"69 Ngõ 109 Quan Nhân, P. Nhân Chính, Thanh Xuân, Hà Nội",,,21.0055027,105.8129519
+634,"Cháo, Mỳ Trộn & Đồ Ăn Vặt A Béo - 358 Bùi Xương Trạch","Số Nhà 98 Ngõ 358/40/30 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,,
+635,Nem Nướng Nha Trang & Nem Lụi Huế - Vân Béo,"Số 6A Ngõ 38 Khúc Thừa Dụ, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+636,"Phở Gà, Cơm Sườn & Thịt Xiên - 64/8 Bùi Ngọc Dương","Số 64 Ngõ 8 Bùi Ngọc Dương, P. Bạch Mai, Hai Bà Trưng, Hà Nội",,,21.0014725,105.8535624
+637,JingCha - Milk Tea & Coffee - Nguyễn Văn Cừ,"72 Nguyễn Văn Cừ, Long Biên, Hà Nội",,,21.0466159,105.8827551
+638,Tùng Huế 3 - Bùn Bò Huế - La Dương,"745 Chùa Tổng, P. Dương Nội, Hà Đông, Hà Nội",,,20.9931578,105.7350893
+639,Bún Đậu Anh Phố Cổ - 531 Minh Khai,"531 Minh Khai, P. Minh Khai, Hai Bà Trưng, Hà Nội",,,20.9953119,105.8577953
+640,Nước Ép - Sinh Tố Nhà Na,"209 Doãn Kế Thiện, P. Mai Dịch, Cầu Giấy, Hà Nội",,,21.0413967,105.7778717
+641,"Trà Trái Cây, Nước Ép & Sinh Tố - Chè Ngon","64 Nguyên Hồng, P. Láng Hạ, Đống Đa, Hà Nội",,,21.0157962,105.8096407
+642,Tteok & Kim - Đồ Ăn Hàn Quốc,"38 Ngõ 392 Bạch Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",,,20.9999887,105.8496919
+643,Grape - Nước Nho Tươi 100% - Trương Định,"385 Trương Định, P. Tân Mai, Hoàng Mai, Hà Nội",,,20.9868157,105.8468623
+644,Ăn Vặt A Mỡ - 157 Chùa Láng,"157B Phố Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội",,,21.0235653,105.8049295
+645,Cafe Cốt Dừa & Trà Cúc - Cô Ba Tiểu Linh,"38 Yên Lãng, P. Láng Hạ, Đống Đa, Hà Nội",,,21.0090323,105.8145206
+646,Ô Long Đây - 62 Ngọc Khánh,"62 Ngọc Khánh, P.Ngọc Khánh, Ba Đình, Hà Nội",,,21.0267835,105.8178095
+647,YUMMY CHICKEN - Gà Rán Truyền Thống Hàn Quốc & Đồ Ăn Vặt - Vũ Tông Phan,"Số Nhà 216 Ngõ 545 Vũ Tông Phan, P. Khương Đình, Thanh Xuân, Hà Nội",,,,
+648,Bún Cá Ngon - Quan Nhân,"20 Ngõ 109/20 Phố Quan Nhân, P. Nhân Chính, Thanh Xuân, Hà Nội",,,,
+649,Strawberry - Nước Dâu Tươi 100% & Trà Hoa Quả - Nguyễn Lương Bằng,"106 Nguyễn Lương Bằng, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,21.0178795,105.8294483
+650,Chè Ngon Sài Gòn - Chè Thái Thập Cẩm - Nguyễn Chánh,"Chung Cư A14A, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0157781,105.7967178
+651,"HUY FOOD - Cháo, Súp Gà & Mỳ Xào - Trung Kính","2B Ngõ 123 Trung Kính, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0129085,105.7959176
+652,"Tiệm Trà 1997 - Nước Ép, Trà Hoa Quả Tươi & Mỳ Trộn","252 Trương Định, P. Tương Mai, Hoàng Mai, Hà Nội",,,20.9896674,105.8472904
+653,Seoul - Gà Rán Hàn Quốc - Linh Đàm,"Kiot 02 - HH1B Linh Đàm, P. Hoàng Liệt, Hoàng Mai, Hà Nội",,,,
+654,Ăn Vặt Hàn Quốc - Gà Rán - Linh Đàm,"Kiot 44, HH1C Linh Đàm, P. Hoàng Liệt, Hoàng Mai, Hà Nội",,,,
+655,"Ong Mật Quán - Xiên Que, Bánh Mì & Trà Thái - 79 Triều Khúc","79 Triều Khúc, Thanh Xuân, Hà Nội",,,20.9841257,105.8005636
+656,Thủy Anh Fruits - Hoa Quả Nhập Khẩu - Thành Công,"4 Thành Công, Ba Đình, Hà Nội",,,21.0205111,105.8152857
+657,"An An Quán (Món Sài Gòn) - Cơm Sườn, Hủ Tíu & Bún Thịt Nướng - Nguyễn Khang","Số 12 Ngách 39 Ngõ 381 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội",,,,
+658,Bếp Chang - Mỳ Trộn Indomie & Ăn Vặt,"Số 33 Ngõ 52/25 Mỹ Đình, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,,
+659,"TI.ÂY - Matcha, Tea & Coffee","9 Ngõ 426/48/52 Đường Láng, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+660,Mixed Noodles - Mỳ Trộn - Cầu Diễn,"Số 25 Ngõ 51/6 Ngoạ Long Minh Khai, Bắc Từ Liêm, Hà Nội",,,,
+661,SimSu Food - Ăn Vặt & Mì Trộn Indomie - Định Công,"Số 89 Ngõ 99/110/79 Định Công Hạ, Hoàng Mai, Hà Nội",,,,
+662,Quán Ăn 24h - Hàu Nướng & Cháo Hàu - Nhân Mỹ,"41 Ngách 322/95 Mỹ Đình, Nam Từ Liêm, Hà Nội",,,21.0213528,105.7718652
+663,Trà Sữa Thé Oolong - Văn Điển,"Số 36 Ngõ 136 Tứ Hiệp ( Xóm Bến ), Thanh Trì, Hà Nội",,,,
+664,Bếp Nhà SuKem - Tòa S4 Goldmark City,"Toà S4 Chung Cư Goldmark - 136 Hồ Tùng Mậu, P. Phú Diễn, Bắc Từ Liêm, Hà Nội",,,,
+665,Tuyết Mai Quán - Ăn Vặt & Đồ Uống - Ngõ Trạm Điện,"Số Nhà 80/6 Ngách 44 Ngõ Trạm Điện, Tổ 8, P. La Khê, Hà Đông, Hà Nội",,,,
+666,Ngon - Food - Kim Giang,"Nhà 38A Ngõ 168/97 Kim Giang, Hoàng Mai, Hà Nội",,,,
+667,Mì Trộn Indomie & Đồ Ăn Vặt - Babyboss - Kim Giang,"392/2A Kim Giang, Hoàng Mai, Hà Nội",,,,
+668,Thảo Nguyên Coffee & Tea - Tứ Hiệp,"Số 3 TT6 Khu Đấu Giá Tứ Hiệp, X. Tứ Hiệp, Thanh Trì, Hà Nội",,,,
+669,"Tiệm Nhà Vi - Trà Sữa, Nước Trái Cây & Cafe - Nguyễn Huy Tưởng","148 Nguyễn Huy Tưởng, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9962471,105.8023775
+670,Đỉnh Đỉnh - Cơm Trung & Món Táu - Flychef - Nguyễn Huy Tưởng,"50 Nguyễn Huy Tưởng, P. Thanh Xuân, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9962471,105.8023775
+671,Fuku Fuku - Pasta Nhật và Fusion Food - Flychef - Nguyễn Huy Tưởng,"50 Nguyễn Huy Tưởng, P. Thanh Xuân, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9962471,105.8023775
+672,Tiệm Nước Ép HI Juice - Nước Ép & Trà Hoa Quả - Khương Đình,"91 Khương Đình, P. Hạ Đình, Thanh Xuân, Hà Nội",,,20.9929118,105.8138498
+673,Cơm Gà Anh Béo - Gà Rán & Mì Trộn - Láng Hạ,"Số 45 Ngõ 87 Láng Hạ, Ba Đình, Hà Nội",,,,
+674,Quán Hùng Trang - Nước Ép & Sinh Tố - Văn Chương,"247 Văn Chương, Đống Đa, Hà Nội",,,21.0230988,105.836732
+675,"Ichi Food - Cháo, Súp & Mỳ Xào - Kim Giang","41A Ng. 192 Đ. Kim Giang, P. Đại Kim, Hoàng Mai, Hà Nội",,,,
+676,Bánh Mỳ & Bún Riêu - Chay Thiện Tâm,"133 Mai Hắc Đế, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",,,21.0129944,105.8510299
+677,Lethimcook - Mỳ Trộn Indomie - Tô Hiến Thành,"30 Tô Hiến Thành, Hà Đông, Hà Nội",,,20.9714955,105.7841878
+678,Omu Ome - Cơm trứng phủ - Flychef - Nguyễn Huy Tưởng,"50 Nguyễn Huy Tưởng, P. Thanh Xuân, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9962471,105.8023775
+679,BÚN RIÊU VIỆT - ĐÔNG CÁC,"193-195 Đông Các, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,21.018099,105.8290214
+680,Cháo Dinh Dưỡng Cao Cấp Xuka - Royal City,"1 Phố Cự Lộc, P. Nhân Chính (Gần Royal City), Thanh Xuân, Hà Nội",,,,
+681,"Lachi - Tea, Coffee & Trà Sữa Hương Nhài - Dương Nội","No12, 480 Khu Đất Dịch Vụ Liên Khu 31 Dương Nội, Hà Đông, Hà Nội",,,,
+682,Caffe & Trà Sức Khỏe - Phạm Đình Hổ,"Số 9 Phạm Đình Hổ, Hai Bà Trưng, Hà Nội",,,21.0160501,105.8565135
+683,"Trà Trái Cây, Sinh Tố & Nước Ép - ChiMini","48 Nguyễn Hữu Huân, P. Lý Thái Tổ, Hoàn Kiếm, Hà Nội",,,21.0351525,105.8544758
+684,Khánh Linh Quán - Louis 5,"Số 50 Đường Louis 5, P. Đại Mỗ, Nam Từ Liêm, Hà Nội",,,,
+685,Banana - Coffee & Nước Ép Trái Cây,"74 Yên Phụ (Nằm Trên Dốc 76 Lối Vào Hanoi Club Yên Phụ), P. Yên Phụ, Tây Hồ, Hà Nội",,,,
+686,"Happy Juice - Nước Ép, Sinh Tố & Trà Hoa Quả - Nghĩa Dũng","24 Ngõ 15 Nghĩa Dũng, P. Phúc Xá, Ba Đình, Hà Nội",,,,
+687,Cha Tra Thai - Trà Thái Đường Phố Phong Cách BangKok - Đê La Thành,"327 Đê La Thành, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,21.0212913,105.8242729
+688,Cóc Xoài Bao Tử Khánh Ngọc - Nguyễn Khang,"Số Nhà 12 Ngách 7 Ngõ 381 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội",,,,
+689,Bếp Xanh - Giáp Bát,"12-14 Ngõ 270 Giáp Bát, P. Giáp Bát, Hoàng Mai, Hà Nội",,,20.9812392,105.8442159
+690,"Trà Hoa Quả Tươi, Sinh Tố & Nước Ép Trái Cây - 127 Kim Hoa","127 Kim Hoa, P. Kim Liên, Đống Đa, Hà Nội",,,,
+691,Hotpot Cheng Cheng - Set Lẩu Nướng Gà Ủ Muối - Quỳnh Mai,"102C9 Quỳnh Mai, P. Quỳnh Mai, Hai Bà Trưng, Hà Nội",,,21.0010617,105.8601608
+692,Shym - Coffee - Trần Thái Tông,"Số 4 Ngõ 45 Trần Thái Tông , Cầu Giấy, Hà Nội",,,21.034224,105.7898383
+693,"Sanvy - Trà Trái Cây, Sữa Chua Lắc & Trà Sữa","5 Ngõ 7 Lê Đức Thọ, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,21.035285,105.7707288
+694,"Haye Foods - Mì Trộn Indo, Đồ Ăn Vặt & Trà Sữa - Quỳnh Lôi","15 Gác 1 C5 TT Quỳnh Mai, Ngõ 15 Phố Quỳnh Lôi, Hai Bà Trưng, Hà Nội",,,,
+695,Cơm Tấm Hoàng - Cơm Tấm Sài Gòn - Nguyễn Đức Thuận,"309/2 Nguyễn Đức Thuận, Gia Lâm, Hà Nội",,,21.0119209,105.9510315
+696,HaNa Yummy - Hot Dog & Sandwich,"567A Phạm Văn Đồng, P. Cổ Nhuế, Bắc Từ Liêm, Hà Nội",,,21.059571,105.7841807
+697,"Phương Nga Fruits - Set Hoa Quả Sạch, Hoa Quả Gọt Sẵn & Nước Ép - 131 Ngõ Văn Chương","131 Ngõ Văn Chương, P. Văn Chương, Đống Đa, Hà Nội",,,21.020624,105.8363812
+698,HaNa Gâteaux - Shop Online,"567 Phạm Văn Đồng, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",,,21.059571,105.7841807
+699,ChangTea - Đậm Vị Trà Ngon - S5 Vinhomes Symphony,"S5 Vinhomes Symphony Đường Chu Huy Mân, Long Biên, Hà Nội",,,,
+700,"Dawa Cafe - Cafe, Matcha & Cacao","48 ngõ 442 Phạm Văn Đồng, P. Cổ Nhuế 2, Bắc Từ Liêm, Hà Nội",,,21.0564774,105.7814158
+701,Cô Hạnh - Trà Trái Cây Nhiệt Đới - Văn Tiến Dũng,"Số 11D, Ngách 66 Ngõ 59 Văn Tiến Dũng, Bắc Từ Liêm, Hà Nội",,,,
+702,Hoa Lá - Sinh Tố & Nước Ép Trái Cây Tươi - Chùa Láng,"92A Ngõ 185 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội",,,21.0213292,105.8019586
+703,Trà Trái Cây Hà Lùn,"142 Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",,,21.0748042,105.7906068
+704,Bún Chả Đỗ Lý,"5 Ngõ 108 Xuân Đỉnh, P. Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",,,21.0715498,105.7997859
+705,"Bánh Xèo, Tàu Hũ & Đồ Ăn Vặt - Hàng Đậu","Số 1 Hàng Đậu, Hoàn Kiếm, Hà Nội",,,21.0317912,105.8538671
+706,Bánh Mì Pate Cột Đèn & Bánh Mì Truyền Thống - 96 Doãn Kế Thiện,"96 Doãn Kế Thiện, Cầu Giấy, Hà Nội",,,21.0413967,105.7778717
+707,Rau Má Mix Hà Anh - Hoàng Văn Thái,"70 Hoàng Văn Thái, P. Khương Mai, Thanh Xuân, Hà Nội",,,20.9968956,105.8248437
+708,"AN VIỆT - Bún Đậu Mắm Tôm, Mì Trộn Indo & Đồ Ăn Vặt","11 Ngõ 459 Bạch Mai, P. Trương Định, Hai Bà Trưng, Hà Nội",,,20.9975826,105.85093
+709,Tiệm Cà Phê Bông - Trà Hoa Quả - Sài Đồng,"Số 23, Ngõ 42, Sài Đồng, TT. Sài Đồng, Long Biên, Hà Nội",,,,
+710,Bún Đậu Mắm Tôm Tuấn Lynh - Bún Đậu & Bún Chả Nướng - 9A Ngõ 294 Lĩnh Nam,"9A Ngõ 294 Lĩnh Nam, P. Lĩnh Nam, Hoàng Mai, Hà Nội",,,,
+711,Sâu - Coffee & Tea - 255 Nguyễn Khang,"Nhà 12B2 Ngách 7 Ngõ 255 Nguyễn Khang, Cầu Giấy, Hà Nội",,,,
+712,Cơm Chay An Vui - Đồ Chay Tuệ Lâm - Nguyễn Trãi,"Căng Tin CT1 Chung Cư Nàng Hương, 583 Nguyễn Trãi, Thanh Xuân, Hà Nội",,,,
+713,Phương Linh Food - Shop Đồ Ăn Vặt Online,"Số 11A Xuân Phương, P. Minh Khai, Bắc Từ Liêm, Hà Nội",,,,
+714,"Fruity Fresh - Nước Ép, Sinh Tố & Sữa Chua - Thành Công","101H3 Phố Thành Công, Ba Đình, Hà Nội",,,,
+715,Mộc - Coffee & Tea - Đống Đa,"110 Ngõ Đại Đồng, Đống Đa, Hà Nội",,,21.0193081,105.8363707
+716,Chóp Chép - Thế Giới Chè & Ăn Vặt,"1A Ngách 43 Ngõ 43 Chùa Bộc, P. Kim Liên, Đống Đa, Hà Nội",,,,
+717,Matcha Ah! - Quán Đồ Uống - 240 Đường Láng,"240 Đường Láng, P. Thịnh Quang, Đống Đa, Hà Nội",,,21.0038503,105.8186629
+718,"Match Matcha - Tiệm Matcha, Trà Và Cà Phê - 565 Nguyễn Trãi","Nhà Số 7 Ngách 7 Hẻm 7 Ngõ 565 Nguyễn Trãi, Thanh Xuân, Hà Nội",,,,
+719,Jaspas Restaurant,"Tầng 4, Tháp Hà Nội, 49 Hai Bà Trưng, P. Trần Hưng Đạo, Hoàn Kiếm, Hà Nội",,,,
+720,An Cựu - Bún Bò Huế - Trung Văn,"Ki Ốt 95 Khu TTTM VL1 Trung Văn (Đối Diện Cổng Trường Tiểu Học Nguyễn Du), P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,,
+721,Cơm Tấm Phan Thắng - Nguyễn Thị Định,"6 Ngõ 37 Nguyễn Thị Định, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0113379,105.8047186
+722,Cơm Gà Song Anh - Cơ Sở 1,"Số 64 Ngõ 1 Ao Sen, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9812757,105.788472
+723,LaBoong - Trà Ô Long Làng La Boong - 358 Xã Đàn,"358 Xã Đàn, P. Nam Đồng, Đống Đa, Hà Nội",,,21.0157221,105.8325612
+724,Trà Sữa Tocotoco - Lò Đúc,"149A Lò Đúc, P. Đống Mác, Hai Bà Trưng, Hà Nội",,,,
+725,"Cô Ti's Kitchen - Cơm, Salad & Ăn Vặt Online","51 Ngõ 262B Nguyễn Trãi, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,,
+726,Gugsumi - Bún Trộn Chính Hiệu - Đường 800A,"3A Ngõ 4 Đường 800A, P. Nghĩa Đô, Cầu Giấy, Hà Nội",,,,
+727,Tự Nhiên Thấy Đói - Mỳ Cay & Gà Ủ Muối - Nguyễn Khánh Toàn,"Số nhà 7, Ngách 8, Ngõ 92, Nguyễn Khánh Toàn, P. Quan Hoa, Cầu Giấy, Hà Nội",,,,
+728,Mỳ Chua Cay Tomyum & Nộm Chân Gà Sốt Thái - Nguyễn Khánh Toàn,"47 Ngách 12 Ngõ 58 Nguyễn Khánh Toàn, P. Quan Hoa, Cầu Giấy, Hà Nội",,,,
+729,Giang Cún - Bún Thái Hải Sản - Định Công Thượng,"Số 28 Ngách 15 Ngõ 112 Định Công Thượng, P. Định Công, Hoàng Mai, Hà Nội",,,,
+730,"Bami Bee - Gà Ủ Muối, Mì Gà Tần & Mì Trộn Indomie - Đầm Bầu","49 Đầm Bầu (Dốc Viện Phụ Sản HN), P. Ngọc Khánh, Ba Đình, Hà Nội",,,,
+731,"Bánh Đúc Nóng Online - Đồ Ăn Vặt, Chân Gà Sả Tắc & Đồ Uống - Phúc Đồng","14A8 Khu 918, P. Phúc Đồng, Long Biên, Hà Nội",,,,
+732,Anh Béo - Bún Miến Ngan - Trần Quốc Vượng,"1 Ngách 26 Ngõ 63 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+733,"NADO - Lẩu Thái, Mỳ Cay & Đồ Ăn Vặt","Số 68 Ngõ 195 Cầu Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội",,,,
+734,"Tiệm Mì Sinh Viên - Mì Trộn Indomie, Bánh Tráng & Viên Chiên","91/35 Số 2 Nguyễn Chí Thanh, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+735,Bếp Ba Bột - Chân Gà Sốt Thái & Chân Gà Hấp Thảo Quả - Nghĩa Tân,"Cầu Thang 1 Nhà C8, P. Nghĩa Tân, Cầu Giấy, Hà Nội",,,,
+736,Bánh Mỳ Thanh Cảnh Cơ Sở 4 - Bánh Mỳ Chảo - Xuân Phương,"Số Nhà 2 Ngõ 80 Xuân Phương, P. Phương Canh, Nam Từ Liêm, Hà Nội",,,,
+737,Tiệm Bánh Rapha - Shop Online - Giáp Bát,"76 Ngõ 119 Giáp Bát, Hoàng Mai, Hà Nội",,,20.9864872,105.8435414
+738,"Chef Hoàng - Trứng Gà Nướng, Xôi & Nước Ép - Trần Phú","96 Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9796919,105.7870297
+739,Ăn Vặt Xuyên Việt - Mì Trộn Indomie - Ngọc Thuỵ,"TT2-24 Khu Tái Định Cư Ngọc Thụy, P. Ngọc Thụy, Long Biên, Hà Nội",,,,
+740,Cơm Văn Phòng Hùng Nguyễn - 15 Ngõ 8 Khu Tập Thể Chi Cục Thủy Sản,"15 Ngõ 8 Khu Tập Thể Chi Cục Thủy Sản, X. Thanh Liệt, Thanh Trì, Hà Nội",,,,
+741,Gà Rán Việt,"3 Hồng Mai, P. Bạch Mai, Hai Bà Trưng, Hà Nội",,,20.998659,105.8561848
+742,Phở Cuốn Anh Tú,"178 Ngọc Lâm, P. Ngọc Lâm, Long Biên, Hà Nội",,,21.0462686,105.8708876
+743,Tiệm Gà Ủ Muối - Gà Luộc & Gà Ủ Muối - Lê Quý Đôn 2,"47 Lê Quý Đôn 2, P. Hà Cầu, Hà Đông, Hà Nội",,,,
+744,Nhật Hạ - Vua Gà Ủ Muối - Xuân Phương,"Đối Diện 46 Xuân Phương, P. Minh Khai, Bắc Từ Liêm, Hà Nội",,,,
+745,Bánh Mì & Pate Cột Đèn Hải Phòng Tâm Cook - Ngô Thì Nhậm,"18A Ngô Thì Nhậm, P. Hà Cầu, Hà Đông, Hà Nội",,,20.9687125,105.7691947
+746,"Gà Luộc, Gà Ủ Muối & Cơm Cháy - Duyên Dương","Số 32 Ngách 59 Ngõ 68 Triều Khúc, P. Thanh Xuân Nam, Thanh Xuân, Hà Nội",,,,
+747,"Minh Kem Food - Pizza, Mỳ Ý & Ăn Vặt - Lĩnh Nam","12A1 Ngách 121/1 Ngõ 255 Lĩnh Nam, P. Vĩnh Hưng, Hoàng Mai, Hà Nội",,,,
+748,3DELI LEMON TEA - Nguyễn Văn Lộc,"9 Nguyễn Văn Lộc, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9850858,105.7860069
+749,Min Bakery - Bông Lan Trứng Muối Online,"132 Nguyễn Huy Tưởng, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9962471,105.8023775
+750,Bếp Về Đêm - Đồ Ăn Nhanh - 83 Sông Nhuệ,"83 Sông Nhuệ, P. Đức Thắng, Bắc Từ Liêm, Hà Nội",,,21.0751097,105.7721054
+751,Xôi Bà Ngà - Đồ ăn - Thuỵ Khuê,"Số nhà 25 ngõ 514 Thuỵ Khuê, Tây Hồ, Hà Nội",,,,
+752,Alopizza - Mỳ Ý & Pizza Tươi 100% - Phú Lương,"20A Ngách 2/7 Ngõ Trần Hưng Đạo, P. Phú Lương, Phú Lãm, Hà Đông, Hà Nội",,,,
+753,Trà Sữa Tiger Sugar By HongKong - Vương Thừa Vũ,"P208 - 55 Ngõ 164 Vương Thừa Vũ, P. Khương Trung, Thanh Xuân, Hà Nội",,,,
+754,Bếp Của Vụn - Bánh Bông Lan Trứng Muối Online,"7 Ngõ 332 Lĩnh Nam (Vào Ngõ Rẽ Trái), P. Lĩnh Nam, Hoàng Mai, Hà Nội",,,,
+755,Bún Đậu Mẹt 268 Tô Hiệu,"8 Tô Hiệu, P. Nghia Tân, Cầu Giấy, Hà Nội",,,21.0427765,105.7962279
+756,Sườn Phố - Sườn Nướng BBQ,"Số 1 Ngõ 44 Phố Nguyên Khiết, P. Phúc Tân, Hoàn Kiếm, Hà Nội",,,,
+757,Ốc Phê - 117 Nguyễn Hữu Thọ,"Số 117 Nguyễn Hữu Thọ, P. Hoàng Liệt, Hoàng Mai, Hà Nội",,,,
+758,"Bình Food - Mì Indomie, Bánh Mì & Đồ Ăn Vặt","Số 10B ngõ 22 Trung Kính, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0141264,105.799639
+759,Trà Trái Cây Tươi - Tiệm Trà Hà Mã - Lê Thanh Nghị,"Số 1 Ngách 72 Ngõ 121 Lê Thanh Nghị, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,,
+760,"Mai Chicken - Mỳ Trộn Indomie, Gà Rán & Bánh Gà - 312 Phố Chùa Quỳnh","312 Phố Chùa Quỳnh, Hai Bà Trưng, Hà Nội",,,21.0010169,105.8581395
+761,Sói Food - Trộn Tê Cay & Mì Trộn Indomie - 178 Hoàng Mai,"8A Ngõ 178 Hoàng Mai, Hoàng Mai, Hà Nội",,,20.9865522,105.8681095
+762,Fong Tea - Trà Sữa Hong Kong,"47 Tổ 9 Mậu Lương, P. Kiến Hưng , Hà Đông, Hà Nội",,,,
+763,"Bếp Của Tớ - Mỳ Trộn, Bún Trộn & Cháo - 46 Phạm Ngọc Thạch","Số 57 Ngõ 46 Phạm Ngọc Thạch, Đống Đa, Hà Nội",,,,
+764,CleanFastFood - Thế Giới Đồ Ăn Vặt - Vinhomes Smart City,"Toà S201, Vinhomes Smart City Đại Lộ Thăng Long, P. Tây Mỗ, Nam Từ Liêm, Hà Nội",,,,
+765,Tteokbokki Qlinh - Tokbokki & Đồ Ăn Hàn Quốc - Cầu Diễn,"Số 45 Ngõ 99 Đường Cầu Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội",,,,
+766,Nem Nướng Nha Trang - Khúc Thừa Dụ,"Số nhà 14 ngõ 38 Khúc Thừa Dụ, P. Dịch Vọng, Cầu Giấy, Hà Nội",,,,
+767,Tiệm Cú Đêm - Triều Khúc - Shop Online,"2 Ngõ 111 (Cuối Ngõ 111) Triều Khúc, Thanh Trì, Hà Nội",,,,
+768,"688 Food - Cơm Thịt Xào Cay, Mỳ Cay & Chân Giò Hàn Quốc - Mỹ Đình","43 Ng. 20 Đ. Mỹ Đình, P. Mỹ Đình, Nam Từ Liêm, Hà Nội",,,,
+769,Bánh Đa Sườn Hải Phòng & Cơm Suất Ngon - Văn Chương,"12/92 Văn Chương, Đống Đa, Hà Nội",,,21.0230988,105.836732
+770,Bún Đậu Làng Mơ 33 - Chính Kinh,"51 Ngõ 12 Chính Kinh, Thanh Xuân, Hà Nội",,,20.9991202,105.8122423
+771,Nấm Food - Bánh Mì Muối Ớt & Bơ Tỏi - Nguyễn Lân,"5/14 Nguyễn Lân, P. Phương Liệt, Thanh Xuân, Hà Nội",,,20.9950029,105.836353
+772,Katriane - Kafé & Food - Đường 32,"8 Tổ 1 Cạnh Đường Tàu Phú Diễn, Đường 32, P. Phú Diễn, Bắc Từ Liêm, Hà Nội",,,,
+773,"Haki Quán - Cháo Ếch, Mì Trộn Indomie & Đồ Ăn Vặt - Thanh Lãm","4 Ngõ 5 Thanh Lãm, Hà Đông, Hà Nội",,,20.9444507,105.7561539
+774,"Bếp Cô Hà - Mỳ Trộn, Xôi & Bánh Mỳ - 95 Yên Hòa","95 Yên Hòa, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0232653,105.7954824
+775,Liên Food - Cơm & Mì Tìm Cật Chua Cay - Khâm Thiên,"4A Ngách 87 Ngõ 165 Chợ Khâm Thiên, P. Trung Phụng, Đống Đa, Hà Nội",,,,
+776,Cheese Won - Bánh Đồng Xu Phô Mai - Dương Khuê,"Số 43 Nhà D Dương Khuê (Đối Diện Cafe Hội An Số 30 Dương Khuê), P. Mai Dịch, Cầu Giấy, Hà Nội",,,,
+777,Bếp Mẹ Cua - Mì Indomie & Đồ Ăn Vặt - Nghĩa Dũng,"11B Ngách 26 Bgõ 29 Nghĩa Dũng, P. Phúc Xá, Ba Đình, Hà Nội",,,,
+778,Quán Gà Ủ Muối & Gà Luộc - Đồ Ăn Nhanh - Triều Khúc,"Số 30 Ngách 59 Ngõ 68 Triều Khúc, P. Thanh Xuân Nam, Thanh Xuân, Hà Nội",,,,
+779,Meo Meo Food - Bánh Tráng Trộn & Mì Trộn Indomie - Đê La Thành,"758 Đê La Thành, P. Thành Công, Ba Đình, Hà Nội",,,21.0241058,105.8141709
+780,"Gà Bó Xôi 80 - Mẹt Gà, Gà Rán & Trà Sữa","150D Nguyễn Đình Hoàn, P. Nghĩa Đô, Cầu Giấy, Hà Nội",,,21.0430048,105.8052865
+781,Cô Hai - Lẩu Ngon Miền Tây,"Số 2 Ngách 78 Ngõ 324 Phương Canh, P. Phương Canh, Nam Từ Liêm, Hà Nội",,,,
+782,Xanh Fruits - Hoa Quả Gọt Sẵn - Nguyễn Khang,"493 Nguyễn Khang, Cầu Giấy, Hà Nội",,,21.0217139,105.7997294
+783,Quán Khói - Lẩu Cốc & Đồ Ăn Vặt,"65 ngõ 109 quan nhân, P. Nhân Chính, Thanh Xuân, Hà Nội",,,21.0055027,105.8129519
+784,Quán Chị Boong - Gà Popcorn Sốt & Đồ Ăn Vặt Hàn Quốc - 173 Thịnh Quang,"173 Thịnh Quang, Đống Đa, Hà Nội",,,21.0085471,105.8174276
+785,Minh Food - Mì Trộn Indomie - Trương Định,"8A Ngách 23 Ngõ 663 Trương Định, Hoàng Mai, Hà Nội",,,,
+786,"Bún, Mì & Bánh Mỳ - Ben Quán Food","121F Định Công, Hoàng Mai, Hà Nội",,,20.9826495,105.8291858
+787,Minh Hoàng Bakery - Bông Lan Trứng Muối & Đồ Uống Online - Trần Thái Tông,"37 Ngõ 44 Trần Thái Tông, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0320811,105.7861889
+788,Trà Sữa Tiger Sugar - Nguyễn Chính,"39 Nguyễn Chính, P. Tân Mai, Hoàng Mai, Hà Nội",,,20.9822101,105.8477242
+789,Royal Tea - Trà Sữa Trân Châu - Nguyễn Chính,"39 Nguyễn Chính, P. Tân Mai, Hoàng Mai, Hà Nội",,,20.9822101,105.8477242
+790,Bánh Mì Minh Nhật - Duy Tân,"66 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0306389,105.7857047
+791,MIN BÚN RIÊU - BÚN RIÊU CUA - ĐỒNG XUÂN,"52 Phố Đồng Xuân, Hoàn Kiếm, Hà Nội",,,21.0379178,105.8489101
+792,Anh Béo - Bún & Bánh Đa Trộn - Vĩnh Hưng,"17 Ngách 29 Ngõ 221 Vĩnh Hưng, P. Vĩnh Hưng, Hoàng Mai, Hà Nội",,,,
+793,"Chick Garden - Chè, Súp & Mỳ Chua Cay - Ngô Thì Nhậm","34A Ngô Thì Nhậm, P. Hà Cầu, Hà Đông, Hà Nội",,,20.9687125,105.7691947
+794,Royaltea - 20 Nguyễn Đình Chiểu,"20 Nguyễn Đình Chiểu, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",,,21.0152682,105.8472342
+795,Trà Sữa Tiger Hill - Toà K1 KĐT Việt Hưng,"Kiot 8A Toà K1 Khu Đô Thị Việt Hưng, P. Đức Giang, Long Biên, Hà Nội",,,,
+796,Trà Bí Đao Plus - Nguyễn Chính,"39 Nguyễn Chính, P. Tân Mai, Hoàng Mai, Hà Nội",,,20.9822101,105.8477242
+797,Nem Nướng Nha Trang Luji - Kiot K101 khu TMDV Trung Văn VL1,"Kiot K101 khu TMDV Trung Văn VL1, Nam Từ Liêm, Hà Nội",,,,
+798,Trà Bí Đao Nam Duy - Hà Nội - Vũ Tông Phan,"239 Vũ Tông Phan, P. Khương Trung, Thanh Xuân, Hà Nội",,,20.9952961,105.8153012
+799,Bánh Mì Tuhu Bread - Đỗ Ngọc Du,"11 Đỗ Ngọc Du, P. Đồng Nhân, Hai Bà Trưng, Hà Nội",,,21.0134596,105.855834
+800,Yi He Kao Nai - Trà Sữa Nướng Vân Nam - Tam Khương,"70 Tam Khương, P. Khương Thượng, Đống Đa, Hà Nội",,,21.0040293,105.8285414
+801,Bola - Bông Lan Trứng Muối Và Chè Đà Nẵng - Phan Bá Vành,"46 Ngõ 158 Phan Bá Vành, Bắc Từ Liêm, Hà Nội",,,21.0503904,105.7717345
+802,Korea House - Đồ Ăn Hàn Quốc Và Cơm Trộn - Ngõ Chùa Liên Phái,"59 Ngõ Chùa Liên Phái, P. Cầu Dền, Hai Bà Trưng, Hà Nội",,,,
+803,Mincha - Mì Trộn Indomie & Cuốn Ngon 4 Mùa,"31 Phố Nguyễn Văn Tuyết, P. Ngã Tư Sở, Đống Đa, Hà Nội",,,,
+804,Sữa Chua Trân Châu Hạ Long Healthy - Nguyễn Chính,"39 Nguyễn Chính, P. Tân Mai, Hoàng Mai, Hà Nội",,,20.9822101,105.8477242
+805,Trà sữa Cooler City - Icecream & Tea - Phố Xốm,"36 Phố Xốm, P. Phú Lãm, Hà Đông, Hà Nội",,,20.9420568,105.7567802
+806,Bánh Cuốn Phủ Lý - Nguyễn Văn Cừ,"Kiốt 9 Ngõ 558 Nguyễn Văn Cừ, Long Biên, Hà Nội",,,,
+807,Quequefood - Đồ Ăn Hàn Quốc Online,"15 Ngách 134 Ngõ 1277 Giải Phóng, P. Thịnh Liệt, Hoàng Mai, Hà Nội",,,,
+808,Tuyết Nhung - Cơm Gà Phú Yên - Chợ Gạo,"4 Chợ Gạo, Hoàn Kiếm, Hà Nội",,,21.0368772,105.8529021
+809,Trang Mèo - Phở Xào Bắp Bò - Hàng Buồm,"11 Hàng Buồm, P. Hàng Buồm, Hoàn Kiếm, Hà Nội",,,21.0354639,105.8505016
+810,Let's Pizza - Pizza & Mì Ý - Bằng Liệt,"21A Ngõ 25 Bằng Liệt, Phố Bằng Liệt, P. Hoàng Liệt, Hoàng Mai, Hà Nội",,,20.9638454,105.8206995
+811,Sói Biển - Thực phẩm sạch - Số 8 Vũ Thạnh,"8 Vũ Thạnh, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,21.0263881,105.8268336
+812,Mì Trộn Zin Zin - Hồ Tùng Mậu,"2/22/35 Ngõ 66 Hồ Tùng Mậu, P. Mai Dịch, Cầu Giấy, Hà Nội",,,,
+813,Bún Bò Huế Chanh Chua,"27 Tam Trinh, P. Vĩnh Tuy, Hoàng Mai, Hà Nội",,,20.9958762,105.8624875
+814,PocPoc Pizza - Mì Trộn Indomie & Đồ Ăn Vặt - Nguyễn Trãi,"30 Ngõ 108B Nguyễn Trãi, P. Thượng Đình, Thanh Xuân, Hà Nội",,,,
+815,Kaoya Hotpot - Mì Vịt Quay & Cơm Xá Xíu - Lương Định Của,"C11 Lương Định Của, P. Kim Liên, Đống Đa, Hà Nội",,,21.0018349,105.8360524
+816,Cơm Văn Phòng & Cơm Niêu Hợp Tác Xã - Nguyễn Đổng Chi,"24 Ngõ 65 Nguyễn Đổng Chi, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+817,Cơm Quê Chị Béo - Kim Mã,"199/82 Ngõ 290 Kim Mã, P. Kim Mã, Ba Đình, Hà Nội",,,21.0325653,105.8225587
+818,Quang Thắng - Cơm Ngon Văn Phòng,"108Y9 Ngõ Tự Do, Trần Đại Nghĩa, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,,
+819,Pepperonis Pizza - Lê Duẩn,"216 Lê Duẩn, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",,,,
+820,Vinamilk - Giấc Mơ Sữa Việt - Hàng Da - HN10184,"Số 44 Hàng Da, P. Cửa Đông, Hoàn Kiếm, Hà Nội",,,,
+821,PiPo Quán - Bánh Tráng Cuốn Thịt Heo,"7 Nguyễn Bá Khoản, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0173946,105.8008871
+822,TRÀ SỮA BINGXUE - 254 NGUYỄN TRÃI,"254 Đường Nguyễn Trãi, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,20.9864458,105.7959161
+823,KATINAT - Yên Phụ,"Số 1-1A Đường Yên Phụ, P. Yên Phụ, Tây Hồ, Hà Nội",,,,
+824,Quán Quân - Mì Tim Cật Chua Cay & Cháo - Khâm Thiên,"40 Ngõ 143 Ngõ Chợ Khâm Thiên, P. Khâm Thiên, Đống Đa, Hà Nội",,,,
+825,Quán Bánh Cuốn Thanh Hóa - Nguyễn Xiển,"14 Ngõ 250 Nguyễn Xiển, P. Hạ Đình, Thanh Xuân, Hà Nội",,,20.9862431,105.8061013
+826,"Nem Chạo Dương Thanh - Chạo, Nem Nắm, Nem Tai & Bún Chạo","127 Giáp Bát, P. Giáp Bát, Hoàng Mai, Hà Nội",,,20.9859049,105.8423806
+827,Bông Chicken - Gà Rán - Trương Định,"Số 8 Ngõ 864 Trương Định, P. Trương Định, Hoàng Mai, Hà Nội",,,,
+828,Super Chicken - Trần Thái Tông,"1 Ngách 44/37 Trần Thái Tông, P. Dịch Vọng, Cầu Giấy, Hà Nội",,,,
+829,Gà Rán Mê Lyy - Dương Khuê,"Kiot 6 Ngõ 29 Dương Khuê, P. Mai Dịch, Cầu Giấy, Hà Nội",,,,
+830,Hai Béo - Ăn Vặt & Bún Đậu - Ao Sen,"10A Ngõ 6 Phố Ao Sen, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9821665,105.7876578
+831,Ni Ni Indomie - Ăn Vặt Quán - Nguyễn Chánh,"Chung Cư B10A Nam Trung Yên Nguyễn Chánh, P. Trung Hoà, Cầu Giấy, Hà Nội",,,,
+832,HaBi - Healthy Food - Bùi Xương Trạch,"61 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,20.9919821,105.8186341
+833,Song Hổ Quán - Phở Bò & Cơm Rang,"1A A3/D8 Ngõ 673 Ngọc Hồi, TT. Văn Điển, Thanh Trì, Hà Nội",,,,
+834,SuChin - Cơm Gà Cay Hàn Quốc,"Ngõ 8/192/27/6 Lê Quang Đạo, P. Phú Đô, Nam Từ Liêm, Hà Nội",,,,
+835,Trà Sữa Trân Châu Tiger Sugar Tea - Trà Sữa Trân Châu - Tân Mai,"86 Tân Mai, P. Tân Mai, Hoàng Mai, Hà Nội",,,20.983543,105.8503078
+836,Bánh Mì Hem - Nguyễn Huy Tưởng,"116 Nguyễn Huy Tưởng, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9962471,105.8023775
+837,Bánh Cuốn Đệ Nhất - Quang Trung,"11 Ngõ 195 Quang Trung, P. Hà Cầu, Hà Đông, Hà Nội",,,20.9682137,105.7739428
+838,"Happy Chicken - Cơm Gà, Gà Rán & Mì Ý - Thành Công","102A2 Thành Công, P. Thành Công, Ba Đình, Hà Nội",,,21.0204559,105.813175
+839,"Khánh Béo - Ăn Vặt, Nước Ép & Sinh Tố","311 Tôn Đức Thắng, P. Hàng Bột, Đống Đa, Hà Nội",,,21.0213546,105.8321496
+840,Quán Gà Ủ Muối - Gà Hun Khói & Chân Gà Ngâm Xả Tắc,"22 Ngõ 63/5/36 Lê Đức Thọ, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,,
+841,Quán Mẹt Ăn Vặt - Nem Nướng Nha Trang & Nem Chua Rán,"13 Ngõ 63/5/36 Lê Đức Thọ, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+842,Quán Mẹt Ăn Vặt Giá Học Sinh - Nem Nướng Nha Trang & Nem Chua Rán,"12 Ngõ 63/5/36 Đường Lê Đức Thọ, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+843,Quán Nem Nướng Nha Trang - Mẹt Ăn Vặt - Lê Đức Thọ,"11 Ngõ 63/5/36 Lê Đức Thọ, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+844,Nootea - Lê Trọng Tấn,"212 Lê Trọng Tấn, P. Khương Mai, Thanh Xuân, Hà Nội",,,20.9879502,105.82586
+845,Lẩu Ly & Mì Indomie - Lĩnh Nam - Shop Online,"10D Ngách 29 Ngõ 296 Lĩnh Nam, P. Lĩnh Nam, Hoàng Mai, Hà Nội",,,,
+846,Sữa Chua Trân Châu Hạ Long - Mỹ Đình,"Số 6A Ngõ 394 Mỹ Đình, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+847,"Meo Meo Quán - Gà Ủ Muối, Xôi & Đồ Ăn Vặt - Văn Hội","Số 4 Ngõ 156 Đường Văn Hội, P. Đức Thắng, Bắc Từ Liêm, Hà Nội",,,,
+848,Cơm Rang Quốc Dân - Thành Công,"102 D9 Đường Thành Công, P. Thành Công, Ba Đình, Hà Nội",,,,
+849,M Cafein - Kim Giang,"Số 189 Ngõ 750 Kim Giang (đầu Ngõ 55 Thanh Liệt) , X. Thanh Liệt, Thanh Trì, Hà Nội",,,,
+850,Nem Nắm & Nem Tai - Thu Hương (Since 2005) - Nguyễn An Ninh,"79 Nguyễn An Ninh, P. Tương Mai, Hoàng Mai, Hà Nội",,,20.9911894,105.8454948
+851,Bún Cá Măng Cay Đệ Nhất - Lê Trọng Tấn,"152 Ngõ 192 Lê Trọng Tấn, P. Định Công, Thanh Xuân, Hà Nội",,,20.9914423,105.8283466
+852,Cơm Thố ACay - Giếng Mứt,"3 Ngõ Giếng Mứt, P. Trương Định, Hai Bà Trưng, Hà Nội",,,20.9980422,105.8493514
+853,"Bếp Mẹ Beo Sóc- Trà Sữa, Chân Gà & Đồ Ăn Vặt - Đội Cấn","21A Ngách 36 Ngõ 379 Đội Cấn, Ba Đình, Hà Nội",,,,
+854,"Thiên An - Gà Ủ Muối, Mỳ Trộn Indomie & Ăn Vặt Các Loại","Số 4 Màu Xanh Đầu Ngách 95/2 Phố Nam Dư, P. Lĩnh Nam, Hoàng Mai, Hà Nội",,,,
+855,"Hamini - Nước Ép, Hoa Quả Dầm & Đồ Ăn Vặt - Cốm Vòng","66 Cốm Vòng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+856,Cà Phê Góc Phố Simco - Đình Thôn,"Số 16 Nghách 1/8 Ngõ 1 Đình Thôn, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+857,Bánh Mì Hội An - Hoàng Đạo Thành,"98 Hoàng Đạo Thành, P. Kim Giang, Thanh Xuân, Hà Nội",,,,
+858,Phở Chua 22 - Phở Chua & Mỳ Trộn - Trâu Quỳ,"Số 36 Ngõ 46 Đường Trâu Quỳ, TT.Trâu Quỳ, Gia Lâm, Hà Nội",,,21.0077719,105.9353342
+859,Chubby's Kitchen - Bánh Mỳ & Sữa Hạt - Tôn Thất Tùng,"96 Ngõ 72 Tôn Thất Tùng, P. Khương Thượng, Đống Đa, Hà Nội",,,21.0018439,105.8279287
+860,Cơm Gà Nướng Lu 99 - Dương Quảng Hàm,"18 Ngõ 48 Dương Quảng Hàm, P. Quan Hoa, Cầu Giấy, Hà Nội",,,,
+861,Bún Chả Que Tre - Thanh Xuân Bắc,"115E8 Thanh Xuân Bắc, P. Thanh Xuân Bắc, Thanh Xuân, Hà Nội",,,,
+862,"Ngô, Khoai & Hạt Dẻ - Shop Online","386 Khương Đình, P. Hạ Đình, Thanh Xuân, Hà Nội",,,20.9929118,105.8138498
+863,Nem Nướng Nha Trang - Hoàng Mai,"26 Giáp Bát, P. Giáp Bát, Hoàng Mai, Hà Nội",,,20.9859049,105.8423806
+864,Đồ Ăn Vặt - Bảo Linh,"Số 17A Ngõ 164/14 Đê La Thành Nhỏ, P. Thổ Quan, Đống Đa, Hà Nội",,,,
+865,Kumit - Mỳ Gà Tần & Mỳ Trộn Indomie,"22 Ngõ 34 Phú Đô, P. Phú Đô, Nam Từ Liêm, Hà Nội",,,21.0097437,105.7678022
+866,Ro's Cake - Bánh Kem & Bông Lan Trứng Muối,"Số 11A Ngõ 2 Quang Trung, P.Quang Trung, Hà Đông, Hà Nội",,,,
+867,Hoàn Hương - Bánh Cuốn Nóng & Gà Tần,"30 Đình Thôn, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,21.0208148,105.7791683
+868,"Bếp Chú Thuỷ Cơ Sở 1 - Cơm Gà Nướng, Sườn Nướng & Thịt Nướng - Trần Đại Nghĩa","32 Ngõ 183 Trần Đại Nghĩa, P.Bách Khoa, Hai Bà Trưng, Hà Nội",,,,
+869,Duck Coffee,"20 Ngách 2/35 Phố Hoàng Liệt, P. Hoàng Liệt, Hoàng Mai, Hà Nội",,,20.9676488,105.8355718
+870,Cơm Tấm 3 Ông Tướng - Minh Khai,"2 - TT 2A (Đối Diện 27) Ngõ 622 Minh Khai, Hai Bà Trưng, Hà Nội",,,,
+871,Tiệm Cơm 68 - Cơm Văn Phòng,"Đơn Nguyên 5, Ký Túc Xá Mỹ Đình, Nam Từ Liêm, Hà Nội",,,21.0324683,105.7656234
+872,Cơm Gia Đình Trung Kính - Cơm Văn Phòng Cao Cấp - 168 Hoa Bằng,"168 Hoa Bằng, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0252662,105.7957668
+873,Bánh Mì Que Bảo Lam - Triều Khúc,"67 Triều Khúc, Thanh Xuân, Hà Nội",,,20.9858721,105.7984255
+874,"Su Su - Nước Ép, Sinh Tố & Bánh Tráng Trộn - Khương Đình","164 Khương Đình, P.Thượng Đình, Thanh Xuân, Hà Nội",,,20.9966164,105.8136591
+875,Noémi Bakery & Tea - Trung Kính,"Số 51 Ngõ 193 Trung Kính, Cầu Giấy, Hà Nội",,,,
+876,Chicky - Cơm & Gà Rán Ăn Vặt - Đại An,"16 Ngõ 44 Đại An, P. Văn Quán, Hà Đông, Hà Nội",,,20.9798663,105.7901563
+877,Chân Gà Nộm - Trà Bí Đao & Đồ Ăn Vặt,"No06 Lk30 Khu 16 17 18 Dương Nội, P. Dương Nội, Hà Đông, Hà Nội",,,,
+878,"Bếp Dũng - Bún trộn, Miến xào & Miến trộn - Tôn Đức Thắng","28 Ngõ Thịnh Hào 1 - Tôn Đức Thắng, P. Hàng Bột, Đống Đa, Hà Nội",,,,
+879,Gà Quay & Gà Ủ Muối Hoa Tiêu PHÚC XXO - Gà Ủ Muối & Gà Quay,"28A Khương Đình, P. Thượng Đình, Thanh Xuân, Hà Nội",,,20.9966164,105.8136591
+880,Hoa Quả 88 - Phố Đông Thiên,"Số 12 Ngõ 140/70 Phố Đông Thiên, P. Vĩnh Hưng, Hoàng Mai, Hà Nội",,,,
+881,"Kim Liên - Bún, Miến & Bánh Đa Cua - Lương Định Của","116B15 Lương Định Của, TT Kim Liên, P. Kim Liên, Đống Đa, Hà Nội",,,,
+882,Bơ Juice - Nước Ép & Ăn Vặt - Xuân La,"Số 34 Ngõ 77/47 Xuân La, P. Xuân La, Tây Hồ, Hà Nội",,,,
+883,"Sam Juice - Nước Ép Detox, Trà Sữa & Đồ Ăn Vặt","7 Ngõ 850 Đường Láng, Đống Đa, Hà Nội",,,21.0197142,105.8026199
+884,"Trà Trái Cây Tươi, Phở Cuốn & Đồ Ăn Vặt - Cô Hà - Giáp Nhất","19B Ngõ 213 Giáp Nhất, P. Nhân Chính, Thanh Xuân, Hà Nội",,,21.0065244,105.8150509
+885,Tiệm Bé Xoài Nước Ép Tươi Nguyên Chất & Sinh Tố Hoa Quả,"Số 19 Ngõ 36 Đuờng Triều Khúc, P. Thanh Xuân Nam, Thanh Xuân, Hà Nội",,,,
+886,Phở Cô Tám - Chùa Láng,"Số 2 Ngõ 157 Chùa Láng, P. Láng Thượng, Đống Đa, Hà Nội",,,,
+887,Ăn Vặt 24H & Mỳ Trộn Indomie - Định Công Hạ,"Số Nhà 62 Ngõ 99/110/85 Định Công Hạ, P. Định Công, Hoàng Mai, Hà Nội",,,,
+888,Chicky - Cơm & Gà Rán Ăn Vặt - Trần Đại Nghĩa,"247 Trần Đại Nghĩa, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,20.9983161,105.8463048
+889,Y Doan - Sủi Cảo & Bánh Bao - Phùng Khoang,"Lô 10 Liền Kề 3 Ngõ 67 Phùng Khoang, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,,
+890,Cộng 84 - Cơm Thố & Cơm Đảo & Cơm Gà,"Số 60 Ngõ 508 Đường Láng, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+891,Mye Vegan - Chay Lành Mạnh & Buffet Chay - 14A Ngõ 575 Kim Mã,"14A ngõ 575 Kim Mã, P. Ngọc Khánh, Ba Đình, Hà Nội",,,21.028422,105.8093655
+892,"Chickyday - Cơm Gà, Cơm Cuộn & Đồ Ăn Vặt - Chùa Bộc","12A Chùa Bộc, P. Trung Tự, Đống Đa, Hà Nội",,,21.0065195,105.8315629
+893,Bánh Mì Xứ Lạng - Phan Bá Vành,"191 Phan Bá Vành, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội",,,21.0549876,105.77311
+894,Pizza Life - Sunshine Garden,"S05a Tòa G2 Sunshine Garden, P. Mai Động, Hoàng Mai, Hà Nội",,,,
+895,"Kencook - Gà Rán, Cơm Gà & Pizza - Nguyễn Lương Bằng","24 Ngõ 178 Nguyễn Lương Bằng, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,,
+896,Xôi Nhà Lười,"16 Ngách 8 Ngõ 216 Đê La Thành Nhỏ, P. Thổ Quan, Đống Đa, Hà Nội",,,,
+897,LEO'S Tea - Trà Sữa & Ăn Vặt,"Kiot 01 Toà T1 ĐN1 Thăng Long, Victory An khánh, X. An Khánh, Hoài Đức, Hà Nội",,,,
+898,Sành Mixup - Các Món Trộn - 76 Duy Tân,"16 Ngõ 76 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0317696,105.7838698
+899,"Mỳ Gà Tần, Gà Ủ Muối & Đồ Ăn Vặt Phương Thảo","51b Nguyễn Thái Học, P. Quang Trung, Hà Đông, Hà Nội",,,20.9728887,105.775136
+900,Cơm Văn Phòng - Phú Thắng,"29 Hạ Đình, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,20.9907473,105.8069282
+901,Chân Gà Rút Xương Sốt Thái & Ngâm Sả Tắc - Bếp Mẹ Bi,"40 Ngõ 13 Lĩnh Nam, Tòa Nhà Sunshine Palace, P. Mai Động, Hoàng Mai, Hà Nội",,,,
+902,Bún Cá Chú Quảng,"101 C6 Trần Huy Liệu, P. Giảng Võ, Ba Đình, Hà Nội",,,,
+903,"Bánh Mỳ Cay Hải Phòng, Nước Ép & Đồ Ăn Vặt Mẹ CoNan - Định Công","7 Ngõ 35 Định Công, P. Định Công, Hoàng Mai, Hà Nội",,,20.9817739,105.8296635
+904,Gà Không Lối Thoát - Mẹt Gà Muối Ngọc Ánh,"18G Ngõ 277 Quan Hoa, P. Quan Hoa, Cầu Giấy, Hà Nội",,,,
+905,HETY - Bún Thịt Nướng - Mai Dịch,"TT Văn Công Mai Dịch, Ngõ 165 Mai Dịch, P. Mai Dịch, Cầu Giấy, Hà Nội",,,,
+906,"Bao Bao - Cơm Xá Xíu, Mỳ Chua Cay & Cháo Ếch - 213 Xã Đàn","213 Xã Đàn, P. Nam Đồng, Đống Đa, Hà Nội",,,21.0160511,105.8319417
+907,Nem Nướng Nha Trang - Phở Cuốn Bún Trộn 99,"395 Vũ Hữu, P.Trung Văn, Thanh Xuân, Hà Nội",,,20.9924569,105.7958517
+908,"Tiệm Nhà Liên - Phở Cuốn, Trà Thái & Nước Ép","9/2/73 Yên Xá, X. Tân Triều, Thanh Trì, Hà Nội",,,,
+909,Thắm Juice Healthy - Nước Ép Nguyên Chất & Sinh Tố,"Số 21 Ngõ 68 Phố Cầu Am, P. Vạn Phúc, Hà Đông, Hà Nội",,,,
+910,Chi Cha - Xôi & Bánh Mỳ Phố - Vĩnh Tuy,"Ki-ốt 4E Ngõ 124 Vĩnh Tuy, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,,
+911,"Xôi Thị Kha - Thịt, Chả & Bánh Khúc - 54A Nguyễn Chí Thanh","54A Nguyễn Chí Thanh, P. Láng Thượng, Đống Đa, Hà Nội",,,21.0234486,105.8093273
+912,Ăn Vặt Thị Tóp,"4 Ngõ 100 An Xá, P. Phúc Xá, Ba Đình, Hà Nội",,,,
+913,Nem Nướng Nha Trang Vân Linh - Dương Khuê,"Số 23 ngõ 4/3, Phố Dương Khuê, P. Mai Dịch, Cầu Giấy, Hà Nội",,,,
+914,ChaoSiam Trà - Cafe Ấm Đất Nung - Lê Đại Hành,"41 Lê Đại Hành, P. Lê Đại Hành, Hai Bà Trưng, Hà Nội",,,21.0102232,105.8495127
+915,Tiệm Gà Rán Tê Tê Hàn Quốc,"Số 1C2 Ngõ 261 Phố Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+916,Cơm Tấm Ba Miền - Tây Mỗ - Shop Online,"Số 2B Ngách 52 Ngõ 43 Phố Cầu Cốc, P. Tây Mỗ, Nam Từ Liêm, Hà Nội",,,,
+917,Dè Cube - Trà Sữa & Bánh Mì Nướng Muối Ớt,"Số Nhà 34 Ngõ 116 Miếu Đầm, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,,
+918,Bún Riêu Cua & Bún Cá - Hiền Linh - Ngõ 2 Nguyễn Chánh,"17 Ngõ 2 Nguyễn Chánh, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0088277,105.7953761
+919,LQS - Chuyên Bún Bò Huế & Cơm Rang Giòn - Trường Chinh,"40 Ng. 102 Trường Chinh, P. Phương Đình, Đống Đa, Hà Nội",,,,
+920,Tanka Quán - Chân Gà Nướng & Cánh Gà Nướng - Đê La Thành,"683 Đê La Thành, P. Thành Công, Ba Đình, Hà Nội",,,21.0241058,105.8141709
+921,Cơm Niêu Minh Nhật,"59 Ngõ 14 Mễ Trì Hạ, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,21.0106026,105.7836586
+922,"Đồ Ăn Nhanh Hàn Quốc - Đùi Gà Chiên Sốt, Gà Viên Chiên & Tokbokki","Ngõ 159/37 Phùng Khoang, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,,
+923,"Bánh Mì Muối Ớt Hana - Mì Trộn, Bánh Tráng & Đồ Ăn Vặt - Shop Online","Số 4 ngõ 248 Trần Cung, P. Cổ Nhuế 1, Bắc Từ Liêm, Hà Nội",,,,
+924,Pain Lee - Cơm Gạo Lứt & Salad Healthy - Nguyễn Xiển,"30 Ngõ 161 Nguyễn Xiển, P. Hạ Đình, Thanh Xuân, Hà Nội",,,20.9869735,105.80745
+925,Pain Lee - Cơm Gạo Lứt & Salad Healthy - Nguyễn Thị Định,"35 Ngõ 1 Nguyễn Thị Định, P. Trung Hoà, Cầu Giấy, Hà Nội",,,21.0134926,105.8038092
+926,Chân Gà Rút Xương Ngâm Sả Tắc & Sốt Thái - Tiệm Nhà Sum - Quỳnh Đô,"Xóm 1 Quỳnh Đô, Xã Vĩnh Quỳnh, Thanh Trì, Hà Nội",,,,
+927,Bún Chả Obama - Duy Tân,"Số 9 Ngõ 11 Duy Tân, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0295322,105.7840626
+928,Hoa Quả Dầm Mai Linh - Xoài Cóc Dứa - Ngọc Hồi,"Số Nhà 16 Xóm A7 Ngách 298/137 Đường Ngọc Hồi, Thôn Yên Ngưu, Xã Tam Hiệp, Thanh Trì, Hà Nội",,,,
+929,Mì Trộn Tương Đen & Bánh Mỳ Ba Miền - Đường Nguyễn Khánh Toàn,"2 Ngõ 92/8 Đường Nguyễn Khánh Toàn , Cầu Giấy, Hà Nội",,,,
+930,MIHAVA Food - Mì Trộn Indomie & Đồ Ăn Vặt - Văn Hương,"4 Ngách 69 Ngõ Văn Hương, P.Hàng Bột, Đống Đa, Hà Nội",,,,
+931,Chè Bưởi Tâm Hương - 253 Định Công,"253 Định Công, Hoàng Mai, Hà Nội",,,20.9826495,105.8291858
+932,Nem Nướng Nha Trang Tiệp Béo - Nem Nướng Nha Trang - Thái Thịnh 1,"66 Ngõ Thái Thịnh 1, P. Thịnh Quang, Đống Đa, Hà Nội",,,21.009009,105.8158545
+933,"Papa's Kitchen - Đồ Ăn Hàn Quốc & Tokbokki, Cơm Trộn - Ngõ Hòa Bình 4","Số 14 Ngách 49 Ngõ Hòa Bình 4, P. Minh Khai, Hai Bà Trưng, Hà Nội",,,,
+934,Thanh Hương - Tea & Coffee,"Kiot 25 Chợ Mới Phú Diễn, Ngõ 193 Phú Diễn, P. Phú Diễn, Bắc Từ Liêm, Hà Nội",,,,
+935,Trà Sữa Mynee - Olong Tây Bắc Đậm Vị,"77 Hoàng Cầu, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,21.0190975,105.8237107
+936,Cơm Rang - Bún Cá Cay - 33 Ngõ Hoà Bình 7,"33 Ngõ Hoà Bình 7, Hai Bà Trưng, Hà Nội",,,20.9967064,105.8566072
+937,Thịt Quay & Vịt Quay - Giang Nam - Phố Quan Nhân,"47 Quan Nhân, P. Nhân Chính, Thanh Xuân, Hà Nội",,,21.0024906,105.8113963
+938,Bếp Nhà Bống - Cơm Rang & Phở Xào - Lê Trọng Tấn,"72 Ngõ 3 Lê Trọng Tấn, P. La Khê, Hà Đông, Hà Nội",,,,
+939,"Tê Tê ChicKen - Gà Rán, Gà Ủ Muối & Cơm Cuộn","162 Ngõ 8 Lê Quang Đạo, P. Phú Đô, Nam Từ Liêm, Hà Nội",,,21.0143146,105.7669184
+940,CHÚT - Bún Hải Sản - Nguyên Hồng,"Ngõ 34 Nghách 2 Nhà 6B Nguyên Hồng, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+941,RedFood - Ăn Vặt 1 Lần Nghiện 1 Đời - Geleximco,"B8-27 Khu B Geleximco ( Đường Lê Trọng Tấn ), P. Dương Nội, Hà Đông, Hà Nội",,,,
+942,Lợi Foods - Lẩu Thái - 1A Phương Canh,"Số 1A Phương Canh, P. Xuân Phương, Nam Từ Liêm, Hà Nội",,,,
+943,Cơm Gà 68 - Yên Phúc,"48 Yên Phúc, P. Phúc La, Hà Đông, Hà Nội",,,20.9703073,105.7885894
+944,Hách Vịt - Vịt Quay Tứ Xuyên & Canh Măng Tiết - Đường Kim Giang,"Số Nhà 20 Ngõ 788/11/8 Đường Kim Giang, X. Thanh Liệt, Thanh Trì, Hà Nội",,,,
+945,"Cô Ly Bé - Mỳ Cay, Mỳ trộn Indomie & Viên Chiên - Phú Viên","100 Ngõ 1 Phú Viên, P. Bồ Đề, Long Biên, Hà Nội",,,21.0380976,105.8680695
+946,"Ăn Cùng Eml Trứng - Đồ Ăn Vặt, Mỳ Trộn & Trà Trái Cây - Yên Lãng","Số 4 Ngõ 181 Yên Lãng, P. Thịnh Quang, Đống Đa, Hà Nội",,,21.0090417,105.8154893
+947,"Mọng Quán - Xiên Chiên, Mỳ Trộn & Bánh Mì - Trần Quốc Vượng","Số 83 Ngõ 63 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+948,Bom Bốp - Bún Đậu Mơ,"27 Ngõ 1 Nguyễn Thị Định, P. Trung Hòa, Cầu Giấy, Hà Nội",,,21.0136348,105.8035158
+949,Comi ChefHome - Cơm Xá Xíu & Mỳ Gà Quay - Lê Văn Hiến,"6 Ngõ 56/16 Lê Văn Hiến, P. Đông Ngạc, Bắc Từ Liêm, Hà Nội",,,,
+950,"Ăn Vặt Nhà Trang - Ăn Vặt, Đồ Ăn Nhanh & Đồ Uống - Ngõ 26 Hoàng Cầu","Số 16 Ngõ 26 Hoàng Cầu, P. Ô Chợ Dừa, Đống Đa, Hà Nội",,,21.0196915,105.8245987
+951,Xiên Que Trung Hoa & Thịt Xiên Nướng BBQ - Bếp Nguyệt,"116 K9 Bách Khoa, P. Bách Khoa, Hai Bà Trưng, Hà Nội",,,,
+952,Walla Juice - Nước Ép Tươi Ngon Hàng Ngày - Đường Bưởi,"Số Nhà 11 Ngách 376/35/2 Đường Bưởi, P. Vĩnh Phúc, Ba Đình, Hà Nội",,,,
+953,Bánh Mì Sài Gòn - 341 Ngọc Lâm,"341 Ngọc Lâm, P. Ngọc Lâm, Long Biên, Hà Nội",,,21.0432386,105.869109
+954,"Cơm Gà 8x - Phở, Bún & Cơm Gà - Dương Khuê","38 ngõ 60 Dương Khuê, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,21.0348828,105.7721189
+955,Cơm Tấm Sườn Cay & Cơm Gà Nướng Lu - Cơm Thố Tỷ Đô,"7 Ngách 30 Ngõ 165 Thái Hà, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+956,"Tiệm Gà Đức Viên - Gà Ủ Muối, Gà Hun Khói Và Bánh Gà - Dương Văn Bé","71D/198 Dương Văn Bé, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,,
+957,"Chân Gà Sả Tắc, Chân Gà Sốt Thái - Nc Food","Số Nhà 61 Ngõ 52 Mỹ Đình, Nam Từ Liêm, Hà Nội",,,21.0285889,105.7748964
+958,Kaio - Ở Đây Chúng Tôi Có Matcha,"1B Ngõ 392 Mỹ Đình, P. Mỹ Đình 2, Nam Từ Liêm, Hà Nội",,,,
+959,"Tùng Food- Gỏi Cuốn, Bún Trộn & Mì Trộn","51 Ngõ 99 Cầu Diễn, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội",,,21.0450596,105.7504728
+960,Chef Đăng - Thịt Quay Plus CS1,"67C Hoàng Văn Thái, P. Khương Mai, Thanh Xuân, Hà Nội",,,20.9968956,105.8248437
+961,Cuốn Xưa - Phở Cuốn Hà Thành - Tân Mai,"32 ngõ 223 Tân Mai, P. Tân Mai, Hoàng Mai, Hà Nội",,,20.9808558,105.8504428
+962,Tiệm Gà Ò Ó O - Gà Ủ Muối & Gà Hun Khói,"34 Ngõ 90 Yên Lạc, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,21.0012657,105.8643437
+963,Gà Tần & Mì Gà Tần - Tô Hiệu,"109C9B Ngõ 26 Tô Hiệu, P. Nghĩa Tân, Cầu Giấy, Hà Nội",,,,
+964,Gà Tần & Mì Chua Cay Tim Cật - 4I,"102 A3 Ngõ 102 Tập Thể Bộ Công An Nguyễn Huy Tưởng, P. Thanh Xuân Trung, Thanh Xuân, Hà Nội",,,,
+965,"Trà Chanh Dương Dương - Mì Cay, Tokbokki - Shop Online","15 Ngõ 2A Nguyên Hồng, P. Thành Công, Ba Đình, Hà Nội",,,,
+966,"Mieso Food - Gà Rán, Gà Luộc & Gà Ủ Muối - An Dương","51 An Dương, P. Yên Phụ, Tây Hồ, Hà Nội",,,21.0554118,105.8376641
+967,Cơm Chay Lý Sơn - Shop Online,"37 Ngõ 46 Phạm Ngọc Thạch (57 Ngõ 29 Xã Đàn), P. Phương Liên, Đống Đa, Hà Nội",,,,
+968,Gà Luộc & Gà Ủ Muối - Hẻm 65 Định Công Hạ,"27 Ngõ 99 Ngách 110 Hẻm 65 Định Công Hạ, P. Định Công, Thanh Xuân, Hà Nội",,,,
+969,Gà Luộc & Gà Ủ Muối - Định Công Hạ,"32 Hẻm 65 Ngách 110 Ngõ 99 Định Công Hạ , P. Định Công, Hoàng Mai, Hà Nội",,,,
+970,Trúc Vy - Xôi Mặn & Bánh Mì,"Số 2 Ngách 42/53 Xuân Đỉnh, P. Xuân Tảo, Bắc Từ Liêm, Hà Nội",,,,
+971,Bún Đậu Mắm Tôm & Chân Gà Cô Loan,"101 Ngõ 50 Mễ Trì Thượng, Nam Từ Liêm, Hà Nội",,,21.0051753,105.7794526
+972,Cơm Tấm Bà Tâm - Tố Hữu,"25 Galaxy 3 Tố Hữu, P. Vạn Phúc, Hà Đông, Hà Nội",,,,
+973,Cơm Gà Giòn Booby - Trần Đại Nghĩa,"28 Ngõ 183 Trần Đại Nghĩa, P. Bách Khoa, Hai Bà Trưng, Hà Nội",,,,
+974,Tiger Suger Trần Quốc Hoàn - Trà Sữa - Trần Quốc Hoàn,"1C2B Ngõ 261 Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0413758,105.7817115
+975,Tiệm Gà Rán Toki - Nguyễn Chính,"7 Ngõ 74 Nguyễn Chính, P. Tân Mai, Hoàng Mai, Hà Nội",,,,
+976,Mỏ Khoét Quán - Cơm Gà Sốt Cay Hàn Quốc - Bùi Xương Trạch,"15 Ngách 7 Ngõ 207 Bùi Xương Trạch, P. Khương Đình, Thanh Xuân, Hà Nội",,,,
+977,"Bếp Chị Bé - Chân Gà, Nem Chua Rán & Viên Chiên Ăn Vặt Ngon","193 Hàng Bông, Hoàn Kiếm, Hà Nội",,,21.0288036,105.8458912
+978,"CITI FOOD - Mì Ý, Mì Trộn & Mì Indomie","36 Lương Văn Can, P. Hà Cầu, Hà Đông, Hà Nội",,,20.9671659,105.7768358
+979,Trường An - Cơm Tấm Sườn Bì - 361 Nguyễn Khang,"361 Nguyễn Khang, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0197045,105.8010217
+980,"Gấu Ú - Ăn Vặt, Bánh Mì Cay & Nem Chua Rán - Yên Hoà","229 Yên Hoà, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0232653,105.7954824
+981,Lòng Trần Cháo - Phở Gà & Bún Đậu Mẹt - Mễ Trì Thượng,"99 Ngõ 50 Mễ Trì Thượng, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,21.0051753,105.7794526
+982,Mì Tim Cật Chua Cay Phương Anh,"44 Ngõ 9 Võ Chí Công, P. Nghĩa Đô, Cầu Giấy, Hà Nội",,,,
+983,"Hải Yến Foods - Đồ Ăn Nhanh, Viên Chiên & Gà KFC - Võ Quý Huân","Số 2 Ngõ 5 Võ Quý Huân, P. Phúc Diễn, Bắc Từ Liêm, Hà Nội",,,,
+984,Bánh Tráng Nướng - Tiệm Ăn Vặt BUSAN - Đỗ Đức Dục,"Số 23 Ngách 110 Ngõ 32 Đỗ Đức Dục, Nam Từ Liêm, Hà Nội",,,,
+985,Bún Chả Obama,"Số 6 Ngách 12 Ngõ 43 Cầu Cốc, P. Tây Mỗ, Nam Từ Liêm, Hà Nội",,,,
+986,Cơm Rang Đệ Nhất,"67 Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0423089,105.7868461
+987,Cháo Sườn Sụn 88 - Triều Khúc,"23 Ngõ 42 Triều Khúc, P. Thanh Xuân, Thanh Xuân, Hà Nội",,,20.9857112,105.798085
+988,Xôi Làng Quỳnh - Xôi & Cơm Văn Phòng Online,"Số 40B Ngõ 98 Phố Chùa Quỳnh, P. Bạch Mai, Hai Bà Trưng, Hà Nội",,,,
+989,Đức Trọc - Cơm Rang & Bánh Tráng Cuốn Thịt Heo - Đỗ Đức Dục,"Số Nhà 21 Nghách 110 Ngõ 32 Đỗ Đức Dục, Nam Từ Liêm, Hà Nội",,,,
+990,Huy Ốc Quán - Bún Chả & Ốc Nóng - Phú Lương,"Nhà 114, Đường Phú Lương, Hà Đông, Hà Nội",,,,
+991,Quán Bún Đại Lộ - Đại Lộ Thăng Long,"CT3B Đầu Ngõ 10 Đại Lộ Thăng Long, Nam Từ Liêm, Hà Nội",,,,
+992,Gugsumi - Cơm Gà Đúng Điệu - Trần Quốc Vượng,"91 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0335507,105.7827829
+993,Bếp Còi - Chuyên Heo - 94 Lĩnh Nam,"94 Lĩnh Nam, P. Mai Động, Hoàng Mai, Hà Nội",,,20.9904587,105.8663251
+994,Chủ Quán Nghiện Bún Đậu - Quán Nhậu - 376 Bưởi,"Số 48 Ngõ 376 Bưởi, Ba Đình, Hà Nội",,,,
+995,"MeoFood - Mì Trộn Indomie, Mì Chua Cay Tim Cật & Chân Gà Sốt Thái - 27 Lai Xá","Số Nhà 6 Ngách 8 Ngõ 27 Lai Xá, Hoài Đức, Hà Nội",,,,
+996,"Sinh Nhật Yến Nhi Bakery - Bánh Sinh Nhật, Bánh Ngọt & Bánh Ăn Vặt - CT4A KĐT Xa La","CT4A KĐT Xa La, P. Phúc La, Hà Đông, Hà Nội",,,,
+997,Miến Trộn Thập Cẩm & Ăn Vặt Bông Mewww,"Số Nhà 17, Ngách 144, Ngõ 250/80 Phan Trọng Tuệ, Thanh Trì, Hà Nội",,,,
+998,Delicious Pizza - Fast Food & Bún Trộn,"149A Bạch Đằng, P. Chương Dương Độ, Hoàn Kiếm, Hà Nội",,,,
+999,Nem Nướng Nha Trang - 2T - Trung Hòa,"Số 2, ngõ 154 Trần Duy Hưng, Cầu Giấy, Hà Nội",,,21.0100316,105.7983958
+1000,"Tiệm Ăn N.01 - Đồ Ăn Hàn Quốc, Mỳ Trộn Các Loại & Mỳ Chua Cay","Số 5 ngách 30 ngõ 162b Tôn Đức Thắng, P. Hàng Bột, Đống Đa, Hà Nội",,,,
+1001,Bánh Mì КЕВВР TORKI - Phúc Diễn,"195 Phúc Diễn, Nam Từ Liêm, Hà Nội",,,21.0289957,105.7566889
+1002,Tiệm Tốc - Đồ Ăn Hàn Quốc Và Cơm Trộn - Sông Nhuệ,"197B Sông Nhuệ, P. Đức Thắng, Bắc Từ Liêm, Hà Nội",,,21.0751097,105.7721054
+1003,"HANSIK SARANG - Gà Rán, Kimbap & Tokbokki","45 Đường Giải Phóng, P. Đồng Tâm, Hai Bà Trưng, Hà Nội",,,21.0011852,105.8414183
+1004,Tiệm Gà Rán ChiPi - Hồ Tùng Mậu,"Số 30 Ngõ 199 Hồ Tùng Mậu, P. Cầu Diễn, Nam Từ Liêm, Hà Nội",,,21.0393789,105.7634773
+1005,Dương - Cơm Tấm Sài Gòn,"3 Ngõ 6 Ao Sen, P. Mộ Lao, Hà Đông, Hà Nội",,,20.9821665,105.7876578
+1006,Ốc Bà Điền - Bún Ốc & Lẩu Ốc - 33 Sài Đồng,"33 Sài Đồng, P. Sài Đồng, Long Biên, Hà Nội",,,21.0366245,105.9100542
+1007,Đệ Nhất Cơm Rang & Mỳ Xào - Lẩu Thái Tomyum - Thái Hà,"218 B1 Ngõ 364 Thái Hà, P. Trung Liệt, Đống Đa, Hà Nội",,,,
+1008,"Coy's Kitchen - Cơm Đảo Gà Nướng, Chân Gà & Ăn Vặt Online - Bà Triệu","Ngõ Hoa Niên, 56 Bà Triệu, P. Hàng Bài, Hoàn Kiếm, Hà Nội",,,,
+1009,IVinaHub Cafe Workshop - 252B Âu Cơ,"252B Âu Cơ, Tây Hồ, Hà Nội",,,21.0768252,105.8209626
+1010,Quán Cơm 35k - Tôn Đức Thắng,"Số 20 Ngõ Thịnh Hào 1, Tôn Đức Thắng, P. Hàng Bột, Đống Đa, Hà Nội",,,,
+1011,Bún Đậu Làng Mơ Bonbon - Hà Trì,"No35 LK21 Hà Trì, P. Hà Cầu, Hà Đông, Hà Nội",,,,
+1012,"Panana Korea - Lẩu, Mỳ Cay & Trà Sữa - Shop Online","114, Phố Trung Tựu , Bắc Từ Liêm, Hà Nội",,,21.062313,105.736026
+1013,Panda Food - Mỳ Trộn & Đồ Ăn Vặt - Đức Giang,"20 Ngách 99/47 Đức Giang (Cửa Hàng Tạp Hoá Bình Hạnh), P. Thượng Thanh, Long Biên, Hà Nội",,,,
+1014,Bánh Mì Khói - 320 Mỹ Đình,"320 Mỹ Đình, Nam Từ Liêm, Hà Nội",,,21.0225099,105.7745777
+1015,Bún Chả & Nem Cua Bể - Yên Hòa,"67 Yên Hòa, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0157781,105.7967178
+1016,"Tiến Trang - Xoài, Cóc & Đồ Ăn Vặt - Shop Online","Số 4 Ngách 77 Ngõ 260 Cầu Giấy, Cầu Giấy, Hà Nội",,,,
+1017,Cơm Thố - Dương Nội,"C07- 39 Geleximco Lê Trọng Tấn, Hà Đông, Hà Nội",,,,
+1018,Tiến Vịt - Vịt Nướng - Minh Khai,"134D, Ngõ 254 Minh Khai, P. Mai Động, Hoàng Mai, Hà Nội",,,20.9938289,105.8582321
+1019,Bánh Canh & Cua Cà Mau - Văn Quán,"Chung Cư CT2 Viện 103, P. Văn Quán, Hà Đông, Hà Nội",,,,
+1020,"Phở Lành - Phở, Cơm, Lẩu Gà - KĐT Terra An Hưng","Số nhà V7, B05 KĐT Terra An Hưng, P. La Khê, Hà Đông, Hà Nội",,,,
+1021,Gumbok Gà Rán Hàn Quốc - Vũ Phạm Hàm,"102 Vũ Phạm Hàm, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0183219,105.7989769
+1022,Vịt Quay Tài Vinh - Dương Quảng Hàm,"61 Dương Quảng Hàm, P. Quan Hoa, Cầu Giấy, Hà Nội",,,21.0377036,105.8003769
+1023,"MiNi Food - Mì Trộn Indomie, Mì Cay & Đồ Ăn Vặt - Trâu Quỳ","Số 3 Ngõ 52 Đường Trâu Quỳ, TT. Trâu Quỳ, Gia Lâm, Hà Nội",,,21.0069238,105.9366122
+1024,Bếp Nhà Sữa - Đồ Ăn Hàn Quốc - Mễ Trì Hạ,"Số 22 Ngách 59/130 Mễ Trì Hạ, P. Mễ Trì, Nam Từ Liêm, Hà Nội",,,,
+1025,Neko Takoyaki - Bánh Bạch Tuộc - Lê Văn Hiến,"Đối Diện 87 Lê Văn Hiến, P. Đức Thắng, Bắc Từ Liêm, Hà Nội",,,,
+1026,Xôi Bà Hiền - Xôi Thịt Nóng - Minh Khai,"25 Ngõ 622 Minh Khai, Hai Bà Trưng, Hà Nội",,,20.9966362,105.8710045
+1027,Chân Gà Sả Tắc - Bếp Nhà 35 - Láng Hạ,"Số Nhà 35, Ngách 8, Ngõ 105 Láng Hạ, Đống Đa, Hà Nội",,,,
+1028,Đỗ Đạo Đức - Quán Cơm Và Nước Ép - Lệnh Cư,"37 Hẻm 17 Ngách 22 Ngõ Lệnh Cư, Đống Đa, Hà Nội",,,,
+1029,Tiệm Cơm Phong Thành Quán,"Nhà I Số 106B Khu Tập Thể Vĩnh Phúc, P.Vĩnh Phúc, Ba Đình, Hà Nội",,,,
+1030,"Bé Mina Food - Bánh Gà, Nem Chua Rán & Xiên Ăn Vặt - Shop Online","Số 1 Ngõ 161 Hoa Lâm, P. Việt Hưng, Long Biên, Hà Nội",,,,
+1031,Bánh Tráng Trộn Hồng Quân & Đồ Ăn Vặt - Nguyễn Khuyến,"96 Nguyễn Khuyến, P. Văn Miếu, Đống Đa, Hà Nội",,,21.028482,105.837812
+1032,Cô Hương - Bánh Đa Trộn - Ngọc Hà,"Số 3 Ngõ 21 Ngọc Hà, Ba Đình, Hà Nội",,,,
+1033,Bánh Mì Phố - Láng Hạ,"109 Láng Hạ, Bên Trong Cửa Hàng Bit Tết 3 Hòe Nhai, P. Láng Hạ, Đống Đa, Hà Nội",,,,
+1034,"King Kong Quán - Lẩu Ly, Mì Trộn & Thế Giới Đồ Ăn Vặt - Phúc Lợi","29 Ngõ 193 Tổ 3 Phúc Lợi, P. Phúc Lợi, Long Biên, Hà Nội",,,,
+1035,Mì Gà Tần & Chân Gà Lắc - Quán Ăn Đêm Sen - Láng,"Số 2 Ngõ 942 Đường Láng, P. Láng Thượng, Đống Đa, Hà Nội",,,21.0220689,105.8011295
+1036,"Mẹ Miu - Gà Rán, Khoai Lắc & Trà Sữa - Trần Quốc Hoàn","199 Trần Quốc Hoàn, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,21.0411435,105.7840202
+1037,"Bún Đậu Mẹt, Cơm Ngon & Nem Tươi Hải Phòng - Tân Khai","Số 7 Ngõ 150 Tân Khai, P. Vĩnh Hưng, Hoàng Mai, Hà Nội",,,,
+1038,Lẩu Nấm Hoàng Gia - Sushi - CT5 Sông Đà,"Toà nhà CT5 Sông Đà, KĐT Mỹ Đình, P. Mỹ Đình 1, Nam Từ Liêm, Hà Nội",,,,
+1039,Mỳ Tống - Mỳ Vịt Quay Quảng Đông - Doãn Kế Thiện,"Số 44 Doãn Kế Thiện, P. Mai Dịch, Cầu Giấy, Hà Nội",,,,
+1040,Dì Cẩm - Bún Thịt Nướng Hội An - Doãn Kế Thiện,"44 Doãn Kế Thiện, P. Mai Dịch, Cầu Giấy, Hà Nội",,,21.0413967,105.7778717
+1041,Oishii - Cơm Bò Quốc Dân Nhật Bản - Minh Khai,"461 Minh Khai, P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,20.9968384,105.8695815
+1042,Bún Cá Cay Hải Phòng - Mạc Thái Tổ,"P107 29 Mạc Thái Tổ, P. Yên Hòa, Cầu Giấy, Hà Nội",,,21.0181049,105.7920217
+1043,Bà Rơm – Bún nem nướng Nha Trang – Minh Khai,"461 Minh Khai , P. Vĩnh Tuy, Hai Bà Trưng, Hà Nội",,,20.9968384,105.8695815
+1044,Nam An - Cơm gà Hội An - Láng Hạ,"29 Ngõ 5 Láng Hạ, P. Thành Công, Ba Đình, Hà Nội",,,21.0218672,105.8195498
+1045,Chicken88 - Nguyễn Văn Lộc,"Số 18 LK6D Làng Việt Kiều Châu Âu, Nguyễn Văn Lộc, P.Mộ Lao, Hà Đông, Hà Nội",,,,
+1046,Tiệm Sữa Hạt Mr.Đậu - 66 Nguyễn Bặc,"Số 66 Nguyễn Bặc, Xã Tứ Hiệp, Thanh Trì, Hà Nội",,,,
+1047,SAM - Trà Sữa & Trà Trái Cây Pha Máy Đậm Vị,"15 - LK 17 KĐT Văn Khê, Hà Đông, Hà Nội",,,,
+1048,Bún Đậu & Bún Riêu Cua Lê Gia - Ao Sen,"19 Ngõ 2 Ao Sen, P. Mộ Lao, Hà Đông, Hà Nội",,,20.981458,105.7883192
+1049,"Bếp Chân Mây - Cơm, Xôi & Cháo - Huỳnh Văn Nghệ","Hướng Dương 5-1 Vinhomes Riverside Huỳnh Văn Nghệ, Long Biên, Hà Nội",,,,
+1050,Xiên Nướng Đông Quỳnh - Thịt Xiên Nướng - Hoàng Tăng Bí,"Số 6 Hoàng Tăng Bí, Bắc Từ Liêm, Hà Nội",,,21.0819031,105.7842532
+1051,Mì Đêm - Ợ Quán - Yên Xá,"Số 147 Yên Xá, Xã Tân Triều, Thanh Trì, Hà Nội",,,20.969208,105.7961578
+1052,TOKBOKKI OPPA - Ẩm Thực Đường Phố Hàn Quốc - Số 9B Chợ Gạo,"Số 9B Phố Chợ Gạo, Hoàn Kiếm, Hà Nội",,,,
+1053,Linlala - Juice Healthy - Văn Cao,"7 Ngõ 127/15/1 Văn Cao, P. Liễu Giai, Ba Đình, Hà Nội",,,,
+1054,Tào Phớ Kim - Đồ Ăn Vặt,"Sảnh Tầng 1, Tòa Nhà CT3, Khu Đô Thị Mới The Pride Anh Hưng, Đường Lê Văn Lương, P. La Khê, Hà Đông, Hà Nội",,,,
+1055,NYPYDY FOOD - Tré Trộn & Món Ăn Vặt - Hoàng Mai,"OCT1 DN1 Bắc Linh Đàm, Hoàng Mai, Hà Nội",,,,
+1056,Bánh Mỳ Ngọc Hinh - 51 Hàng Giấy,"51 Hàng Giấy, P. Đồng Xuân, Hoàn Kiếm, Hà Nội",,,21.0391353,105.8481538
+1057,Cơm Cari Hàn Quốc - Nguyễn Văn Lộc,"12 16A3 Làng Việt Kiều Châu Âu, Hà Đông, Hà Nội",,,,
+1058,"Bếp Hương Food - Nem Nướng Nha Trang, Mì Trộn Indomie & Đồ Ăn Vặt - Trần Quốc Vượng","Số 2 Ngõ 62 Trần Quốc Vượng, P. Dịch Vọng Hậu, Cầu Giấy, Hà Nội",,,,
+1059,Hương Hội An - Cơm Gà Hội An - 213 Thanh Nhàn,"213 Thanh Nhàn, P. Thanh Nhàn, Hai Bà Trưng, Hà Nội",,,21.002969,105.8528621
+1060,Tiệm Bánh Mì Ngon - Đồ Ăn Vặt Và Trà Sữa - Lê Quang Đạo,"118B Lê Quang Đạo, Nam Từ Liêm, Hà Nội",,,20.9938485,105.7688184
+1061,Mr. Thịnh - Gà Rán & Trà Sữa - Yên Nghĩa,"32 Ngõ 87 Yên Lộ, P. Yên Nghĩa, Hà Đông, Hà Nội",,,,
+1062,Mộc Quán - Ngọc Hồi,"Số 1 Ngõ 79 Đường Ngọc Hồi, P. Hoàng Liệt, Hoàng Mai, Hà Nội",,,,
+1063,Thuỳ Linh - Cháo Dinh Dưỡng - Định Công,"229 Phố Định Công, P. Định Công, Hoàng Mai, Hà Nội",,,20.9820946,105.8324839
+1064,Sữa Chua Trân Châu Hạ Long Healthy - Cổ Linh,"Số 48 Ngõ 103 Cổ Linh, P. Thạch Bàn, Long Biên, Hà Nội",,,,
+1065,"Xôi Ngon Thanh Mai - Xôi Xéo Gia Truyền, Bánh Giò Nóng - Quan Nhân","Ngõ 144/8/10 Quan Nhân, Thanh Xuân, Hà Nội",,,21.0039422,105.8087899
+1066,Tun Bán Mỳ - Thức Ăn Nhanh & Trà - 273 Bạch Mai,"273 Bạch Mai, Hai Bà Trưng, Hà Nội",,,21.0004767,105.8517351
+1067,"Phê - Trà Sữa Đậm Vị, Trà Trái Cây & Matcha Latte - Lương Thế Vinh","14 Ngõ A7 Trong Ngõ 165 Lương Thế Vinh, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,,
+1068,"Liên Toàn - Bún, Phở & Bánh Đa - 212 Ỷ La","Số 212 Đường Ỷ La, P. Dương Nội, Hà Đông, Hà Nội",,,,
+1069,Muối - Matcha & Trà Sữa - Dương Quảng Hàm,"99 Ngõ 165 Dương Quảng Hàm, Cầu Giấy, Hà Nội",,,21.0369138,105.799493
+1070,Tiệm Mỳ Nhà Bon - Mỳ Cay & Mỳ Xào,"329 Lương Thế Vinh, P. Trung Văn, Nam Từ Liêm, Hà Nội",,,20.9936508,105.7937369
+1071,Cháo Sườn & Cháo Đậu Cà Muối - Bà Hoa - Lý Nam Đế,"Số Nhà 28 Ngõ 3 Khu Tập Thể 16A - Lý Nam Đế, P. Hàng Mã, Hoàn Kiếm, Hà Nội",,,,
+1072,Cơm Gà Xối Mỡ & Cơm Văn Phòng - LK 23 Khu Sông Công,"LK23 Khu Thương Mại Sông Công Hà Trì, Đường Hà Trì, P. Hà Cầu, Hà Đông, Hà Nội",,,,
+1073,Cuốn Kingfood - Gỏi Cuốn Mắm Me & Nem Nướng Nha Trang - Phú Thượng,"7 Ngõ 170 Phố Phú Thượng, P. Phú Thượng, Tây Hồ, Hà Nội",,,21.0893642,105.7925224
+1074,Bếp Chị Trang - Bánh Mì Muối Ớt & Mì Trộn Indomie - Ô Cách,"90 Ô Cách, Long Biên, Hà Nội",,,21.0590046,105.8967123
